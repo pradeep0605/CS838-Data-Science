@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+<center> ## Welcome to GitHub Pages </center>
 
 You can use the [editor on GitHub](https://github.com/pradeep0605/CS838-Data-Science/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -8,6 +8,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
+# Authors of the project : Pradeep Kashyap Ramaswamy, Sharath Prabhudeva Hiremath, Sowrabha Horatti Gopal
 ```markdown
 Syntax highlighted code block
 
