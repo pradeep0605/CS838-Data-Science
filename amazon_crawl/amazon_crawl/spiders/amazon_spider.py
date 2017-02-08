@@ -6,25 +6,22 @@ import scrapy
 from goodreads_crawl.items import GoodreadsCrawlItem
 
 class GoodreadsScrawler(Spider) :
-    name = "goodreads_crawl"
-    allowed_domains = ["goodreads.com"]
+    name = "amazon_crawl"
+    allowed_domains = ["amazon.com"]
     #Comprehension to list all the pages that we want
-    start_urls = [("https://www.goodreads.com/list/show/7.Best_Books_of_the_21st_Century?page=" + str(i)) for i in range(1,71)]
-    site_url = "https://www.goodreads.com"
+    start_urls = ["https://www.amazon.com/gp/bestsellers/books/ref=sv_b_2"]
+    site_url = "https://www.amazon.com"
     
     def parse(self, response):
         hxs = Selector(response)
-        rows = hxs.xpath("//tr//td/a/@href")
+        rows = hxs.xpath('//*[@id="zg_browseRoot"]/ul/ul//li//a/text()')
         
-        links = []
         for row in rows:
-            book_url = self.site_url +  row.extract()
-            links.append(book_url)
-            print(book_url)
+            print(row.extract())
         
-        for link in links:
-            request = scrapy.Request(link, callback=self.parse_bookinfo)
-            yield request
+        #for link in links:
+        #    request = scrapy.Request(link, callback=self.parse_bookinfo)
+        #   yield request
 
 
     def parse_bookinfo(self, response):
