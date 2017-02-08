@@ -1,0 +1,1 @@
+{"Body": ["", "", "by Joe Sacco. Metropolitan Books.", "", "", "", "Slate is published by The Slate Group, a Graham Holdings Company. All contents \u00a9\n        2017  The Slate Group LLC. All rights reserved."], "Reviewer": "Campbell Robertson", "Gist": "Why cartoonist Joe Sacco is one of the best war correspondents in the world.", "Title": "Drawing in the Dark"},
