@@ -1,7 +1,7 @@
 <center> <h1>Acquisition of Book Data for Entity Matching, Text Analytics and Insight Extraction </h1>
 </center>
 <center>
-<h5> | Sowrabha Horatti Gopal &nbsp &nbsp &nbsp| &nbsp&nbsp&nbsp Sharath Prabhudeva Hiremath &nbsp &nbsp &nbsp | &nbsp &nbsp &nbsp Pradeep Kashyap Ramaswamy </h5>
+<h5> Sowrabha Horatti Gopal  |   Sharath Prabhudeva Hiremath   |   Pradeep Kashyap Ramaswamy </h5>
 </center>
 
 <p> Below are the links for our project:
