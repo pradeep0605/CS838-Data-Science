@@ -22,6 +22,7 @@ class GoodreadsScrawler(Spider) :
             print(category)
             categories.append(category)
         
+        categories = categories[25:]
         for category in categories:
             category_100books = [category + "?_encoding=UTF8&pg=" + str(i) for i in range(1, 6)]
             category_100books = category_100books[1:]

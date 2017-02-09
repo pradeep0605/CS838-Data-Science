@@ -27,7 +27,7 @@ CONCURRENT_REQUESTS = 1
 # Configure a delay for requests for the same website (default: 0)
 # See http://scrapy.readthedocs.org/en/latest/topics/settings.html#download-delay
 # See also autothrottle settings and docs
-DOWNLOAD_DELAY = 1 
+DOWNLOAD_DELAY = 2 
 # The download delay setting will honor only one of:
 #CONCURRENT_REQUESTS_PER_DOMAIN = 16
 #CONCURRENT_REQUESTS_PER_IP = 16
@@ -52,11 +52,11 @@ DOWNLOAD_DELAY = 1
 
 # Enable or disable downloader middlewares
 # See http://scrapy.readthedocs.org/en/latest/topics/downloader-middleware.html
-USER_AGENT_LIST = "c:\Users\Pradeep Kashyap\Desktop\CS838-Data Science\CS838-Data-Science\UserAgents.txt"
-DOWNLOADER_MIDDLEWARES = {
-    'amazon_crawl.middlewares.MyCustomDownloaderMiddleware': None,
-    'random_useragent.RandomUserAgentMiddleware': 400
-}
+#USER_AGENT_LIST = "c:\Users\Pradeep Kashyap\Desktop\CS838-Data Science\CS838-Data-Science\UserAgents.txt"
+#DOWNLOADER_MIDDLEWARES = {
+#    'amazon_crawl.middlewares.MyCustomDownloaderMiddleware': None,
+#    'random_useragent.RandomUserAgentMiddleware': 400
+#}
 
 # Enable or disable extensions
 # See http://scrapy.readthedocs.org/en/latest/topics/extensions.html
