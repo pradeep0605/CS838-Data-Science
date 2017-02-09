@@ -28,8 +28,8 @@ class GoodreadsScrawler(Spider) :
             for _20books in category_100books:
                 request = scrapy.Request(_20books, callback=self.parse_list, dont_filter=True)
                 yield request
-                break
-            break
+                #break
+            #break
         #for link in links:
         #    request = scrapy.Request(link, callback=self.parse_bookinfo)
         #   yield request
@@ -99,7 +99,7 @@ class GoodreadsScrawler(Spider) :
 
         try:
             Summary = sel.xpath('//p//text()').extract()
-            #itm['Summary'] = Summary
+            itm['Summary'] = Summary
             #print(Summary)
         except:
             print("Error Average_Rating")
