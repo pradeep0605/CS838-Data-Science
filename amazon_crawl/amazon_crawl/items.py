@@ -25,6 +25,8 @@ class AmazonCrawlItem(Item):
     Pages = Field()
     Published_Date  = Field()
     Publication = Field()
+    Summary = Field()
+    ProductDetails = Field()
     
     ISBN = Field()
     ISBN13 = Field()

@@ -3,7 +3,7 @@ from scrapy.spiders import Spider
 from scrapy import Selector
 #from test.items import TestItem
 import scrapy
-from goodreads_crawl.items import GoodreadsCrawlItem
+from amazon_crawl.items import AmazonCrawlItem
 
 class GoodreadsScrawler(Spider) :
     name = "amazon_crawl"
@@ -14,145 +14,98 @@ class GoodreadsScrawler(Spider) :
     
     def parse(self, response):
         hxs = Selector(response)
-        rows = hxs.xpath('//*[@id="zg_browseRoot"]/ul/ul//li//a/text()')
+        rows = hxs.xpath('//*[@id="zg_browseRoot"]/ul/ul//li//a/@href')
         
+        categories = []
         for row in rows:
-            print(row.extract())
+            category = row.extract()            
+            print(category)
+            categories.append(category)
         
+        for category in categories:
+            category_100books = [category + "?_encoding=UTF8&pg=" + str(i) for i in range(1, 6)]
+            category_100books = category_100books[1:]
+            for _20books in category_100books:
+                request = scrapy.Request(_20books, callback=self.parse_list, dont_filter=True)
+                yield request
+                break
+            break
         #for link in links:
         #    request = scrapy.Request(link, callback=self.parse_bookinfo)
         #   yield request
 
-
+    def parse_list(self, response):
+        sel = Selector(response)
+        _20books = sel.xpath('//*[@id="zg_centerListWrapper"]//div/div[2]/div/a/@href')
+    
+        #_20books = _20books[1:]
+        for book in _20books:
+            book_url = self.site_url + book.extract();
+            print(book_url)
+            request = scrapy.Request(book_url, callback=self.parse_bookinfo)
+            yield request
+            #break
+                              
     def parse_bookinfo(self, response):
-        selector = Selector(response)
+        sel = Selector(response)
         #items = response.meta['items']
         # An Item from this page
         
-        itm = GoodreadsCrawlItem()
+        itm = AmazonCrawlItem()
         # Scrape the Title of the book (Not the original name, might have series number in the name)
         try :
-            Title = "" + selector.xpath('//h1[@class="bookTitle"]/text()').extract_first()
-            brackets = selector.xpath('//a[@class="greyText"]/text()').extract_first()
-            Title = Title.strip()
-            if brackets:
-                brackets = brackets.strip()
-                Title = Title + " " + brackets
-            itm['Title'] = Title    
+            Title = "" + sel.xpath('//*[@id="productTitle"]/text()').extract_first()
+            if Title:
+                Title = Title.strip()
+            itm['Title'] = Title
+            print(Title)
         except:
             print("Error Title")
         
         try:
-            # Get the original Title of the book
-            Original_Title = selector.xpath('//*[@id="bookDataBox"]/div[1]/div[2]/text()').extract_first()
-            Original_Title = Original_Title.strip()
-            itm['Original_Title'] = Original_Title
-            #print(Title)
-        except:
-            print("Error Original_Title")
-        
-        try:
-            # Get the name of the author
-            Author = selector.xpath('//*[@id="bookAuthors"]/span[2]/a[1]/span/text()').extract_first()
-            Author = Author.strip();
-            itm['Author'] = Author
-            #print(Author)
-        except:
-            print("Error Author")
-            
-        try:
-            Edition_Language = selector.xpath('//*[@id="bookDataBox"]/div[3]/div[2]/text()').extract_first()
-            Edition_Language = Edition_Language.strip()
-            itm['Edition_Language'] = Edition_Language
-            #print(Edition_Language) 
-        except:
-            print("Error Edition_Language")
-        
-        try:
-            Average_Rating = selector.xpath('//*[@id="bookMeta"]/span[3]/span/text()').extract_first()
+            Average_Rating = sel.xpath('//*[@id="reviewSummary"]/div[2]/span/a/span/text()').extract_first()
+            #Ratings = Ratings.split(" ")[0]
             Average_Rating = Average_Rating.strip()
             itm['Average_Rating'] = Average_Rating
-            #print(Average_Rating)
+            print(Average_Rating)
+        except:
+            print("Error Average_Rating")
+        
+        try:
+            Ratings = sel.xpath('//*[@id="reviewSummary"]/div[1]/a/div/div/div[2]/div/span/text()').extract_first()
+            Ratings = Ratings.strip()
+            itm['Ratings'] = Ratings
+            itm['Reviews'] = Ratings
+            print(Ratings)
+        except:
+            print("Error Average_Rating")            
+        
+        try:
+            ProductDetails = sel.xpath('//div[@class="content"]/ul/*[not(self::li[@id="SalesRank"])]//text()').extract()
+            #'//div[@class="content"]/ul//li[not(self::li[@id="SalesRank"])]//text()'
+            ProductDetails = [x.strip() for x in ProductDetails if x.strip() != ""]
+            i = 0
+            for i in range(0, len(ProductDetails)):
+                #amazon website has this function in the body which is included as part of text when we extract()
+                #Thus, we find that string which from where the code starts and prune the array to get cleaner data.
+                if ProductDetails[i].find("function acrPopoverHover") != -1:
+                    break
+            ProductDetails = ProductDetails[0:i]
+
+            itm['ProductDetails'] = ProductDetails
+            print(ProductDetails)
+        except:
+            print("Error Product Details")
+
+        try:
+            Summary = sel.xpath('//p//text()').extract()
+            #itm['Summary'] = Summary
+            #print(Summary)
         except:
             print("Error Average_Rating")
             
-        try:
-            Ratings = selector.xpath('//*[@id="bookMeta"]/a[2]/span/text()').extract_first()
-            Ratings = Ratings.strip()
-            Ratings = Ratings.split(" ")[0]
-            itm['Ratings'] = Ratings
-            #print(Ratings)
-        except:
-            print("Error Ratings")
+     
             
-        try:
-            Reviews = selector.xpath('//*[@id="bookMeta"]/a[3]/span/span/text()').extract_first()
-            Reviews = Reviews.strip()
-            #Reviews = Reviews.split(" ")[0]
-            itm['Reviews'] = Reviews
-        except:
-            print("Error Reviews")
-        #print(Reviews)
-        
-        #<a class="actionLinkLite bookPageGenreLink" href="/genres/fantasy">Fantasy</a>
-        try:
-            Genres = selector.xpath('//a[@class="actionLinkLite bookPageGenreLink"]/text()').extract()
-            itm['Genres'] = Genres
-            #print(Genres)
-        except:
-            print("Error Genres")
-        
-        try:
-            Edition = selector.xpath('//*[@id="bookDataBox"]/div[3]/div[2]/text()').extract_first()
-            Edition = Edition.strip()
-            #Reviews = Reviews.split(" ")[0]
-            itm['Edition'] = Edition
-            #print(Edition)
-        except:
-            print("Error Edition")
-        
-        try:
-            Pages = selector.xpath('//*[@id="details"]/div[1]/span[3]/text()').extract_first()
-            #Pages = Pages.strip()
-            if Pages:
-                Pages = Pages.split(" ")[0]
-            itm['Pages'] = Pages
-            #print(Pages)
-        except:
-            print("Error Pages")
-        
-        try:
-            publish_details = selector.xpath('//*[@id="details"]/div[2]/text()').extract_first()
-            publish_details = publish_details.strip()
-            #publish_details = publish_details.split("by")
-            date, Publication = publish_details.split("by")
-            #date = publish_details[0]
-            #publication = publish_details[1]
-            date = date.split(" ")[1:]
-            #remove unwated arrays : Alternatively it can also be done like  date = date.split(" ")[7:10]
-            trim_date = [X for X in date if X != ""]
-            itm['Published_Date'] = trim_date
-            #print(trim_date)
-            
-            itm['Publication'] = Publication
-            #print(Publication)
-        except:
-            print("Error Publication")
-    
-        try:
-            ISBN = selector.xpath('//*[@id="bookDataBox"]/div[2]/div[2]/text()').extract_first()    
-            ISBN = ISBN.strip()
-            itm['ISBN'] = ISBN
-            #print(ISBN)           
-        except:
-            print("Error ISBN")
-        
-        try:
-            ISBN13 = selector.xpath('//*[@id="bookDataBox"]/div[2]/div[2]/span/span/text()').extract_first()    
-            ISBN13 = ISBN13.strip()
-            itm['ISBN13'] = ISBN13
-        except:
-            print("Error ISBN13")
         yield itm
 
     
