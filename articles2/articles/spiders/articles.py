@@ -82,21 +82,7 @@ class ArticleScrawler(Spider) :
         #print(len(Review))
         output = ' '.join(Review)
         
-        # POSITIVES
-        index = output.find(Title)
-        if index != -1:
-            output = self.insert_text("<+++>", index, output)
-            output = self.insert_text("</+++>", index + len(Title) + 5, output)
-            # FIND THE SECOND TITLE IN THE COMMENTS
-            index2 = output.find(Title, index + len(Title) + 11)
-            if index2 != -1:
-                output = self.insert_text("<+++>", index2, output)
-                output = self.insert_text("</+++>", index2 + len(Title) + 5, output)
-            else:
-                output = "<+++>" + Title + "</+++>" + output 
-        else:
-            output = "<+++>" + Title + "</+++>" + output + "<+++>" + Title + "</+++>"
-        
+      
         #string = "hellow (world) this"
         
         #NEGATIVES, AUTHOR
@@ -115,12 +101,12 @@ class ArticleScrawler(Spider) :
                 output = output + "<---A>" + Author + "</---A>"
 
         
-        
+        # If some mean author wants to talk about himself throughout the book, ufff ! then, tag other occurance of author name
         if Author == Character:
             first = output.find(Character, output.find("<---A>"+Author) + len(Author) + 13)
         else:
             first = output.find(Character)
-        
+
         if len(Character) != 0:
             if first != -1:
                 output = self.insert_text("<---C>", first, output)
@@ -137,8 +123,30 @@ class ArticleScrawler(Spider) :
                 else: # Worst case, just put the name at the end of the output (unfortunately, there will not be any context here)
                     output = output + "<---C>" + Character + "</---C>"
         else:
-            # If, by the curse of holy zeus god, there doesn't exist a character, then put Author name itself as a character name again
+            # If, by the curse of holy zeus god, there doesn't exist a character, then put Author name itself as a character name again.
             output = output + "<---C>" + Author + "</---C>" 
+
+        # POSITIVES
+        if output.find("<---C>"+Title+"</---C>") != -1:
+            index = output.find(Title, output.find("<---C>"+Title+"</---C>") + len(Title) + 13)
+        elif output.find("<---A>"+Title+"</---A>") != -1:
+            index = output.find(Title, output.find("<---A>"+Title+"</---A>") + len(Title) + 13)
+        else:
+            index = output.find(Title)
+
+        if index != -1:
+            output = self.insert_text("<+++>", index, output)
+            output = self.insert_text("</+++>", index + len(Title) + 5, output)
+            # FIND THE SECOND TITLE IN THE COMMENTS
+            index2 = output.find(Title, index + len(Title) + 13)
+            if index2 != -1:
+                output = self.insert_text("<+++>", index2, output)
+                output = self.insert_text("</+++>", index2 + len(Title) + 5, output)
+            else:
+                output = "<+++>" + Title + "</+++>" + output 
+        else:
+            output = "<+++>" + Title + "</+++>" + output + "<+++>" + Title + "</+++>"
+
         # NEGATIVES : BRACKETS
         expr = r"(.*)\((.*)\)(.*)"
         group = re.match(expr, output)
