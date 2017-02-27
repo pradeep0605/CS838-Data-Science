@@ -9,7 +9,7 @@ class ArticleScrawler(Spider) :
     name = "articles"
     allowed_domains = ["goodreads.com"]
     #Comprehension to list all the pages that we want
-    start_urls = [("https://www.goodreads.com/list/show/7.Best_Books_of_the_21st_Century?page=" + str(i)) for i in range(1,9)]
+    start_urls = [("https://www.goodreads.com/list/show/7.Best_Books_of_the_21st_Century?page=" + str(i)) for i in range(1,10)]
     site_url = "https://www.goodreads.com"
     
     def parse(self, response):
@@ -148,13 +148,14 @@ class ArticleScrawler(Spider) :
             output = "<+++>" + Title + "</+++>" + output + "<+++>" + Title + "</+++>"
 
         # NEGATIVES : BRACKETS
-        expr = r"(.*)\((.*)\)(.*)"
-        group = re.match(expr, output)
+        #expr = r"(.*)\((.*)\)(.*)"
+        expr = r"(?<=\()((?!\)).)*"
+        group = re.search(expr, output)
         if group:
-           bracket_index = output.find("(" + group.group(2) + ")")
-           if group.group(2).find("+++") == -1 and group.group(2).find("---") == -1:
+           bracket_index = output.find("(" + group.group(0) + ")")
+           if group.group(0).find("+++") == -1 and group.group(0).find("---") == -1 and len(group.group(0).split(' ')) <= 10 and len(group.group(0).split(' ')) >= 2:
                output = self.insert_text("<---B>", bracket_index + 1, output)
-               output = self.insert_text("</---B>", bracket_index + 1 + len(group.group(2)) + 6, output)
+               output = self.insert_text("</---B>", bracket_index + 1 + len(group.group(0)) + 6, output)
         else:
                 print("No group found")
         
