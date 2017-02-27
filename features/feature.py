@@ -2,6 +2,8 @@
 import sys
 import re
 import copy
+from numpy import array
+from sklearn import tree
 from stop_words import get_stop_words
 stop_words = get_stop_words('en')
 
@@ -79,38 +81,82 @@ def process(context, index, text, targetClass):
 
 def main(argv):
 	textfile = sys.argv[1]
+	
 	with open(textfile) as f:
-	    text =  " ".join(line.strip() for line in f)  
+	    lines = f.readlines()
 
-	negtext = copy.deepcopy(text)
+	count = 0
+	for line in lines:
+		print count
+		count = count + 1
+		m = re.finditer(r"(?<=\<\+\+\+\>)((?!<\/\+\+\+>).)*|(?<=\<\-\-\-[A-Z]\>)((?!<\/\-\-\-[A-Z]>).)*", line)
+		if m:
+			for x in m:
+				if line[x.start()-4] == "+":
+					process(line, x.start(), line[x.start():x.end()], True)
+				else:
+					process(line, x.start(), line[x.start():x.end()], False)
+
 	
+	trainDataset = array(data)
+	trainTarget = array(target)
+
+	# Use Decicion Trees
+	clf = tree.DecisionTreeClassifier()
+	clf = clf.fit(trainDataset, trainTarget)
+
 	
-	while text:
-		#m = re.search(r"(?<=\<\+\+\+\>)(.*)(?=\<\/\+\+\+\>)", text)
-		m = re.search(r"(?<=\<\+\+\+\>)((?!<\/\+\+\+>).)*", text)
-		if not m:
-			break
-		print m.group(0)
-		substr = "<+++>"+m.group(0)+"</+++>"
-		index = text.find(substr)
-		process(text, index, m.group(0), "pos")
-		# Remove the processed text 
-		text = text[index+len(substr):]
 
 
-	while negtext:
-		m = re.search(r"(?<=\<\-\-\-\>)((?!<\/\-\-\->).)*", negtext)
-		if not m:
-			break
-		print m.group(0)
-		substr = "<--->"+m.group(0)+"</--->"
-		index = negtext.find(substr)
-		process(negtext, index, m.group(0), "neg")
-		# Remove the processed text 
-		negtext = negtext[index+len(substr):]
+
+					
+			
+			
+
+
+
+
+
+
+"""
+		text = line
+		negtext = copy.deepcopy(text)
+		while text:
+			#m = re.search(r"(?<=\<\+\+\+\>)(.*)(?=\<\/\+\+\+\>)", text)
+			m = re.search(r"(?<=\<\+\+\+\>)((?!<\/\+\+\+>).)*", text)
+			if not m:
+				break
+			#print m.group(0)
+			substr = "<+++>"+m.group(0)+"</+++>"
+			index = text.find(substr)
+			process(text, index, m.group(0), True)
+			# Remove the processed text 
+			text = text[index+len(substr):]
+
+		m = re.finditer(r"(?<=\<\+\+\+\>)((?!<\/\+\+\+>).)*|(?<=\<\-\-\-[A-Z]\>)((?!<\/\-\-\-[A-Z]>).)*", negtext)
+		if m:
+			for x in m:
+				print negtext[x.start()-5:x.end()]
+				break
+
+			
+
+		while negtext:
+			m = re.search(r"(\<\-\-\-[A-Z]->)(?<=\<\-\-\-[A-Z]\>)((?!<\/\-\-\-[A-Z]>).)*", negtext)
+			if not m:
+				break
+		 		
+			print m.group(0)
+			substr = "<--->"+m.group(0)+"</--->"
+			index = negtext.find(substr)
+			process(negtext, index, m.group(0), False)
+			# Remove the processed text 
+			negtext = negtext[index+len(substr):]
 
 	print data
 	print target
+
+"""
 	
 	
 
