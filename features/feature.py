@@ -3,14 +3,20 @@ import sys
 import re
 import copy
 from numpy import array
-from sklearn import tree
+from sklearn.model_selection import cross_val_score
+from sklearn.tree import DecisionTreeClassifier
+from sklearn.ensemble import RandomForestClassifier
+from sklearn import svm, datasets
+from sklearn.naive_bayes import GaussianNB
+from sklearn.neighbors import KNeighborsClassifier
+from sklearn import linear_model
 from stop_words import get_stop_words
 stop_words = get_stop_words('en')
 
-data = []
-target = []
 
-def process(context, index, text, targetClass):
+
+def process(context, index, index_end, text):
+	print text
 	feature = []
 	# First word is 'The' or 'A' followed by word with first letter Capitalized
 	if re.match(r"^The [A-Z]{1}",text) or re.match(r"^A [A-Z]{1}",text):
@@ -30,36 +36,39 @@ def process(context, index, text, targetClass):
 		if unicode(word, "utf-8") not in stop_words:
 			if word[0].islower():
 				flag = False
-	if flag:
-		feature.append(True)
-	else:
-		feature.append(False)
+	
+	feature.append(flag)
 
 	# Phrases which have period before and comma after them
-	flag = True
+	flag = False 
 	i = index
 	while context[i-1] == " ":
 		i = i - 1
 	if context[i-1] == ".":
-		i = index
-		while context[i+len(text)+11] == " ":
+		i = index_end
+		while context[i] == " ":
 			i = i + 1
-		if context[i+len(text)+11] != ",":
-			flag = False
-	else:
-		flag = False
+		if context[i] == ",":
+			flag = True 
 	
-	if flag:
-		feature.append(True)
-	else:
-		feature.append(False)
+	feature.append(flag)
 
 	# Phrases followed by words ending with s
-	m = re.search(r"\w+", context[index+len(text)+11:])
+	m = re.search(r"\w+", context[index_end+1:])
 	if m.group(0)[-1] != 's':
 		feature.append(False)
 	else:
 		feature.append(True)
+
+	# If there is 'In' before the phrase, it is positive
+	i = index
+	while context[i-1] == " ":
+		i = i - 1
+	m = re.match("[Ii]n",context[i-2:i])
+	if m:
+		feature.append(True)
+	else:
+		feature.append(False)
 
 	# If phrase has colon
 	if text.find(':') == 1:
@@ -72,92 +81,96 @@ def process(context, index, text, targetClass):
 		feature.append(True)
 	else:
 		feature.append(False)
+
+	# If the phrase is inside brackets (), then it is negative
+	flag = False 
+	i = index
+	while context[i-1] == " ":
+		i = i - 1
+	if context[i-1] == "(":
+		i = index_end
+		while context[i] == " ":
+			i = i + 1
+		if context[i] == ")":
+			flag = True 
+	feature.append(flag)
 	
-	data.append(feature)
-	target.append(targetClass)
-		
+
+	# If a phrase is in between two full stops, then it is negative
+	flag = False 
+	i = index
+	while context[i-1] == " ":
+		i = i - 1
+	if context[i-1] == ".":
+		i = index_end
+		while context[i] == " ":
+			i = i + 1
+		if context[i] == ".":
+			flag = True 
+	feature.append(flag)
 	
-			
+	# If there is 'By' before the phrase, it is a negative example 
+	i = index
+	while context[i-1] == " ":
+		i = i - 1
+	m = re.match("[Bb][Yy]",context[i-2:i])
+	if m:
+		feature.append(True)
+	else:
+		feature.append(False)
+
+	print feature
+	return feature
+	
 
 def main(argv):
-	textfile = sys.argv[1]
+	trainfile = sys.argv[1]
+	#testfile = sys.argv[2]
 	
-	with open(textfile) as f:
+
+	#get the train dataset
+	with open(trainfile) as f:
 	    lines = f.readlines()
 
-	count = 0
+	data = []
+	target = []
+
 	for line in lines:
-		print count
-		count = count + 1
 		m = re.finditer(r"(?<=\<\+\+\+\>)((?!<\/\+\+\+>).)*|(?<=\<\-\-\-[A-Z]\>)((?!<\/\-\-\-[A-Z]>).)*", line)
 		if m:
 			for x in m:
 				if line[x.start()-4] == "+":
-					process(line, x.start(), line[x.start():x.end()], True)
+					data.append(process(line, x.start()-5, x.end()+6, line[x.start():x.end()]))
+					target.append(True)
 				else:
-					process(line, x.start(), line[x.start():x.end()], False)
+					data.append(process(line, x.start()-6, x.end()+7, line[x.start():x.end()]))
+					target.append(False)
 
 	
 	trainDataset = array(data)
 	trainTarget = array(target)
 
-	# Use Decicion Trees
-	clf = tree.DecisionTreeClassifier()
-	clf = clf.fit(trainDataset, trainTarget)
 
+
+	cvs_scores = {}
+
+	#Use various classifiers and get the precision and recall 
+	classifier = {'DecisionTree' : DecisionTreeClassifier(random_state=0), 'SVM' : svm.SVC(probability=True, random_state=0), 'RandomForest' :
+	RandomForestClassifier(), 'kNN' :KNeighborsClassifier(5)}
+	for clf in classifier:
+		precisionScores = cross_val_score(classifier[clf], trainDataset, trainTarget, cv=5, scoring='precision')
+		recallScores = cross_val_score(classifier[clf], trainDataset, trainTarget, cv=5, scoring='recall')
+		cvs_scores[clf] = { precisionScores.mean(), recallScores.mean()}
+
+	#get f1
+
+	print cvs_scores
 	
+		
+		
+		
 
 
-
-					
-			
-			
-
-
-
-
-
-
-"""
-		text = line
-		negtext = copy.deepcopy(text)
-		while text:
-			#m = re.search(r"(?<=\<\+\+\+\>)(.*)(?=\<\/\+\+\+\>)", text)
-			m = re.search(r"(?<=\<\+\+\+\>)((?!<\/\+\+\+>).)*", text)
-			if not m:
-				break
-			#print m.group(0)
-			substr = "<+++>"+m.group(0)+"</+++>"
-			index = text.find(substr)
-			process(text, index, m.group(0), True)
-			# Remove the processed text 
-			text = text[index+len(substr):]
-
-		m = re.finditer(r"(?<=\<\+\+\+\>)((?!<\/\+\+\+>).)*|(?<=\<\-\-\-[A-Z]\>)((?!<\/\-\-\-[A-Z]>).)*", negtext)
-		if m:
-			for x in m:
-				print negtext[x.start()-5:x.end()]
-				break
-
-			
-
-		while negtext:
-			m = re.search(r"(\<\-\-\-[A-Z]->)(?<=\<\-\-\-[A-Z]\>)((?!<\/\-\-\-[A-Z]>).)*", negtext)
-			if not m:
-				break
-		 		
-			print m.group(0)
-			substr = "<--->"+m.group(0)+"</--->"
-			index = negtext.find(substr)
-			process(negtext, index, m.group(0), False)
-			# Remove the processed text 
-			negtext = negtext[index+len(substr):]
-
-	print data
-	print target
-
-"""
-	
 	
 
 if __name__ == "__main__":
