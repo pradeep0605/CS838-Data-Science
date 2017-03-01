@@ -11,7 +11,6 @@ from sklearn import svm, datasets
 from sklearn.naive_bayes import GaussianNB
 from sklearn.neighbors import KNeighborsClassifier
 from sklearn import linear_model
-from nltk.tag import pos_tag
 from stop_words import get_stop_words
 stop_words = get_stop_words('en')
 
@@ -217,12 +216,12 @@ def main(argv):
 		if m:
 			for x in m:
 				if line[x.start()-4] == "+":
-					phrases.append(line[x.start():x.end()])
+					phrases.append(line[x.start() - 5:x.end() + 6])
 					data.append(process(line, x.start()-5, x.end()+6, line[x.start():x.end()]))
 					target.append(True)
 				elif line[x.start() - 4] == '-':
 					#print line[x.start()-20:x.end()+20]
-					phrases.append(line[x.start():x.end()])
+					phrases.append(line[x.start() - 6:x.end() + 7])
 					data.append(process(line, x.start()-6, x.end()+7, line[x.start():x.end()]))
 					target.append(False)
 				else:
@@ -232,80 +231,41 @@ def main(argv):
 	testDataset = array(data)
 	testTarget = array(target)
 
-	#clf = svm.SVC(probability=True, random_state=0) 
-	#clf = DecisionTreeClassifier(random_state=0)
-	clf = RandomForestClassifier()
-	#clf = KNeighborsClassifier(5)
-	clf = clf.fit(trainDataset, trainTarget)
-	results = clf.predict(testDataset)
-	total_positive = float(0)
-	total_negative = float(0)
-	predicted_positive = float(0)
-	predicted_negative = float(0)
-	actual_positive = float(0)
-	false_negative = float(0)
+	for clssfr in classifier:
+		#clf = tree.DecisionTreeClassifier()
+		print "====================================", clssfr,"===================================="
+		clf = classifier[clssfr]
+		clf = clf.fit(trainDataset, trainTarget)
+		results = clf.predict(testDataset)
+		total_positive = float(0)
+		total_negative = float(0)
+		predicted_positive = float(0)
+		predicted_negative = float(0)
+		actual_positive = float(0)
+		false_negative = float(0)
+		for phrase, line, actual, predicted in zip(phrases, testDataset,testTarget,results):
+			if predicted == True:
+				predicted_positive = predicted_positive + 1
+			else:
+				predicted_negative = predicted_negative + 1
 
-	# Post Processing-------------------------------------------------------------------------
-	res = list(results)
-	count = 0
-	i = 0
-	for phrase, line, actual, predicted in zip(phrases, data,target,res):
-		word_deleted = False
-
-		if phrase.find("\u") != -1:
-			#print phrase
-			word_deleted = True
-			del phrases[i], data[i], target[i], res[i]
-
-		elif actual == False and predicted == True:
-			# if words are non dictnary words, ignore the sample
-			flag = True 
-			tagged_sent = pos_tag(phrase.split())
-			for word in tagged_sent:
-				if word[1] != 'NNP':
-					flag = False 
-					break
-			if flag:
-				count = count + 1
-				word_deleted = True
-				del phrases[i], data[i], target[i], res[i]
-
-		if word_deleted == False:
-			i = i + 1
-
-	testDataset = array(data)
-	testTarget = array(target)
-
-	# End of Post Processing------------------------------------------------------------------
-
-	for actual, predicted, phrase in zip(testTarget,res, phrases):
-		if predicted == True:
-			predicted_positive = predicted_positive + 1
-		else:
-			predicted_negative = predicted_negative + 1
-
-		if actual == True:
-			total_positive = total_positive + 1
-			if predicted == actual:
-				actual_positive = actual_positive + 1
-		else:
-			total_negative = total_negative + 1
-			if predicted != actual:
-				false_negative = false_negative + 1
-		#if actual != predicted:
-		#	print actual,predicted, phrase
-	print "total_positive =", total_positive
-	print "total_negative = ", total_negative 
-	print "predicted_positive = ", predicted_positive
-	print "predicted_negative =", predicted_negative
-	print "actual_positive = ", actual_positive
-	print "false_negative = ", false_negative
-	print "Precision = ", (actual_positive / (actual_positive + false_negative)), "  Recall = ", (actual_positive / total_positive)
-	precision = (actual_positive / float(actual_positive + false_negative))
-	recall = (actual_positive / float(total_positive))
-	F1 = 2 * (precision * recall) / float(precision + recall)
-	print "F1 score =", F1
-
+			if actual == True:
+				total_positive = total_positive + 1
+				if predicted == actual:
+					actual_positive = actual_positive + 1
+			else:
+				total_negative = total_negative + 1
+				if predicted != actual:
+					false_negative = false_negative + 1
+			#if actual != predicted:
+			#	print line, actual,predicted, phrase
+		print "total_positive =", total_positive
+		print "total_negative = ", total_negative 
+		print "predicted_positive = ", predicted_positive
+		print "predicted_negative =", predicted_negative
+		print "actual_positive = ", actual_positive
+		print "false_negative = ", false_negative
+		print "Precision = ", (actual_positive / (actual_positive + false_negative)), "  Recall = ", (actual_positive / total_positive)
 
 if __name__ == "__main__":
 	main(sys.argv[1:])
