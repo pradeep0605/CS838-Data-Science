@@ -257,8 +257,8 @@ def main(argv):
 				total_negative = total_negative + 1
 				if predicted != actual:
 					false_negative = false_negative + 1
-			if actual != predicted:
-				print line, actual,predicted, phrase
+			#if actual != predicted:
+			#	print line, actual,predicted, phrase
 		print "total_positive =", total_positive
 		print "total_negative = ", total_negative 
 		print "predicted_positive = ", predicted_positive
