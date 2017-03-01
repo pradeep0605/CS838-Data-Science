@@ -25,7 +25,6 @@ def process(context, index, index_end, text):
 		feature.append(True)
 	else:
 		feature.append(False)
-
 	# Character length of the text
 	feature.append(len(text))
 	
@@ -35,10 +34,8 @@ def process(context, index, index_end, text):
 	else:
 		feature.append(False)
 	
-	"""
-	# Word length of the phrase
+	#Word length of the phrase
 	feature.append(len(text.split()))
-	"""
 
 	# All the words which are not stop words should be capitalized
 	flag = True 
@@ -47,8 +44,15 @@ def process(context, index, index_end, text):
 			if word[0].islower():
 				flag = False
 
+	
 	feature.append(flag)
 	
+	# check if there is a period within the phrase
+	if text.find(".") != -1:
+		feature.append(True)
+	else:
+		feature.append(False)
+
 	"""
 	# Phrases which have period before and comma after them
 	flag = False 
@@ -251,10 +255,8 @@ def main(argv):
 				total_negative = total_negative + 1
 				if predicted != actual:
 					false_negative = false_negative + 1
-			"""
 			if actual != predicted:
 				print line, actual,predicted, phrase
-			"""
 		print "total_positive =", total_positive
 		print "total_negative = ", total_negative 
 		print "predicted_positive = ", predicted_positive
