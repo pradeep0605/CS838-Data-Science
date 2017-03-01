@@ -88,13 +88,15 @@ def process(context, index, index_end, text):
 		feature.append(True)
 	else:
 		feature.append(False)
-
+	"""
+	
 	# If phrase has colon
-	if text.find(':') == 1:
+	if text.find(':') != -1:
 		feature.append(True)
 	else:
 		feature.append(False)
 
+	"""
 	# If all the letters in the phrase are caps
 	if text.isupper():
 		feature.append(True)
