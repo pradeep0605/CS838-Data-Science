@@ -242,7 +242,7 @@ def main(argv):
 		predicted_positive = float(0)
 		predicted_negative = float(0)
 		actual_positive = float(0)
-		false_negative = float(0)
+		false_positive = float(0)
 		for phrase, line, actual, predicted in zip(phrases, testDataset,testTarget,results):
 			if predicted == True:
 				predicted_positive = predicted_positive + 1
@@ -256,7 +256,7 @@ def main(argv):
 			else:
 				total_negative = total_negative + 1
 				if predicted != actual:
-					false_negative = false_negative + 1
+					false_positive = false_positive + 1
 			#if actual != predicted:
 			#	print line, actual,predicted, phrase
 		print "total_positive =", total_positive
@@ -264,8 +264,8 @@ def main(argv):
 		print "predicted_positive = ", predicted_positive
 		print "predicted_negative =", predicted_negative
 		print "actual_positive = ", actual_positive
-		print "false_negative = ", false_negative
-		print "Precision = ", (actual_positive / (actual_positive + false_negative)), "  Recall = ", (actual_positive / total_positive)
+		print "false_positive = ", false_positive
+		print "Precision = ", (actual_positive / (actual_positive + false_positive)), "  Recall = ", (actual_positive / total_positive)
 
 if __name__ == "__main__":
 	main(sys.argv[1:])
