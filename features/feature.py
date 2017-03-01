@@ -243,7 +243,7 @@ def main(argv):
 	predicted_positive = float(0)
 	predicted_negative = float(0)
 	actual_positive = float(0)
-	false_negative = float(0)
+	false_positive = float(0)
 
 	# Post Processing-------------------------------------------------------------------------
 	res = list(results)
@@ -291,7 +291,7 @@ def main(argv):
 		else:
 			total_negative = total_negative + 1
 			if predicted != actual:
-				false_negative = false_negative + 1
+				false_positive = false_positive + 1
 		#if actual != predicted:
 		#	print actual,predicted, phrase
 	print "total_positive =", total_positive
@@ -299,13 +299,12 @@ def main(argv):
 	print "predicted_positive = ", predicted_positive
 	print "predicted_negative =", predicted_negative
 	print "actual_positive = ", actual_positive
-	print "false_negative = ", false_negative
-	print "Precision = ", (actual_positive / (actual_positive + false_negative)), "  Recall = ", (actual_positive / total_positive)
-	precision = (actual_positive / float(actual_positive + false_negative))
+	print "false_positive = ", false_positive
+	print "Precision = ", (actual_positive / (actual_positive + false_positive)), "  Recall = ", (actual_positive / total_positive)
+	precision = (actual_positive / float(actual_positive + false_positive))
 	recall = (actual_positive / float(total_positive))
 	F1 = 2 * (precision * recall) / float(precision + recall)
 	print "F1 score =", F1
-
 
 if __name__ == "__main__":
 	main(sys.argv[1:])
