@@ -46,9 +46,10 @@ def process(context, index, index_end, text):
 		if unicode(word, "utf-8") not in stop_words:
 			if word[0].islower():
 				flag = False
-	
+
 	feature.append(flag)
 	
+	"""
 	# Phrases which have period before and comma after them
 	flag = False 
 	i = index
@@ -60,8 +61,9 @@ def process(context, index, index_end, text):
 			i = i + 1
 		if context[i] == ",":
 			flag = True 
-	
+
 	feature.append(flag)
+	"""
 
 	"""
 	# Phrases followed by words ending with s
