@@ -28,15 +28,17 @@ def process(context, index, index_end, text):
 
 	# Character length of the text
 	feature.append(len(text))
-
+	
 	# word length greater than 2
 	if len(text.split()) >= 2:
 		feature.append(True)
 	else:
 		feature.append(False)
-
+	
+	"""
 	# Word length of the phrase
 	feature.append(len(text.split()))
+	"""
 
 	# All the words which are not stop words should be capitalized
 	flag = True 
@@ -47,7 +49,6 @@ def process(context, index, index_end, text):
 	
 	feature.append(flag)
 	
-
 	# Phrases which have period before and comma after them
 	flag = False 
 	i = index
@@ -61,16 +62,17 @@ def process(context, index, index_end, text):
 			flag = True 
 	
 	feature.append(flag)
-	
+
+	"""
 	# Phrases followed by words ending with s
 	m = re.search(r"\w+", context[index_end+1:])
 	if m.group(0)[-1] != 's':
 		feature.append(False)
 	else:
 		feature.append(True)
+	"""	
 
 	"""
-
 	# If there is 'In' before the phrase, it is positive
 	i = index
 	while context[i-1] == " ":
@@ -86,13 +88,13 @@ def process(context, index, index_end, text):
 		feature.append(True)
 	else:
 		feature.append(False)
-	"""
 
 	# If all the letters in the phrase are caps
 	if text.isupper():
 		feature.append(True)
 	else:
 		feature.append(False)
+	"""
 
 	# If the phrase is inside brackets (), then it is negative
 	flag = False 
@@ -136,6 +138,7 @@ def process(context, index, index_end, text):
 	feature.append(flag)
 
 	# If there is 'By' before the phrase, it is a negative example 
+	"""
 	i = index
 	while context[i-1] == " ":
 		i = i - 1
@@ -144,6 +147,7 @@ def process(context, index, index_end, text):
 		feature.append(True)
 	else:
 		feature.append(False)
+	"""
 
 	return feature
 	
@@ -208,6 +212,7 @@ def main(argv):
 					data.append(process(line, x.start()-5, x.end()+6, line[x.start():x.end()]))
 					target.append(True)
 				elif line[x.start() - 4] == '-':
+					#print line[x.start()-20:x.end()+20]
 					phrases.append(line[x.start() - 6:x.end() + 7])
 					data.append(process(line, x.start()-6, x.end()+7, line[x.start():x.end()]))
 					target.append(False)
