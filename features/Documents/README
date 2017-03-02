@@ -4,9 +4,15 @@ negative examples are of maximum words of 7. This is because, some of the book n
 negative example.
 
 1.  <+++> Book Name             </+++> : Two marked Book Names as positive mentions. This is the entity we're trying to extract and train ML algorithms
+
 2. <---A> Author name           </---A>: The Author name are negative mentions; These looks almost like a book name, thus a good negative example.
+
 3. <---C> Character Name        </---C>: Marked character: Characters are the name of the characters in the book. Another good negative example.
-4. <---F> Sentence              </---F>: Sentence (Between two fullstops) with words <= 7. Some of the books have long names around 7 words. Thus, this negative example servces as a good distinguisher.
+
+4. <---F> Sentence              </---F>: Sentence (Between two fullstops) with words <= 7. Some of the books have long names around 7 words. Thus, this negative example servces as a good feature that only book name will not come within two fullstops as a sentence.
+
 5. <---M> Words within Commas   </---M>: Set of words between commas <=7 words; Another example which tries to explain something in the book, but not a book name (Genrally regarding information about a character).
+
 6. <---B> Words within Brackets </---B>: Sentence within Brackets <= 7 words. In most of the cases, text within two brackets "(" and ")" tries to provide an alternate information regarding character or book.
+
 
