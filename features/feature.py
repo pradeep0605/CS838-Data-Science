@@ -11,7 +11,7 @@ from sklearn import svm, datasets
 from sklearn.naive_bayes import GaussianNB
 from sklearn.neighbors import KNeighborsClassifier
 from sklearn import linear_model
-from nltk.tag import pos_tag
+from nltk import word_tokenize, pos_tag
 from stop_words import get_stop_words
 stop_words = get_stop_words('en')
 
@@ -193,14 +193,61 @@ def main(argv):
 	cvs_scores = {}
 
 	#Use various classifiers and get the precision and recall 
-	classifier = {'DecisionTree' : DecisionTreeClassifier(random_state=0), 'SVM         ' : svm.SVC(probability=True, random_state=0), 'RandomForest' :
-	RandomForestClassifier(), 'kNN         ' :KNeighborsClassifier(5)}
+	classifier = {'DecisionTree      ' : DecisionTreeClassifier(random_state=0), 'SVM               ' : svm.SVC(probability=True, random_state=0), 'RandomForest      ' :
+	RandomForestClassifier(), 'kNN               ' :KNeighborsClassifier(5), 'LogisticRegression': linear_model.LogisticRegression(C=1e5)}
 	for clf in classifier:
 		precisionScores = cross_val_score(classifier[clf], trainDataset, trainTarget, cv=5, scoring='precision')
 		recallScores = cross_val_score(classifier[clf], trainDataset, trainTarget, cv=5, scoring='recall')
-		cvs_scores[clf] = { precisionScores.mean(), recallScores.mean()}
+		f1scores = cross_val_score(classifier[clf], trainDataset, trainTarget, cv=5, scoring='f1')
+		cvs_scores[clf] = []
+		cvs_scores[clf].append(precisionScores.mean())
+		cvs_scores[clf].append(recallScores.mean())
+		cvs_scores[clf].append(f1scores.mean())
 
-	#get f1
+
+	#Linear Regression----------------------------------------------------------------------------------------------------------------------------------
+	reg = linear_model.LinearRegression()
+	reg.fit(trainDataset[:2636], trainTarget[:2636])
+	linearPredictions = reg.predict(trainDataset[2636:])
+	for i in zip(range(len(linearPredictions))):
+		if linearPredictions[i] >= 0.5:
+			linearPredictions[i] = 1
+		else:
+			linearPredictions[i] = 0
+
+	total_positive = float(0)
+	total_negative = float(0)
+	predicted_positive = float(0)
+	predicted_negative = float(0)
+	actual_positive = float(0)
+	false_positive = float(0)
+	for actual, predicted in zip(trainTarget[2636:], linearPredictions):
+		if predicted == True:
+			predicted_positive = predicted_positive + 1
+		else:
+			predicted_negative = predicted_negative + 1
+
+		if actual == True:
+			total_positive = total_positive + 1
+			if predicted == actual:
+				actual_positive = actual_positive + 1
+		else:
+			total_negative = total_negative + 1
+			if predicted != actual:
+				false_positive = false_positive + 1
+	linearprecision = (actual_positive / float(actual_positive + false_positive))
+	linearrecall = (actual_positive / float(total_positive))
+	F1 = 2 * (linearprecision * linearrecall) / float(linearprecision + linearrecall)
+	cvs_scores['LinearRegression  '] = []
+	cvs_scores['LinearRegression  '].append(linearprecision)
+	cvs_scores['LinearRegression  '].append(linearrecall)
+	cvs_scores['LinearRegression  '].append(F1)
+
+	#-------------------------------------------------------------------------------------------------------------------------------------------------
+	
+
+
+	# Print the presicion and recall of each classifier
 	for val in cvs_scores:
 		print val, " \t:\t", cvs_scores[val] 
 
@@ -232,9 +279,12 @@ def main(argv):
 	testDataset = array(data)
 	testTarget = array(target)
 
-	#clf = svm.SVC(probability=True, random_state=0) 
+	print "========================"
+	print "Selecting SVM Classifier"
+	print "========================"
+	clf = svm.SVC(probability=True, random_state=0) 
 	#clf = DecisionTreeClassifier(random_state=0)
-	clf = RandomForestClassifier()
+	#clf = RandomForestClassifier()
 	#clf = KNeighborsClassifier(5)
 	clf = clf.fit(trainDataset, trainTarget)
 	results = clf.predict(testDataset)
