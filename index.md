@@ -5,16 +5,16 @@
 </center>
 
 <h1> Project Stage 2 -- Information Extraction</h1>
-In this stage of the project, we are extracting <b>book names</b> from the review comments from <a href=http://www.goodreads.com>goodreads</a>. It is quite intersting and challenging as many of the book names are similar to person names (e.g, Dan Brown, Harry Potter etc) and possibiliy of false positives and false negatives can increase if we don't choose our features wisely. Details of this stage is provided in the report.
+In this stage of the project, we are extracting <b>book names</b> from the review comments from <a href="http://www.goodreads.com">goodreads</a>. It is quite interesting and challenging as many of the book names are similar to person names (e.g, Dan Brown, Harry Potter etc) and the probability of false positives and false negatives can increase if we don't choose our features wisely. Details of this stage are provided in the report.
 
 <b>Below are the links for the second stage of the project.</b>
 <ul>
-<li> Links to <a href=https://github.com/pradeep0605/CS838-Data-Science/tree/master/features/Documents> all documents </a> with README file; We have <b>1400</b> documents which we have divided into set <b> I </b> (900) and <b> J </b>(500) (as described in the <a href=https://sites.google.com/site/anhaidgroup/courses/cs-838-spring-2017/project-description/stage-2>project page</a>). Set I is further divided into set <b> P </b> (600) and <b> Q </b>(300).  <a href=https://github.com/pradeep0605/CS838-Data-Science/tree/master/features/Documents/I> <b> Set I</b> </a>,  <a href=https://github.com/pradeep0605/CS838-Data-Science/tree/master/features/Documents/J> <b> Set J </b></a>,  <a href=https://github.com/pradeep0605/CS838-Data-Science/tree/master/features/Documents/I/P> <b> Set P </b></a> and <a href=https://github.com/pradeep0605/CS838-Data-Science/tree/master/features/Documents/I/Q> <b> Set Q </b></a></li>
-<li> Link the directory that stores all of our code. There are two parts to it: <a href=https://github.com/pradeep0605/CS838-Data-Science/tree/master/articles2/articles>Code</a> to fetch all the review comments of books and <a href=https://github.com/pradeep0605/CS838-Data-Science/blob/master/features/feature.py>Code</a> to train and test ML algorithms</li>
+<li> Links to <a href="https://github.com/pradeep0605/CS838-Data-Science/tree/master/features/Documents"> all documents </a> with README file; We have <b>1400</b> documents which we have divided into <a href="https://github.com/pradeep0605/CS838-Data-Science/tree/master/features/Documents/I"> <b> Set I</b> </a> (900) and  <a href="https://github.com/pradeep0605/CS838-Data-Science/tree/master/features/Documents/J"> <b> Set J </b></a> (500) (as described in the <a href="https://sites.google.com/site/anhaidgroup/courses/cs-838-spring-2017/project-description/stage-2">project page</a>). Set I is further divided into <a href="https://github.com/pradeep0605/CS838-Data-Science/tree/master/features/Documents/I/P"> <b> Set P </b></a> (600) and <a href="https://github.com/pradeep0605/CS838-Data-Science/tree/master/features/Documents/I/Q"> <b> Set Q </b></a> </li>
+<li> Link to the directory that stores all of our code. There are two parts to it: <a href="https://github.com/pradeep0605/CS838-Data-Science/tree/master/articles2/articles">Code</a> to fetch all the review comments of books and <a href="https://github.com/pradeep0605/CS838-Data-Science/blob/master/features/feature.py">Code</a> to train and test ML algorithms</li>
 
-<li> Link to the <a href=https://github.com/pradeep0605/CS838-Data-Science/blob/master/features/Documents.zip>Compressed File</a> that stores all of the documents. </li>
+<li> Link to the <a href="https://github.com/pradeep0605/CS838-Data-Science/blob/master/features/Documents.zip">Compressed File</a> that stores all of the documents. </li>
 
-<li> Link to the  <a href=https://github.com/pradeep0605/CS838-Data-Science/blob/master/features/data-science-project.pdf> Report </a> containing all the other information. </li>
+<li> Link to the  <a href="https://github.com/pradeep0605/CS838-Data-Science/blob/master/features/data-science-project.pdf"> Report </a> containing detailed descripton of the project. </li>
 </ul>
 </ul>
 
