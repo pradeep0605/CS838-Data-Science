@@ -25,7 +25,7 @@ In this stage of the project, we are extracting <b>book names</b> from the revie
 
 <li> <a href="https://github.com/pradeep0605/CS838-Data-Science/blob/master/amazon_crawl/amazon_final.json"> Structured Data Source link for <b>amazon.com</b> </a> </li>
 
-<li> <a href="https://github.com/pradeep0605/CS838-Data-Science/tree/master/articles/article_textfiles"> Links to all the text files extracted from <b> slate.com </b></a> </li>
+<li> <a href="https://github.com/pradeep0605/CS838-Data-Science/tree/master/features/Documents"> Links to all the text files extracted from <b> goodreads.com </b></a> </li>
 
 <li> <a href="https://github.com/pradeep0605/CS838-Data-Science"> Source Code of our entire project</a></li>
 </ul>
