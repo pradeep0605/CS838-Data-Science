@@ -16,7 +16,6 @@ In this stage of the project, we are extracting <b>book names</b> from the revie
 
 <li> Link to the  <a href="https://github.com/pradeep0605/CS838-Data-Science/blob/master/features/data-science-project.pdf"> Report </a> containing detailed descripton of the project. </li>
 </ul>
-</ul>
 
 <h1> Project Stage 1 </h1>
 <p> Below are the links for our project:
