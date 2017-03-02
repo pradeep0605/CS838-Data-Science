@@ -28,4 +28,4 @@ In this stage of the project, we are extracting <b>book names</b> from the revie
 <li> <a href="https://github.com/pradeep0605/CS838-Data-Science/tree/master/features/Documents"> Links to all the text files extracted from <b> goodreads.com </b></a> </li>
 
 <li> <a href="https://github.com/pradeep0605/CS838-Data-Science"> Source Code of our entire project</a></li>
-</ul>
+</ul> 
