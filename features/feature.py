@@ -194,7 +194,7 @@ def main(argv):
 
 	#Use various classifiers and get the precision and recall 
 	classifier = {'DecisionTree      ' : DecisionTreeClassifier(random_state=0), 'SVM               ' : svm.SVC(probability=True, random_state=0), 'RandomForest      ' :
-	RandomForestClassifier(), 'kNN               ' :KNeighborsClassifier(5), 'LogisticRegression': linear_model.LogisticRegression(C=1e5)}
+	RandomForestClassifier(random_state=10), 'kNN               ' :KNeighborsClassifier(5), 'LogisticRegression': linear_model.LogisticRegression(C=1e5)}
 	for clf in classifier:
 		precisionScores = cross_val_score(classifier[clf], trainDataset, trainTarget, cv=5, scoring='precision')
 		recallScores = cross_val_score(classifier[clf], trainDataset, trainTarget, cv=5, scoring='recall')
@@ -279,13 +279,11 @@ def main(argv):
 	testDataset = array(data)
 	testTarget = array(target)
 
-	print "========================"
-	print "Selecting SVM Classifier"
-	print "========================"
-	clf = svm.SVC(probability=True, random_state=0) 
+	#clf = svm.SVC(probability=True, random_state=0) 
 	#clf = DecisionTreeClassifier(random_state=0)
-	#clf = RandomForestClassifier()
+	clf = RandomForestClassifier(random_state=10)
 	#clf = KNeighborsClassifier(5)
+	
 	clf = clf.fit(trainDataset, trainTarget)
 	results = clf.predict(testDataset)
 	total_positive = float(0)
