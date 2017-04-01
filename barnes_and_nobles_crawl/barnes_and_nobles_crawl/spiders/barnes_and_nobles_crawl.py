@@ -29,14 +29,17 @@ class BarnesAndNoblesCrawler(Spider) :
         line = file.readline()
         #Read all the book names and fetch the same books from barnes and nobles (half match and half non matches)
         while line != "" and self.tuple_count < 7000:
-            # File format is 'bookname@authornames' in each line
-            bookname,author = line.split('@')
-            line = file.readline()
-            request = scrapy.Request(self.site_url+ "/s/" + bookname+"/_/N-8q8", callback=self.parse_booklink)
-            #pass the bookname and author to search and match from barnes and nobles
-            request.meta['bookname'] = bookname
-            request.meta['author'] = author
-            yield request
+            try:
+                # File format is 'bookname@authornames' in each line
+                bookname,author = line.split('@')
+                line = file.readline()
+                request = scrapy.Request(self.site_url+ "/s/" + bookname+"/_/N-8q8", callback=self.parse_booklink)
+                #pass the bookname and author to search and match from barnes and nobles
+                request.meta['bookname'] = bookname
+                request.meta['author'] = author
+                yield request
+            except Exception as e:
+                 print "$$$$$$$$$$ Exception:",e
 
     def parse_booklink(self, response):
         bookname = response.meta['bookname'].strip()
@@ -53,12 +56,15 @@ class BarnesAndNoblesCrawler(Spider) :
         authorlist = ["".join(X.split()).strip() for X in authorlist]
         urllist = selector.xpath('//*[@id="gridView"]/li/ul[1]//li/div[2]/p/a/@href').extract() 
         for i in range(0, len(authorlist)):
-            if authorlist[i] == author:
-                request = scrapy.Request(self.site_url + urllist[i], callback=self.parse_bookinfo)
-                request.meta['bookname'] = bookname
-                request.meta['author'] = author
-                yield request
-                break
+            try:
+                if authorlist[i] == author:     
+                    request = scrapy.Request(self.site_url + urllist[i], callback=self.parse_bookinfo)
+                    request.meta['bookname'] = bookname
+                    request.meta['author'] = author
+                    yield request
+                    break
+            except Exception as e:
+                 print "$$$$$$$$$$ Exception:",e
 
     #parse the actual book's page for information such as author name, publisher, published date etc.        
     def parse_bookinfo(self, response):
@@ -77,35 +83,42 @@ class BarnesAndNoblesCrawler(Spider) :
             # Scrape the Title of the book (Not the original name, might have series number in the name)
             ext_bookname = selector.xpath('//*[@id="prodSummary"]/h1/text()').extract_first()
             itm['Original_Title'] = ext_bookname
-        except:
+        except Exception as e:
+            print "$$$$$$$$$$ Exception:",e
             return
 
         try:
             ext_author = selector.xpath('//*[@id="prodSummary"]/span/a/text()').extract_first();
             itm['Author'] = ext_author
-        except:
+        except Exception as e:
+            print "$$$$$$$$$$ Exception:",e
             return
 
-        try:
-            #product details are listed in the below format
-            """
-            ISBN-13:            9780545139700
-            Publisher:          Scholastic, Inc.
-            Publication date:   07/07/2009
-            Series:             Harry Potter
-            Edition description:Reprint
-            Pages:              784
-            """
-            #The left column is the 'prod_detail_name' and right column values are 'prod_detail_value'
-            prod_detail_name = selector.xpath('//*[@id="additionalProductInfo"]/dl//dt/text()').extract()
-            prod_detail_value = []
-            for i in range(0, len(prod_detail_name)):
+      
+        #product details are listed in the below format
+        """
+        ISBN-13:            9780545139700
+        Publisher:          Scholastic, Inc.
+        Publication date:   07/07/2009
+        Series:             Harry Potter
+        Edition description:Reprint
+        Pages:              784
+        """
+        #The left column is the 'prod_detail_name' and right column values are 'prod_detail_value'
+        prod_detail_name = selector.xpath('//*[@id="additionalProductInfo"]/dl//dt/text()').extract()
+        prod_detail_value = []
+        for i in range(0, len(prod_detail_name)):
+            try:
                 value = selector.xpath('//*[@id="additionalProductInfo"]/dl/dd[' + str(i + 1) + ']//text()').extract()
                 value = "".join(value).strip()
                 print value
                 prod_detail_value.append(value)
-        
-            for i in range(0, len(prod_detail_name)):
+            except Exception as e:
+                print "$$$$$$$$$$ Exception:",e
+                return
+    
+        for i in range(0, len(prod_detail_name)):
+            try:
                 print prod_detail_name[i],":", prod_detail_value[i]
                 if prod_detail_name[i] == "ISBN-13:":
                     itm['ISBN-13'] = prod_detail_value[i]
@@ -120,10 +133,10 @@ class BarnesAndNoblesCrawler(Spider) :
                     month, day, year = prod_detail_value[i].split('/')
                     print "Date : ", self.date_map[int(month)], self.daymap(int(day)), year
                     itm['Publication date'] = prod_detail_value[i]        
-        except:
-            print "Exception macha !"
-            return
-        
+            except Exception as e:
+                print "$$$$$$$$$$ Exception:",e
+                return
+    
         #As fetching pages are done within threads, use locks for the shared tuple_count variable
         lock = threading.Lock()
         with lock:
@@ -134,18 +147,21 @@ class BarnesAndNoblesCrawler(Spider) :
     
     #to match the date format of goodreads, we need to append postfixes st,nd,rd,th after the date.
     def daymap(self, day):
-        if day == 1 or day == 21 or day == 31:
-            return str(day) + "st"
-        
-        if day == 2 or day == 22:
-            return str(day) + "nd"
-        
-        if day == 3 or day == 23:
-            return str(day) + "rd"
+        try:
+            if day == 1 or day == 21 or day == 31:
+                return str(day) + "st"
             
-        return str(day) + "th"
-        
-    
+            if day == 2 or day == 22:
+                return str(day) + "nd"
+            
+            if day == 3 or day == 23:
+                return str(day) + "rd"
+            
+            return str(day) + "th"
+        except Exception as e:
+            print "$$$$$$$$$$ Exception:",e
+            return "NULL"
+
     # read 14000 books from good reads. Read 50% of books from 21st centruy best sellers and
     # remaning 50% from 20th century. This make barnes and nobles' book details to match only 50% with good reads.
     # (goodreads details are only containing 21st century best sellers)
