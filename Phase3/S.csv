@@ -1,22 +1,22 @@
 _id,ltable_ISBN13,rtable_ISBN13,ltable_Original_Title,ltable_Author,ltable_Publisher,ltable_Published_Date,rtable_Original_Title,rtable_Author,rtable_Publisher,rtable_Published_Date,label
-13,9780006486015,9780553582444,Fool's Errand,Robin Hobb, Voyager,2002,Fool's Errand (Tawny Man Series #1),Robin Hobb,Random House Publishing Group,2002,0
-18,9780007149827,9780007149834,The Yiddish Policemen's Union,Michael Chabon, HarperCollins,2007,The Yiddish Policemen's Union,Michael Chabon,HarperCollins Publishers,2008,0
+13,9780006486015,9780553582444,Fool's Errand,Robin Hobb, Voyager,2002,Fool's Errand (Tawny Man Series #1),Robin Hobb,Random House Publishing Group,2002,1
+18,9780007149827,9780007149834,The Yiddish Policemen's Union,Michael Chabon, HarperCollins,2007,The Yiddish Policemen's Union,Michael Chabon,HarperCollins Publishers,2008,1
 24,9780007165162,9780446355452,Are You Afraid of the Dark?,Sidney Sheldon, HarperCollins Publishers,2005,Master of the Game,Sidney Sheldon,Grand Central Publishing,1988,0
 40,9780007201785,9780385344210,Bones of the Hills,Conn Iggulden, HarperCollins,2008,Genghis: Birth of an Empire (Khan Dynasty Series #1),Conn Iggulden,Random House Publishing Group,2010,0
 44,9780007208005,9781401307462,The Tea Rose,Jennifer Donnelly, Harper Collins Ltd,2006,The Winter Rose,Jennifer Donnelly,Hachette Books,2009,0
-77,9780007273744,9780061561658,The Dragon Keeper,Robin Hobb, Voyager,2009,Dragon Keeper (Rain Wilds Chronicles #1),Robin Hobb,HarperCollins Publishers,2011,0
+77,9780007273744,9780061561658,The Dragon Keeper,Robin Hobb, Voyager,2009,Dragon Keeper (Rain Wilds Chronicles #1),Robin Hobb,HarperCollins Publishers,2011,1
 87,9780007302147,9780061240904,Skulduggery Pleasant: The Faceless Ones,Derek Landy, HarperCollins Children's Books,2009,Playing with Fire (Skulduggery Pleasant Series #2),Derek Landy,HarperCollins Publishers,2009,0
 115,9780007335817,9780061561658,Dragon Haven,Robin Hobb, Voyager,2010,Dragon Keeper (Rain Wilds Chronicles #1),Robin Hobb,HarperCollins Publishers,2011,0
-127,9780007343874,9780062060747,The Woodcutter,Reginald Hill, HarperCollins Publishers,2010,The Woodcutter,Reginald Hill,HarperCollins Publishers,2011,0
-189,9780060278250,9780062315571,Abhorsen,Garth Nix, HarperTeen,2002,Abhorsen (Abhorsen Series #3),Garth Nix,HarperCollins Publishers,2014,0
+127,9780007343874,9780062060747,The Woodcutter,Reginald Hill, HarperCollins Publishers,2010,The Woodcutter,Reginald Hill,HarperCollins Publishers,2011,1
+189,9780060278250,9780062315571,Abhorsen,Garth Nix, HarperTeen,2002,Abhorsen (Abhorsen Series #3),Garth Nix,HarperCollins Publishers,2014,1
 190,9780060393496,9780061469084,The Hour I First Believed,Wally Lamb, Harper,2008,I Know This Much Is True,Wally Lamb,HarperCollins Publishers,2008,0
-216,9780060515126,9780060515133,The Plague of Doves,Louise Erdrich, HarperCollins,2008,The Plague of Doves,Louise Erdrich,HarperCollins Publishers,2009,0
+216,9780060515126,9780060515133,The Plague of Doves,Louise Erdrich, HarperCollins,2008,The Plague of Doves,Louise Erdrich,HarperCollins Publishers,2009,1
 243,9780060518059,9780887308581,Dilbert and the Way of the Weasel,Scott Adams, HarperBusiness,2002,"Dilbert Principle: A Cubicle's-Eye View of Bosses, Meetings, Management Fads and Other Workplace Afflictions",Scott Adams,HarperCollins Publishers,1997,0
 249,9780060525118,9780061479939,"Size 12 Is Not Fat (Heather Wells, #1)",Meg Cabot, William Morrow Paperbacks,2005,The Princess Diaries (Princess Diaries Series #1),Meg Cabot,HarperCollins Publishers,2008,0
-256,9780060530921,9780060530945,The Graveyard Book,Neil Gaiman, HarperCollins,2008,The Graveyard Book,Neil Gaiman,HarperCollins Publishers,2010,0
+256,9780060530921,9780060530945,The Graveyard Book,Neil Gaiman, HarperCollins,2008,The Graveyard Book,Neil Gaiman,HarperCollins Publishers,2010,1
 270,9780060535032,9788401342615,La ciudad de las bestias,Isabel Allende, Rayo,2004,De amor y de sombra,Isabel Allende,Penguin Random House Grupo Editorial EspaÌ±a,2014,0
-273,9780060542979,9780062277770,The Lost: A Search for Six of Six Million,Daniel Mendelsohn, Harper,2006,The Lost: A Search for Six of Six Million,Daniel Mendelsohn,HarperCollins Publishers,2013,0
-284,9780060566227,9780064408653,The Vile Village,Lemony Snicket, HarperCollins Publishers,2001,The Vile Village: Book the Seventh (A Series of Unfortunate Events),Lemony Snicket,HarperCollins Publishers,2001,0
+273,9780060542979,9780062277770,The Lost: A Search for Six of Six Million,Daniel Mendelsohn, Harper,2006,The Lost: A Search for Six of Six Million,Daniel Mendelsohn,HarperCollins Publishers,2013,1
+284,9780060566227,9780064408653,The Vile Village,Lemony Snicket, HarperCollins Publishers,2001,The Vile Village: Book the Seventh (A Series of Unfortunate Events),Lemony Snicket,HarperCollins Publishers,2001,1
 286,9780060572150,9780060572150,Truth & Beauty: A Friendship,Ann Patchett, Harper Perennial,2005,Truth and Beauty: A Friendship,Ann Patchett,HarperCollins Publishers,2005,1
 294,9780060572990,9780060572969,Every Which Way But Dead,Kim Harrison, HarperTorch,2005,Dead Witch Walking (Hollows Series #1),Kim Harrison,HarperCollins Publishers,2004,0
 303,9780060577360,9780060577391,"Flyte (Septimus Heap, #2)",Angie Sage, HarperCollins Publishers,2007,Physik (Septimus Heap Series #3),Angie Sage,HarperCollins Publishers,2008,0
@@ -25,164 +25,164 @@ _id,ltable_ISBN13,rtable_ISBN13,ltable_Original_Title,ltable_Author,ltable_Publi
 306,9780060577377,9780060577360,Physik (Septimus Heap #3),Angie Sage, Katherine Tegen Books,2007,Flyte (Septimus Heap Series #2),Angie Sage,HarperCollins Publishers,2007,0
 320,9780060589448,9788401342615,El reino del dragÌ_n de oro,Isabel Allende, Rayo,2005,De amor y de sombra,Isabel Allende,Penguin Random House Grupo Editorial EspaÌ±a,2014,0
 369,9780060750862,9780060750862,The System of the World,Neal Stephenson, William Morrow Paperbacks,2005,The System of the World (Baroque Cycle Series #3),Neal Stephenson,HarperCollins Publishers,2005,1
-383,9780060766245,9780060766269,"Night of the Soul Stealer (The Last Apprentice / Wardstone Chronicles, Book 3)",Joseph Delaney, Greenwillow Books,2007,Night of the Soul Stealer (Last Apprentice Series #3),Joseph Delaney,HarperCollins Publishers,2008,0
+383,9780060766245,9780060766269,"Night of the Soul Stealer (The Last Apprentice / Wardstone Chronicles, Book 3)",Joseph Delaney, Greenwillow Books,2007,Night of the Soul Stealer (Last Apprentice Series #3),Joseph Delaney,HarperCollins Publishers,2008,1
 396,9780060787219,9780060951276,El Zorro,Isabel Allende, HarperLargePrint,2005,El plan infinito (The Infinite Plan),Isabel Allende,HarperCollins Publishers,2002,0
-406,9780060788704,9780061149825,The Outlaw Demon Wails,Kim Harrison, Eos,2008,The Outlaw Demon Wails (Hollows Series #6),Kim Harrison,HarperCollins Publishers,2008,0
+406,9780060788704,9780061149825,The Outlaw Demon Wails,Kim Harrison, Eos,2008,The Outlaw Demon Wails (Hollows Series #6),Kim Harrison,HarperCollins Publishers,2008,1
 411,9780060817275,9780425219256,City of Shadows,Ariana Franklin, William Morrow Paperbacks,2007,Mistress of the Art of Death (Mistress of the Art of Death Series #1),Ariana Franklin,Penguin Publishing Group,2008,0
-415,9780060821098,9780060821104,MirrorMask,Neil Gaiman, HarperCollins Publishers,2005,MirrorMask,Neil Gaiman,HarperCollins Publishers,2005,0
+415,9780060821098,9780060821104,MirrorMask,Neil Gaiman, HarperCollins Publishers,2005,MirrorMask,Neil Gaiman,HarperCollins Publishers,2005,1
 426,9780060825317,9780060825317,The Madonnas of Leningrad,Debra Dean, Harper Perennial,2007,The Madonnas of Leningrad: A Novel,Debra Dean,HarperCollins Publishers,2007,1
-429,9780060835774,9780062642981,The King of Attolia,Megan Whalen Turner, Greenwillow Books,2006,The King of Attolia,Megan Whalen Turner,HarperCollins Publishers,2017,0
-465,9780060881900,9780062326034,"Taking Charge of Your Fertility: The Definitive Guide to Natural Birth Control, Pregnancy Achievement, and Reproductive Health",Toni Weschler, William Morrow Paperbacks,2006,"Taking Charge of Your Fertility, 20th Anniversary Edition: The Definitive Guide to Natural Birth Control, Pregnancy Achievement, and Reproductive Health",Toni Weschler,HarperCollins Publishers,2015,0
+429,9780060835774,9780062642981,The King of Attolia,Megan Whalen Turner, Greenwillow Books,2006,The King of Attolia,Megan Whalen Turner,HarperCollins Publishers,2017,1
+465,9780060881900,9780062326034,"Taking Charge of Your Fertility: The Definitive Guide to Natural Birth Control, Pregnancy Achievement, and Reproductive Health",Toni Weschler, William Morrow Paperbacks,2006,"Taking Charge of Your Fertility, 20th Anniversary Edition: The Definitive Guide to Natural Birth Control, Pregnancy Achievement, and Reproductive Health",Toni Weschler,HarperCollins Publishers,2015,1
 473,9780060887186,9780061149047,The Last Kingdom,Bernard Cornwell, HarperCollins,2006,Lords of the North (Last Kingdom Series #3) (Saxon Tales),Bernard Cornwell,HarperCollins Publishers,2008,0
 514,9780060989156,9780060989156,The Dirt: Confessions of the World's Most Notorious Rock Band,Tommy Lee, HarperCollins Publishers,2002,The Dirt: Confessions of the World's Most Notorious Rock Band,Tommy Lee,HarperCollins Publishers,2002,1
-532,9780061130359,9780061130366,Sacred Games,Vikram Chandra, HarperCollins,2006,Sacred Games,Vikram Chandra,HarperCollins Publishers,2007,0
+532,9780061130359,9780061130366,Sacred Games,Vikram Chandra, HarperCollins,2006,Sacred Games,Vikram Chandra,HarperCollins Publishers,2007,1
 536,9780061138010,9780060572969,"White Witch, Black Curse",Kim Harrison, Eos,2009,Dead Witch Walking (Hollows Series #1),Kim Harrison,HarperCollins Publishers,2004,0
-573,9780061147975,9780061147982,20th Century Ghosts,Joe Hill, William Morrow,2007,20th Century Ghosts,Joe Hill,HarperCollins Publishers,2008,0
-595,9780061214684,9780061214707,"Ink Exchange (Wicked Lovely, #2)",Melissa Marr, HarperTeen,2008,Ink Exchange (Wicked Lovely Series #2),Melissa Marr,HarperCollins Publishers,2009,0
+573,9780061147975,9780061147982,20th Century Ghosts,Joe Hill, William Morrow,2007,20th Century Ghosts,Joe Hill,HarperCollins Publishers,2008,1
+595,9780061214684,9780061214707,"Ink Exchange (Wicked Lovely, #2)",Melissa Marr, HarperTeen,2008,Ink Exchange (Wicked Lovely Series #2),Melissa Marr,HarperCollins Publishers,2009,1
 615,9780061231155,9780061240935,Skulduggery Pleasant,Derek Landy, HarperCollins,2007,The Faceless Ones (Skulduggery Pleasant Series #3),Derek Landy,HarperCollins Publishers,2010,0
-649,9780061284397,9780061284441,Evernight,Claudia Gray, HarperTeen,2009,Evernight (Evernight Series #1),Claudia Gray,HarperCollins Publishers,2009,0
-730,9780061668067,9780061668081,Spells,Aprilynne Pike, HarperTeen,2010,Spells (Laurel Series #2),Aprilynne Pike,HarperCollins Publishers,2011,0
-756,9780061779725,9780061779732,Bite Me,Christopher Moore, HarperCollins William Morrow,2010,Bite Me,Christopher Moore,HarperCollins Publishers,2011,0
-778,9780061779848,9780061779862,Desires of the Dead,Kimberly Derting, HarperCollins Children's Books,2011,Desires of the Dead (Body Finder Series #2),Kimberly Derting,HarperCollins Publishers,2012,0
+649,9780061284397,9780061284441,Evernight,Claudia Gray, HarperTeen,2009,Evernight (Evernight Series #1),Claudia Gray,HarperCollins Publishers,2009,1
+730,9780061668067,9780061668081,Spells,Aprilynne Pike, HarperTeen,2010,Spells (Laurel Series #2),Aprilynne Pike,HarperCollins Publishers,2011,1
+756,9780061779725,9780061779732,Bite Me,Christopher Moore, HarperCollins William Morrow,2010,Bite Me,Christopher Moore,HarperCollins Publishers,2011,1
+778,9780061779848,9780061779862,Desires of the Dead,Kimberly Derting, HarperCollins Children's Books,2011,Desires of the Dead (Body Finder Series #2),Kimberly Derting,HarperCollins Publishers,2012,1
 812,9780061870934,9780062642981,A Conspiracy of Kings,Megan Whalen Turner, Greenwillow Books/HarperCollins Publishers,2010,The King of Attolia,Megan Whalen Turner,HarperCollins Publishers,2017,0
 819,9780061916052,9780061916052,The Financial Lives of the Poets,Jess Walter, Harper Perennial,2010,The Financial Lives of the Poets,Jess Walter,HarperCollins Publishers,2010,1
-823,9780061928123,9780061928178,Beautiful Ruins,Jess Walter, Harper,2012,Beautiful Ruins,Jess Walter,HarperCollins Publishers,2013,0
+823,9780061928123,9780061928178,Beautiful Ruins,Jess Walter, Harper,2012,Beautiful Ruins,Jess Walter,HarperCollins Publishers,2013,1
 832,9780061933080,9780061456770,City of Souls,Vicki Pettersson, HarperCollins e-books,2009,Cheat the Grave (Signs of the Zodiac Series #5),Vicki Pettersson,HarperCollins Publishers,2010,0
 833,9780061935084,9780061935138,"Firelight (Firelight, #1)",Sophie Jordan, HarperTeen,2010,Hidden: A Firelight Novel,Sophie Jordan,HarperCollins Publishers,2013,0
-852,9780061974557,9780061974571,The Power of Six,Pittacus Lore, HarperCollins,2011,The Power of Six (Lorien Legacies Series #2),Pittacus Lore,HarperCollins Publishers,2012,0
-866,9780061997952,9780061456770,Cheat the Grave,Vicki Pettersson, HarperCollins e-books,2010,Cheat the Grave (Signs of the Zodiac Series #5),Vicki Pettersson,HarperCollins Publishers,2010,0
-890,9780062041265,9780062041289,The Sisters Brothers,Patrick deWitt, Ecco,2011,The Sisters Brothers,Patrick deWitt,HarperCollins Publishers,2012,0
-892,9780062049803,9780062049810,State of Wonder,Ann Patchett, HarperCollins Publishers,2011,State of Wonder,Ann Patchett,HarperCollins Publishers,2012,0
+852,9780061974557,9780061974571,The Power of Six,Pittacus Lore, HarperCollins,2011,The Power of Six (Lorien Legacies Series #2),Pittacus Lore,HarperCollins Publishers,2012,1
+866,9780061997952,9780061456770,Cheat the Grave,Vicki Pettersson, HarperCollins e-books,2010,Cheat the Grave (Signs of the Zodiac Series #5),Vicki Pettersson,HarperCollins Publishers,2010,1
+890,9780062041265,9780062041289,The Sisters Brothers,Patrick deWitt, Ecco,2011,The Sisters Brothers,Patrick deWitt,HarperCollins Publishers,2012,1
+892,9780062049803,9780062049810,State of Wonder,Ann Patchett, HarperCollins Publishers,2011,State of Wonder,Ann Patchett,HarperCollins Publishers,2012,1
 895,9780062059932,9780062349859,The Selection,Kiera Cass, HarperTeen,2012,The Heir (Selection Series #4),Kiera Cass,HarperCollins Publishers,2015,0
 937,9780062072184,9780451215734,Portrait of a Spy,Daniel Silva, Harper,2011,Prince of Fire (Gabriel Allon Series #5),Daniel Silva,Penguin Publishing Group,2006,0
 946,9780062078148,9780062019745,One Lucky Vampire,Lynsay Sands, Avon,2013,Love Bites (Argeneau Vampire Series #2),Lynsay Sands,HarperCollins Publishers,2010,0
 1034,9780062285683,9780062237422,Four: A Divergent Collection,Veronica Roth, HarperCollins Publishers,2014,Free Four: Tobias Tells the Divergent Knife-Throwing Scene,Veronica Roth,HarperCollins Publishers,2012,0
 1037,9780062285683,9780062388452,Four: A Divergent Collection,Veronica Roth, HarperCollins Publishers,2014,Insurgent (B&N Exclusive Edition) (Divergent Series #2),Veronica Roth,HarperCollins Children's Books,2015,0
 1060,9780064410144,9780064410144,The Grim Grotto,Lemony Snicket, HarperCollins Publishers,2004,The Grim Grotto: Book the Eleventh (A Series of Unfortunate Events),Lemony Snicket,HarperCollins Publishers,2004,1
-1107,9780099490579,9783442416561,Die Stadt der TrÌ_umenden BÌ_cher,Walter Moers, Vintage,2007,Die 13 1/2 Leben des KÌ_pt'n BlaubÌ_r,Walter Moers,"Goldmann, Wilhelm Verlag GmbH",2001,0
-1109,9780099494287,9780802118776,Blood River: A Journey to Africa's Broken Heart,Tim Butcher, Vintage,2008,Blood River: A Journey to Africa's Broken Heart,Tim Butcher,"Grove/Atlantic, Inc.",2008,0
-1117,9780099559245,9780812979787,Night Film,Marisha Pessl, Windmill Books,2014,Night Film,Marisha Pessl,Random House Publishing Group,2014,0
-1124,9780099592419,9780679744665,The Moor's Last Sigh,Salman Rushdie, Vintage,1996,The Moor's Last Sigh,Salman Rushdie,Knopf Doubleday Publishing Group,1997,0
-1143,9780141325026,9781484721469,The Enemy,Charlie Higson, Penguin UK,2009,The Enemy (Enemy Series #1),Charlie Higson,Disney Press,2014,0
-1145,9780141329994,9780786838653,The Lightning Thief,Rick Riordan, Puffin,2009,The Lightning Thief (Percy Jackson and the Olympians Series #1),Rick Riordan,Disney-Hyperion,2006,0
+1107,9780099490579,9783442416561,Die Stadt der TrÌ_umenden BÌ_cher,Walter Moers, Vintage,2007,Die 13 1/2 Leben des KÌ_pt'n BlaubÌ_r,Walter Moers,"Goldmann, Wilhelm Verlag GmbH",2001,1
+1109,9780099494287,9780802118776,Blood River: A Journey to Africa's Broken Heart,Tim Butcher, Vintage,2008,Blood River: A Journey to Africa's Broken Heart,Tim Butcher,"Grove/Atlantic, Inc.",2008,1
+1117,9780099559245,9780812979787,Night Film,Marisha Pessl, Windmill Books,2014,Night Film,Marisha Pessl,Random House Publishing Group,2014,1
+1124,9780099592419,9780679744665,The Moor's Last Sigh,Salman Rushdie, Vintage,1996,The Moor's Last Sigh,Salman Rushdie,Knopf Doubleday Publishing Group,1997,1
+1143,9780141325026,9781484721469,The Enemy,Charlie Higson, Penguin UK,2009,The Enemy (Enemy Series #1),Charlie Higson,Disney Press,2014,1
+1145,9780141329994,9780786838653,The Lightning Thief,Rick Riordan, Puffin,2009,The Lightning Thief (Percy Jackson and the Olympians Series #1),Rick Riordan,Disney-Hyperion,2006,1
 1168,9780141335742,9781423142027,"The Mark of Athena (The Heroes of Olympus, #3)",Rick Riordan, Puffin,2012,The Serpent's Shadow (Kane Chronicles Series #3),Rick Riordan,Disney Press,2013,0
 1169,9780141335742,9781423146735,"The Mark of Athena (The Heroes of Olympus, #3)",Rick Riordan, Puffin,2012,The Blood of Olympus (Heroes of Olympus Series #5),Rick Riordan,Disney Press,2014,0
 1171,9780141335742,9781423160915,"The Mark of Athena (The Heroes of Olympus, #3)",Rick Riordan, Puffin,2012,The Sword of Summer (Magnus Chase and the Gods of Asgard Series #1),Rick Riordan,Disney Press,2015,0
-1174,9780141339283,9780142422854,The Burning Shadow,Michelle Paver, Puffin,2014,The Burning Shadow,Michelle Paver,Penguin Young Readers Group,2015,0
-1181,9780141346885,9781423101505,The Last Olympian,Rick Riordan, Penguin Group,2013,The Last Olympian (Percy Jackson and the Olympians Series #5),Rick Riordan,Disney-Hyperion,2011,0
+1174,9780141339283,9780142422854,The Burning Shadow,Michelle Paver, Puffin,2014,The Burning Shadow,Michelle Paver,Penguin Young Readers Group,2015,1
+1181,9780141346885,9781423101505,The Last Olympian,Rick Riordan, Penguin Group,2013,The Last Olympian (Percy Jackson and the Olympians Series #5),Rick Riordan,Disney-Hyperion,2011,1
 1213,9780142001431,9780142001431,Year of Wonders: A Novel of the Plague,Geraldine Brooks, Penguin,2002,Year of Wonders: A Novel of the Plague,Geraldine Brooks,Penguin Publishing Group,2002,1
 1223,9780142002001,9780142002001,Youth: Scenes from Provincial Life II,J.M. Coetzee, Penguin Books,2003,Youth: Scenes from Provincial Life II,J. M. Coetzee,Penguin Publishing Group,2003,1
 1224,9780142002001,9780142422557,Youth: Scenes from Provincial Life II,J.M. Coetzee, Penguin Books,2003,"Scenes from Provincial Life: Boyhood, Youth, Summertime",J. M. Coetzee,Penguin Publishing Group,2012,0
-1235,9780142004128,9780006550969,White Mughals: Love and Betrayal in Eighteenth-Century India,William Dalrymple, Penguin Books,2004,White Mughals: Love and Betrayal in Eighteenth-Century India,William Dalrymple,HarperCollins Publishers,2003,0
+1235,9780142004128,9780006550969,White Mughals: Love and Betrayal in Eighteenth-Century India,William Dalrymple, Penguin Books,2004,White Mughals: Love and Betrayal in Eighteenth-Century India,William Dalrymple,HarperCollins Publishers,2003,1
 1285,9780143034759,9780143034759,Alexander Hamilton,Ron Chernow, Penguin Books,2005,Alexander Hamilton,Ron Chernow,Penguin Publishing Group,2005,1
 1296,9780143036661,9780143036661,March,Geraldine Brooks, Penguin,2006,March,Geraldine Brooks,Penguin Publishing Group,2006,1
-1339,9780152063115,9780547258553,The Dead and the Gone,Susan Beth Pfeffer, HMH Books for Young Readers,2008,The Dead and the Gone (Life As We Knew It #2),Susan Beth Pfeffer,Houghton Mifflin Harcourt,2010,0
+1339,9780152063115,9780547258553,The Dead and the Gone,Susan Beth Pfeffer, HMH Books for Young Readers,2008,The Dead and the Gone (Life As We Knew It #2),Susan Beth Pfeffer,Houghton Mifflin Harcourt,2010,1
 1341,9780152064082,9780152064082,Dead Is the New Black,Marlene Perez, HMH Books for Young Readers,2008,Dead Is the New Black (Dead Is Series #1),Marlene Perez,Houghton Mifflin Harcourt,2008,1
 1343,9780156031448,9780156031448,Animals in Translation: Using the Mysteries of Autism to Decode Animal Behavior,Temple Grandin, Harcourt,2006,Animals in Translation: Using the Mysteries of Autism to Decode Animal Behavior,Temple Grandin,Houghton Mifflin Harcourt,2006,1
-1374,9780224094153,9780307947727,The Sense of an Ending,Julian Barnes, Jonathan Cape,2011,The Sense of an Ending,Julian Barnes,Knopf Doubleday Publishing Group,2012,0
-1388,9780241143957,9780156035729,The Stone Gods,Jeanette Winterson, Hamish Hamilton,2008,The Stone Gods,Jeanette Winterson,Houghton Mifflin Harcourt,2009,0
+1374,9780224094153,9780307947727,The Sense of an Ending,Julian Barnes, Jonathan Cape,2011,The Sense of an Ending,Julian Barnes,Knopf Doubleday Publishing Group,2012,1
+1388,9780241143957,9780156035729,The Stone Gods,Jeanette Winterson, Hamish Hamilton,2008,The Stone Gods,Jeanette Winterson,Houghton Mifflin Harcourt,2009,1
 1402,9780307263575,9780375714740,Cancer Vixen,Marisa Acocella Marchetto, Knopf,2006,Cancer Vixen,Marisa Acocella Marchetto,Knopf Doubleday Publishing Group,2009,0
-1433,9780307268198,9780307388407,Open: An Autobiography,Andre Agassi, Knopf,2009,Open: An Autobiography,Andre Agassi,Knopf Doubleday Publishing Group,2010,0
-1437,9780307269751,9788901116150,MÌ_n som hatar kvinnor,Stieg Larsson, Knopf,2008,Man Som Hatar Kvinnor (The Girl with the Dragon Tattoo),Stieg Larsson,Pul,2011,0
+1433,9780307268198,9780307388407,Open: An Autobiography,Andre Agassi, Knopf,2009,Open: An Autobiography,Andre Agassi,Knopf Doubleday Publishing Group,2010,1
+1437,9780307269751,9788901116150,MÌ_n som hatar kvinnor,Stieg Larsson, Knopf,2008,Man Som Hatar Kvinnor (The Girl with the Dragon Tattoo),Stieg Larsson,Pul,2011,1
 1438,9780307269751,9788901117331,MÌ_n som hatar kvinnor,Stieg Larsson, Knopf,2008,Flickan Som Lekte Med Elden (The Girl Who Played with Fire),Stieg Larsson,Pul,2011,0
-1442,9780307269980,9788901117331,Flickan som lekte med elden,Stieg Larsson, Alfred A. Knopf,2009,Flickan Som Lekte Med Elden (The Girl Who Played with Fire),Stieg Larsson,Pul,2011,0
-1446,9780307271037,9780307455796,The Buried Giant,Kazuo Ishiguro, Knopf,2015,The Buried Giant,Kazuo Ishiguro,Knopf Doubleday Publishing Group,2016,0
-1462,9780307275554,9780767914765,The Devil Wears Prada,Lauren Weisberger, Anchor Books,2006,The Devil Wears Prada,Lauren Weisberger,Crown/Archetype,2004,0
-1476,9780307277749,9780385489492,Marie Antoinette: The Journey,Antonia Fraser, Anchor Books,2006,Marie Antoinette: The Journey,Antonia Fraser,Knopf Doubleday Publishing Group,2002,0
+1442,9780307269980,9788901117331,Flickan som lekte med elden,Stieg Larsson, Alfred A. Knopf,2009,Flickan Som Lekte Med Elden (The Girl Who Played with Fire),Stieg Larsson,Pul,2011,1
+1446,9780307271037,9780307455796,The Buried Giant,Kazuo Ishiguro, Knopf,2015,The Buried Giant,Kazuo Ishiguro,Knopf Doubleday Publishing Group,2016,1
+1462,9780307275554,9780767914765,The Devil Wears Prada,Lauren Weisberger, Anchor Books,2006,The Devil Wears Prada,Lauren Weisberger,Crown/Archetype,2004,1
+1476,9780307277749,9780385489492,Marie Antoinette: The Journey,Antonia Fraser, Anchor Books,2006,Marie Antoinette: The Journey,Antonia Fraser,Knopf Doubleday Publishing Group,2002,1
 1480,9780307278364,9780307278364,The Sunset Limited,Cormac McCarthy, Vintage,2006,The Sunset Limited: A Novel in Dramatic Form,Cormac McCarthy,Knopf Doubleday Publishing Group,2006,1
-1490,9780307346605,9780307346612,World War Z: An Oral History of the Zombie War,Max Brooks, Crown,2006,World War Z: An Oral History of the Zombie War,Max Brooks,Crown/Archetype,2007,0
+1490,9780307346605,9780307346612,World War Z: An Oral History of the Zombie War,Max Brooks, Crown,2006,World War Z: An Oral History of the Zombie War,Max Brooks,Crown/Archetype,2007,1
 1491,9780307346605,9781400049622,World War Z: An Oral History of the Zombie War,Max Brooks, Crown,2006,The Zombie Survival Guide: Complete Protection from the Living Dead,Max Brooks,Crown/Archetype,2003,0
 1534,9780307594778,9787020084753,"MÌ_n som hatar kvinnor, Flickan som lekte med elden, Luftslottet som sprÌ_ngdes",Stieg Larsson, Knopf Doubleday Publishing Group,2010,Luftslottet Som Sprangdes (The Girl Who Kicked the Hornet's Nest),Stieg Larsson,Ren Min Wen Xue Chu Ban She/Tsai Fong Books,2011,0
-1547,9780307887436,9780307887443,Ready Player One,Ernest Cline, Crown Publishers,2011,Ready Player One,Ernest Cline,Crown/Archetype,2012,0
-1568,9780307984739,9780307984746,I am forbidden,Anouk Markovits, Hogarth,2012,I Am Forbidden,Anouk Markovits,Crown/Archetype,2013,0
-1569,9780310266303,9780310343707,The Irresistible Revolution: Living as an Ordinary Radical,Shane Claiborne, Zondervan,2006,"Irresistible Revolution, Updated and Expanded: Living as an Ordinary Radical",Shane Claiborne,Zondervan,2016,0
+1547,9780307887436,9780307887443,Ready Player One,Ernest Cline, Crown Publishers,2011,Ready Player One,Ernest Cline,Crown/Archetype,2012,1
+1568,9780307984739,9780307984746,I am forbidden,Anouk Markovits, Hogarth,2012,I Am Forbidden,Anouk Markovits,Crown/Archetype,2013,1
+1569,9780310266303,9780310343707,The Irresistible Revolution: Living as an Ordinary Radical,Shane Claiborne, Zondervan,2006,"Irresistible Revolution, Updated and Expanded: Living as an Ordinary Radical",Shane Claiborne,Zondervan,2016,1
 1574,9780312283780,9780312283780,Alice's Tulips,Sandra Dallas, St. Martin's Griffin,2001,Alice's Tulips,Sandra Dallas,St. Martin's Press,2001,1
 1576,9780312289515,9780312289515,The Christmas Shoes,Donna VanLiere, St. Martin's Press,2001,Christmas Shoes,Donna VanLiere,St. Martin's Press,2001,1
-1582,9780312321185,9780312321192,Something Borrowed,Emily Giffin, St. Martin's Press,2004,Something Borrowed,Emily Giffin,St. Martin's Press,2005,0
-1612,9780312349493,9780312349509,Lean Mean Thirteen,Janet Evanovich, St. Martin's Press,2007,Lean Mean Thirteen (Stephanie Plum Series #13),Janet Evanovich,St. Martin's Press,2008,0
-1658,9780312364120,9780312663155,Winter Garden,Kristin Hannah, St. Martin's Press,2010,Winter Garden,Kristin Hannah,St. Martin's Press,2011,0
+1582,9780312321185,9780312321192,Something Borrowed,Emily Giffin, St. Martin's Press,2004,Something Borrowed,Emily Giffin,St. Martin's Press,2005,1
+1612,9780312349493,9780312349509,Lean Mean Thirteen,Janet Evanovich, St. Martin's Press,2007,Lean Mean Thirteen (Stephanie Plum Series #13),Janet Evanovich,St. Martin's Press,2008,1
+1658,9780312364120,9780312663155,Winter Garden,Kristin Hannah, St. Martin's Press,2010,Winter Garden,Kristin Hannah,St. Martin's Press,2011,1
 1668,9780312377021,9781250031129,"A Rule Against Murder (Armand Gamache, #4)",Louise Penny, Minotaur,2009,The Beautiful Mystery (Chief Inspector Gamache Series #8),Louise Penny,St. Martin's Press,2013,0
-1673,9780312377045,9780312626907,Bury Your Dead,Louise Penny, Minotaur Books,2010,Bury Your Dead (Chief Inspector Gamache Series #6),Louise Penny,St. Martin's Press,2011,0
-1689,9780312383282,9780312383299,Finger Lickin' Fifteen,Janet Evanovich, St. Martin's Press,2009,Finger Lickin' Fifteen (Stephanie Plum Series #15),Janet Evanovich,St. Martin's Press,2010,0
-1711,9780312423797,9780312422271,Dry: A Memoir,Augusten Burroughs, Picador,2004,Running with Scissors: A Memoir,Augusten Burroughs,Picador,2003,0
-1718,9780312424671,9780312429522,Small Island,Andrea Levy, Picador,2005,Small Island,Andrea Levy,Picador,2010,0
+1673,9780312377045,9780312626907,Bury Your Dead,Louise Penny, Minotaur Books,2010,Bury Your Dead (Chief Inspector Gamache Series #6),Louise Penny,St. Martin's Press,2011,1
+1689,9780312383282,9780312383299,Finger Lickin' Fifteen,Janet Evanovich, St. Martin's Press,2009,Finger Lickin' Fifteen (Stephanie Plum Series #15),Janet Evanovich,St. Martin's Press,2010,1
+1711,9780312423797,9780312422271,Dry: A Memoir,Augusten Burroughs, Picador,2004,Running with Scissors: A Memoir,Augusten Burroughs,Picador,2003,1
+1718,9780312424671,9780312429522,Small Island,Andrea Levy, Picador,2005,Small Island,Andrea Levy,Picador,2010,1
 1722,9780312426811,9780312426811,Possible Side Effects,Augusten Burroughs, Picador,2007,Possible Side Effects,Augusten Burroughs,Picador,2007,1
-1741,9780312576981,9780312674434,The Murderer's Daughters,Randy Susan Meyers, St. Martin's Press,2010,The Murderer's Daughters,Randy Susan Meyers,St. Martin's Press,2011,0
-1758,9780312642969,9781250007216,Scarlet,Marissa Meyer, Feiwel & Friends,2013,Scarlet (Lunar Chronicles Series #2),Marissa Meyer,Square Fish,2014,0
+1741,9780312576981,9780312674434,The Murderer's Daughters,Randy Susan Meyers, St. Martin's Press,2010,The Murderer's Daughters,Randy Susan Meyers,St. Martin's Press,2011,1
+1758,9780312642969,9781250007216,Scarlet,Marissa Meyer, Feiwel & Friends,2013,Scarlet (Lunar Chronicles Series #2),Marissa Meyer,Square Fish,2014,1
 1766,9780312649623,9781250010193,The Girl Who Fell Beneath Fairyland and Led the Revels There,Catherynne M. Valente, Feiwel & Friends,2012,The Girl Who Circumnavigated Fairyland in a Ship of Her Own Making (Fairyland Series #1),Catherynne M. Valente,Square Fish,2012,0
-1768,9780312650094,9781250034182,Outpost,Ann Aguirre, Feiwel & Friends,2012,Outpost (Enclave Series #2),Ann Aguirre,Square Fish,2013,0
-1844,9780316011716,9780316011709,Firegirl,Tony Abbott," Little, Brown Books for Young Readers",2006,Firegirl,Tony Abbott,"Little, Brown Books for Young Readers",2007,0
+1768,9780312650094,9781250034182,Outpost,Ann Aguirre, Feiwel & Friends,2012,Outpost (Enclave Series #2),Ann Aguirre,Square Fish,2013,1
+1844,9780316011716,9780316011709,Firegirl,Tony Abbott," Little, Brown Books for Young Readers",2006,Firegirl,Tony Abbott,"Little, Brown Books for Young Readers",2007,1
 1852,9780316013680,9780802138002,The Absolutely True Diary of a Part-Time Indian,Sherman Alexie," Little, Brown Books for Young Readers",2007,The Toughest Indian in the World,Sherman Alexie,"Grove/Atlantic, Inc.",2001,0
 1871,9780316014502,9780316506106,You've Been Warned,James Patterson," Little, Brown and Company",2007,You've Been Warned--Again,James Patterson,"Little, Brown and Company",2017,0
 1881,9780316015844,9780316015844,Twilight,Stephenie Meyer," Little, Brown and Company",2006,Twilight,Stephenie Meyer,"Little, Brown Books for Young Readers",2006,1
-1891,9780316017923,9780316017930,Outliers: The Story of Success,Malcolm Gladwell," Little, Brown and Company",2008,Outliers: The Story of Success,Malcolm  Gladwell,"Little, Brown and Company",2011,0
+1891,9780316017923,9780316017930,Outliers: The Story of Success,Malcolm Gladwell," Little, Brown and Company",2008,Outliers: The Story of Success,Malcolm  Gladwell,"Little, Brown and Company",2011,1
 1925,9780316018784,9780446601245,"I, Alex Cross",James Patterson," Little, Brown and Company",2009,Kiss the Girls (Alex Cross Series #2),James Patterson,Grand Central Publishing,1995,0
 1947,9780316033664,9780316033671,Beyond the Shadows,Brent Weeks, Orbit,2008,The Way of Shadows (Night Angel Trilogy #1),Brent Weeks,Orbit,2008,0
-1956,9780316034043,9780446539777,The Murder of King Tut,James Patterson," Little, Brown and Company",2009,The Murder of King Tut,James Patterson,Grand Central Publishing,2010,0
+1956,9780316034043,9780446539777,The Murder of King Tut,James Patterson," Little, Brown and Company",2009,The Murder of King Tut,James Patterson,Grand Central Publishing,2010,1
 1958,9780316034043,9780446610032,The Murder of King Tut,James Patterson," Little, Brown and Company",2009,1st to Die (Women's Murder Club Series #1),James Patterson,Grand Central Publishing,2002,0
-1964,9780316036191,9780316038317,Fang,James Patterson, jimmy patterson,2010,FANG (Maximum Ride Series #6),James Patterson,"Little, Brown and Company",2011,0
-1981,9780316041447,9780316041454,Hate List,Jennifer Brown," Little, Brown Books for Young Readers",2009,Hate List,Jennifer Brown,"Little, Brown Books for Young Readers",2010,0
-1982,9780316042673,9780316077033,Beautiful Creatures,Kami Garcia," Little, Brown and Company",2009,Beautiful Creatures (Beautiful Creatures Series #1),Kami Garcia,"Little, Brown Books for Young Readers",2010,0
+1964,9780316036191,9780316038317,Fang,James Patterson, jimmy patterson,2010,FANG (Maximum Ride Series #6),James Patterson,"Little, Brown and Company",2011,1
+1981,9780316041447,9780316041454,Hate List,Jennifer Brown," Little, Brown Books for Young Readers",2009,Hate List,Jennifer Brown,"Little, Brown Books for Young Readers",2010,1
+1982,9780316042673,9780316077033,Beautiful Creatures,Kami Garcia," Little, Brown and Company",2009,Beautiful Creatures (Beautiful Creatures Series #1),Kami Garcia,"Little, Brown Books for Young Readers",2010,1
 1983,9780316042673,9780316123518,Beautiful Creatures,Kami Garcia," Little, Brown and Company",2009,Beautiful Chaos (Beautiful Creatures Series #3),Kami Garcia,"Little, Brown Books for Young Readers",2012,0
-1988,9780316056632,9780316402415,Soulless,Gail Carriger, Orbit,2009,Soulless (Parasol Protectorate Series #1),Gail Carriger,Orbit,2014,0
-1990,9780316057776,9780316003957,The Mysterious Benedict Society,Trenton Lee Stewart," Little, Brown and Company",2007,The Mysterious Benedict Society (Mysterious Benedict Society Series #1),Trenton Lee Stewart,"Little, Brown Books for Young Readers",2008,0
-2004,9780316068048,9780316218511,The Host,Stephenie Meyer, Little Brown and Company,2008,The Host,Stephenie Meyer,"Little, Brown and Company",2013,0
+1988,9780316056632,9780316402415,Soulless,Gail Carriger, Orbit,2009,Soulless (Parasol Protectorate Series #1),Gail Carriger,Orbit,2014,1
+1990,9780316057776,9780316003957,The Mysterious Benedict Society,Trenton Lee Stewart," Little, Brown and Company",2007,The Mysterious Benedict Society (Mysterious Benedict Society Series #1),Trenton Lee Stewart,"Little, Brown Books for Young Readers",2008,1
+2004,9780316068048,9780316218511,The Host,Stephenie Meyer, Little Brown and Company,2008,The Host,Stephenie Meyer,"Little, Brown and Company",2013,1
 2020,9780316070621,9780446613262,Alex Cross's Trial,James Patterson," Little, Brown and Company",2009,Four Blind Mice (Alex Cross Series #8),James Patterson,Grand Central Publishing,2003,0
 2038,9780316077057,9780316123518,Beautiful Darkness,Kami Garcia," Little, Brown and Company",2010,Beautiful Chaos (Beautiful Creatures Series #3),Kami Garcia,"Little, Brown Books for Young Readers",2012,0
-2040,9780316078573,9780316076203,What the Dog Saw and Other Adventures,Malcolm Gladwell," Little, Brown and Company",2009,What the Dog Saw: And Other Adventures,Malcolm  Gladwell,"Little, Brown and Company",2010,0
+2040,9780316078573,9780316076203,What the Dog Saw and Other Adventures,Malcolm Gladwell," Little, Brown and Company",2009,What the Dog Saw: And Other Adventures,Malcolm  Gladwell,"Little, Brown and Company",2010,1
 2096,9780316123532,9780316123518,Beautiful Redemption,Kami Garcia," Little, Brown Books for Young Readers",2012,Beautiful Chaos (Beautiful Creatures Series #3),Kami Garcia,"Little, Brown Books for Young Readers",2012,0
-2097,9780316123532,9780316123563,Beautiful Redemption,Kami Garcia," Little, Brown Books for Young Readers",2012,Beautiful Redemption (Beautiful Creatures Series #4),Kami Garcia,"Little, Brown Books for Young Readers",2013,0
-2104,9780316126113,9780316126106,The Diviners,Libba Bray," Little, Brown Books for Young Readers",2012,The Diviners (Diviners Series #1),Libba Bray,"Little, Brown Books for Young Readers",2013,0
+2097,9780316123532,9780316123563,Beautiful Redemption,Kami Garcia," Little, Brown Books for Young Readers",2012,Beautiful Redemption (Beautiful Creatures Series #4),Kami Garcia,"Little, Brown Books for Young Readers",2013,1
+2104,9780316126113,9780316126106,The Diviners,Libba Bray," Little, Brown Books for Young Readers",2012,The Diviners (Diviners Series #1),Libba Bray,"Little, Brown Books for Young Readers",2013,1
 2112,9780316154512,9780316154512,A Wedding in December,Anita Shreve, Back Bay Books,2006,A Wedding in December,Anita Shreve,"Little, Brown and Company",2006,1
-2171,9780316166683,9780316168816,The Lovely Bones,Alice Sebold," Little, Brown and Company",2006,The Lovely Bones,Alice Sebold,"Little, Brown and Company",2004,0
-2176,9780316176484,9780316176491,Life After Life,Kate Atkinson, Reagan Arthur Books,2013,Life After Life,Kate Atkinson,"Little, Brown and Company",2014,0
-2189,9780316206846,9780316206853,The Cuckoo's Calling,Robert Galbraith," Mulholland Books / Little, Brown and Company",2013,The Cuckoo's Calling (Cormoran Strike Series #1),Robert Galbraith,"Little, Brown and Company",2014,0
-2203,9780316230810,9780594794806,We Need New Names,NoViolet Bulawayo, Reagan Arthur Books,2013,We Need New Names,NoViolet Bulawayo,"Little, Brown and Company",2014,0
-2243,9780330490269,9780743228480,Dirt Music,Tim Winton, Picador,2008,Dirt Music,Tim Winton,Scribner,2003,0
-2256,9780340936719,9781416569558,The Lovers,John Connolly, Hodder & Stoughton,2010,The Lovers (Charlie Parker Series #8),John Connolly,Pocket Star,2011,0
+2171,9780316166683,9780316168816,The Lovely Bones,Alice Sebold," Little, Brown and Company",2006,The Lovely Bones,Alice Sebold,"Little, Brown and Company",2004,1
+2176,9780316176484,9780316176491,Life After Life,Kate Atkinson, Reagan Arthur Books,2013,Life After Life,Kate Atkinson,"Little, Brown and Company",2014,1
+2189,9780316206846,9780316206853,The Cuckoo's Calling,Robert Galbraith," Mulholland Books / Little, Brown and Company",2013,The Cuckoo's Calling (Cormoran Strike Series #1),Robert Galbraith,"Little, Brown and Company",2014,1
+2203,9780316230810,9780594794806,We Need New Names,NoViolet Bulawayo, Reagan Arthur Books,2013,We Need New Names,NoViolet Bulawayo,"Little, Brown and Company",2014,1
+2243,9780330490269,9780743228480,Dirt Music,Tim Winton, Picador,2008,Dirt Music,Tim Winton,Scribner,2003,1
+2256,9780340936719,9781416569558,The Lovers,John Connolly, Hodder & Stoughton,2010,The Lovers (Charlie Parker Series #8),John Connolly,Pocket Star,2011,1
 2307,9780345455291,9780345371980,The Salmon of Doubt: Hitchhiking the Galaxy One Last Time,Douglas Adams, Del Rey,2005,Last Chance to See,Douglas Adams,Random House Publishing Group,1992,0
-2366,9780345476999,9780345495303,The Mephisto Club,Tess Gerritsen, Ballantine Books,2006,The Mephisto Club (Rizzoli and Isles Series #6),Tess Gerritsen,Random House Publishing Group,2006,0
+2366,9780345476999,9780345495303,The Mephisto Club,Tess Gerritsen, Ballantine Books,2006,The Mephisto Club (Rizzoli and Isles Series #6),Tess Gerritsen,Random House Publishing Group,2006,1
 2374,9780345479723,9780345479723,Until I Find You,John Irving, Ballantine Books,2006,Until I Find You,John Irving,Random House Publishing Group,2006,1
 2399,9780345506399,9780451461032,Jim Butcher's the Dresden Files: Storm Front,Jim Butcher, Del Rey/Dabel Brothers,2009,Proven Guilty (Dresden Files Series #8),Jim Butcher,Penguin Publishing Group,2007,0
 2490,9780373210084,9780373210084,"The Iron King (The Iron Fey, #1)",Julie Kagawa, Harlequin Teen,2010,The Iron King (Iron Fey Series #1),Julie Kagawa,Harlequin,2010,1
 2494,9780373210138,9780373210138,The Iron Daughter,Julie Kagawa, Harlequin Teen,2010,The Iron Daughter (Iron Fey Series #2),Julie Kagawa,Harlequin,2010,1
 2500,9780373210367,9780373210138,The Iron Knight,Julie Kagawa, Harlequin TEEN,2011,The Iron Daughter (Iron Fey Series #2),Julie Kagawa,Harlequin,2010,0
 2626,9780374166854,9780312425074,"Hot, Flat, and Crowded: Why We Need a Green Revolution--and How It Can Renew America",Thomas L. Friedman," Farrar, Straus and Giroux",2008,The World Is Flat: A Brief History of the Twenty-First Century (Further Updated and Expanded),Thomas L. Friedman,Picador,2007,0
-2635,9780374271565,9781250007575,The Submission,Amy Waldman," Farrar, Straus and Giroux",2011,The Submission,Amy Waldman,Picador,2012,0
-2637,9780374279127,9780312427740,Tree of Smoke,Denis Johnson," Farrar, Straus and Giroux",2007,Tree of Smoke,Denis Johnson,Picador,2008,0
-2643,9780374281144,9781250007650,Train Dreams,Denis Johnson," Farrar, Straus and Giroux",2011,Train Dreams,Denis Johnson,Picador,2012,0
+2635,9780374271565,9781250007575,The Submission,Amy Waldman," Farrar, Straus and Giroux",2011,The Submission,Amy Waldman,Picador,2012,1
+2637,9780374279127,9780312427740,Tree of Smoke,Denis Johnson," Farrar, Straus and Giroux",2007,Tree of Smoke,Denis Johnson,Picador,2008,1
+2643,9780374281144,9781250007650,Train Dreams,Denis Johnson," Farrar, Straus and Giroux",2011,Train Dreams,Denis Johnson,Picador,2012,1
 2653,9780374533571,9780374533571,The Silver Linings Playbook,Matthew Quick," Farrar, Straus and Giroux",2012,The Silver Linings Playbook (movie tie-in edition),Matthew Quick,"Farrar, Straus and Giroux",2012,1
-2664,9780375509322,9780812967586,Thirteen Moons,Charles Frazier, Random House,2006,Thirteen Moons,Charles Frazier,Random House Publishing Group,2007,0
-2685,9780375714573,9780375714665,Persepolis,Marjane Satrapi, Pantheon,2004,Persepolis 2: The Story of a Return,Marjane Satrapi,Knopf Doubleday Publishing Group,2005,0
+2664,9780375509322,9780812967586,Thirteen Moons,Charles Frazier, Random House,2006,Thirteen Moons,Charles Frazier,Random House Publishing Group,2007,1
+2685,9780375714573,9780375714665,Persepolis,Marjane Satrapi, Pantheon,2004,Persepolis 2: The Story of a Return,Marjane Satrapi,Knopf Doubleday Publishing Group,2005,1
 2687,9780375714665,9780375714665,Persepolis 2,Marjane Satrapi, Pantheon,2005,Persepolis 2: The Story of a Return,Marjane Satrapi,Knopf Doubleday Publishing Group,2005,1
 2705,9780375727276,9780375727276,Lunar Park,Bret Easton Ellis, Vintage,2006,Lunar Park,Bret Easton Ellis,Knopf Doubleday Publishing Group,2006,1
-2764,9780375835315,9780375835339,Nick & Norah's Infinite Playlist,Rachel Cohn, Knopf Books for Young Readers,2006,Nick and Norah's Infinite Playlist,Rachel Cohn,Random House Children's Books,2007,0
-2771,9780375913754,9780375856440,"Love, Stargirl",Jerry Spinelli, Knopf Books for Young Readers,2007,"Love, Stargirl",Jerry Spinelli,Random House Children's Books,2009,0
+2764,9780375835315,9780375835339,Nick & Norah's Infinite Playlist,Rachel Cohn, Knopf Books for Young Readers,2006,Nick and Norah's Infinite Playlist,Rachel Cohn,Random House Children's Books,2007,1
+2771,9780375913754,9780375856440,"Love, Stargirl",Jerry Spinelli, Knopf Books for Young Readers,2007,"Love, Stargirl",Jerry Spinelli,Random House Children's Books,2009,1
 2824,9780385336703,9780440334101,Dreaming the Eagle,Manda Scott, Dell,2003,Boudica: Dreaming the Eagle,Manda Scott,Random House Publishing Group,2003,0
 2860,9780385339520,9780385342803,"Lords of the Bow (Conqueror, #2)",Conn Iggulden, Delacorte Press,2008,Genghis: Bones of the Hills (Khan Dynasty Series #3),Conn Iggulden,Random House Publishing Group,2010,0
 2867,9780385339544,9780385343022,Empire of Silver,Conn Iggulden, Delacorte Press,2010,Emperor: The Death of Kings (Emperor Series #2),Conn Iggulden,Random House Publishing Group,2009,0
-2948,9780385341677,9780440244417,Shadowfever,Karen Marie Moning, Delacorte Press,2011,Shadowfever (Fever Series #5),Karen Marie Moning,Random House Publishing Group,2011,0
-2968,9780385344227,9780345533661,Defending Jacob,William Landay, Delacorte Press,2012,Defending Jacob,William Landay,Random House Publishing Group,2013,0
-2979,9780385352857,9780804171472,The Narrow Road to the Deep North,Richard Flanagan, Knopf,2014,The Narrow Road to the Deep North,Richard Flanagan,Knopf Doubleday Publishing Group,2015,0
-3027,9780385520690,9780307278821,"Physics of the Impossible: A Scientific Exploration of the World of Phasers, Force Fields, Teleportation, and Time Travel",Michio Kaku, Doubleday,2008,"Physics of the Impossible: A Scientific Exploration into the World of Phasers, Force Fields, Teleportation, and Time Travel",Michio Kaku,Knopf Doubleday Publishing Group,2009,0
-3090,9780385536189,9780307951274,Goodbye for Now,Laurie Frankel, Doubleday,2012,Goodbye for Now,Laurie Frankel,Knopf Doubleday Publishing Group,2013,0
-3123,9780385608022,9780316066747,"Started Early, Took My Dog",Kate Atkinson, Doubleday & Co Inc.,2010,"Started Early, Took My Dog (Jackson Brodie Series #4)",Kate Atkinson,"Little, Brown and Company",2011,0
-3142,9780385613460,9780385751834,Before I Die,Jenny Downham, David Fickling Books,2007,Before I Die,Jenny Downham,Random House Children's Books,2009,0
-3147,9780385618717,9780316176507,A God in Ruins,Kate Atkinson, Doubleday,2015,A God in Ruins,Kate Atkinson,"Little, Brown and Company",2016,0
+2948,9780385341677,9780440244417,Shadowfever,Karen Marie Moning, Delacorte Press,2011,Shadowfever (Fever Series #5),Karen Marie Moning,Random House Publishing Group,2011,1
+2968,9780385344227,9780345533661,Defending Jacob,William Landay, Delacorte Press,2012,Defending Jacob,William Landay,Random House Publishing Group,2013,1
+2979,9780385352857,9780804171472,The Narrow Road to the Deep North,Richard Flanagan, Knopf,2014,The Narrow Road to the Deep North,Richard Flanagan,Knopf Doubleday Publishing Group,2015,1
+3027,9780385520690,9780307278821,"Physics of the Impossible: A Scientific Exploration of the World of Phasers, Force Fields, Teleportation, and Time Travel",Michio Kaku, Doubleday,2008,"Physics of the Impossible: A Scientific Exploration into the World of Phasers, Force Fields, Teleportation, and Time Travel",Michio Kaku,Knopf Doubleday Publishing Group,2009,1
+3090,9780385536189,9780307951274,Goodbye for Now,Laurie Frankel, Doubleday,2012,Goodbye for Now,Laurie Frankel,Knopf Doubleday Publishing Group,2013,1
+3123,9780385608022,9780316066747,"Started Early, Took My Dog",Kate Atkinson, Doubleday & Co Inc.,2010,"Started Early, Took My Dog (Jackson Brodie Series #4)",Kate Atkinson,"Little, Brown and Company",2011,1
+3142,9780385613460,9780385751834,Before I Die,Jenny Downham, David Fickling Books,2007,Before I Die,Jenny Downham,Random House Children's Books,2009,1
+3147,9780385618717,9780316176507,A God in Ruins,Kate Atkinson, Doubleday,2015,A God in Ruins,Kate Atkinson,"Little, Brown and Company",2016,1
 3183,9780385721790,9780385721790,Atonement,Ian McEwan, Anchor Books,2003,Atonement,Ian McEwan,Knopf Doubleday Publishing Group,2003,1
 3208,9780385735339,9780385737289,The Warlock - The Secrets of The Immortal Nicholas Flamel,Michael Scott, Delacorte Press,2011,The Magician (The Secrets of the Immortal Nicholas Flamel #2),Michael Scott,Random House Children's Books,2009,0
-3210,9780385737425,9780375850868,When You Reach Me,Rebecca Stead, Wendy Lamb Books,2009,When You Reach Me,Rebecca Stead,Random House Children's Books,2010,0
+3210,9780385737425,9780375850868,When You Reach Me,Rebecca Stead, Wendy Lamb Books,2009,When You Reach Me,Rebecca Stead,Random House Children's Books,2010,1
 3224,9780385905169,9780385736008,The Necromancer: The Secrets of The Immortal Nicholas Flamel,Michael Scott, Delacorte Books for Young Readers,2010,The Alchemyst (The Secrets of the Immortal Nicholas Flamel #1),Michael Scott,Random House Children's Books,2008,0
 3225,9780385905169,9780385737289,The Necromancer: The Secrets of The Immortal Nicholas Flamel,Michael Scott, Delacorte Books for Young Readers,2010,The Magician (The Secrets of the Immortal Nicholas Flamel #2),Michael Scott,Random House Children's Books,2009,0
-3226,9780385907507,9780375858291,Moon Over Manifest,Clare Vanderpool, Delacorte Books for Young Readers,2010,Moon Over Manifest,Clare Vanderpool,Random House Children's Books,2011,0
-3240,9780394528366,9780394720951,Master of the Senate,Robert A. Caro, Knopf,2002,"Master of the Senate: The Years of Lyndon Johnson, Volume 3",Robert A. Caro,Knopf Doubleday Publishing Group,2003,0
+3226,9780385907507,9780375858291,Moon Over Manifest,Clare Vanderpool, Delacorte Books for Young Readers,2010,Moon Over Manifest,Clare Vanderpool,Random House Children's Books,2011,1
+3240,9780394528366,9780394720951,Master of the Senate,Robert A. Caro, Knopf,2002,"Master of the Senate: The Years of Lyndon Johnson, Volume 3",Robert A. Caro,Knopf Doubleday Publishing Group,2003,1
 3254,9780399154218,9780425195444,Invisible Prey,John Sandford, Putnam Adult,2007,Naked Prey (Lucas Davenport Series #14),John Sandford,Penguin Publishing Group,2004,0
-3308,9780399159374,9780515151336,The Witness,Nora Roberts, G.P. Putnam's Sons,2012,The Witness,Nora Roberts,Penguin Publishing Group,2014,0
-3328,9780399161728,9780142425039,Slated,Teri Terry, The Penguin Group,2013,Slated (Slated Series #1),Teri Terry,Penguin Young Readers Group,2013,0
+3308,9780399159374,9780515151336,The Witness,Nora Roberts, G.P. Putnam's Sons,2012,The Witness,Nora Roberts,Penguin Publishing Group,2014,1
+3328,9780399161728,9780142425039,Slated,Teri Terry, The Penguin Group,2013,Slated (Slated Series #1),Teri Terry,Penguin Young Readers Group,2013,1
 3331,9780399163609,9780142406632,"The Royal Ranger (Ranger's Apprentice, #12)",John Flanagan, Philomel Books,2013,The Ruins of Gorlan (Ranger's Apprentice Series #1),John Flanagan,Penguin Young Readers Group,2006,0
 3332,9780399163609,9780142408421,"The Royal Ranger (Ranger's Apprentice, #12)",John Flanagan, Philomel Books,2013,The Burning Bridge (Ranger's Apprentice Series #2),John Flanagan,Penguin Young Readers Group,2007,0
-3334,9780399167065,9780425274866,Big Little Lies,Liane Moriarty, Berkley,2014,Big Little Lies,Liane Moriarty,Penguin Publishing Group,2015,0
-3337,9780399244551,9780142408421,The Burning Bridge,John Flanagan, Philomel Books,2006,The Burning Bridge (Ranger's Apprentice Series #2),John Flanagan,Penguin Young Readers Group,2007,0
+3334,9780399167065,9780425274866,Big Little Lies,Liane Moriarty, Berkley,2014,Big Little Lies,Liane Moriarty,Penguin Publishing Group,2015,1
+3337,9780399244551,9780142408421,The Burning Bridge,John Flanagan, Philomel Books,2006,The Burning Bridge (Ranger's Apprentice Series #2),John Flanagan,Penguin Young Readers Group,2007,1
 3338,9780399244575,9780142406632,"The Battle for Skandia (Ranger's Apprentice, #4)",John Flanagan, Philomel Books,2008,The Ruins of Gorlan (Ranger's Apprentice Series #1),John Flanagan,Penguin Young Readers Group,2006,0
 3363,9780425198681,9780425198681,Pattern Recognition,William Gibson, Berkley Publishing,"February, 2005",Pattern Recognition,William Gibson,Penguin Publishing Group,2005,1
 3373,9780425204306,9780425227985,Broken Prey,John Sandford, Berkley,2006,Phantom Prey (Lucas Davenport Series #18),John Sandford,Penguin Publishing Group,2009,0
@@ -191,25 +191,25 @@ _id,ltable_ISBN13,rtable_ISBN13,ltable_Original_Title,ltable_Author,ltable_Publi
 3391,9780425213766,9780425197486,Undead and Uneasy,MaryJanice Davidson, Berkley Hardcover,2007,Undead and Unemployed (Betsy Taylor Series #2),MaryJanice Davidson,Penguin Publishing Group,2004,0
 3442,9780425232477,9780425238974,Mistress of Rome,Kate Quinn, Berkley,2010,Daughters of Rome (Empress of Rome Series #2),Kate Quinn,Penguin Publishing Group,2011,0
 3469,9780425266878,9780425266878,Shadow Catcher,James R. Hannibal, Berkley,2013,Shadow Catcher: A Novel,James R. Hannibal,Penguin Publishing Group,2013,1
-3476,9780434020805,9780452298019,The Magician King,Lev Grossman, William Heinemann,2011,The Magician King (Magicians Series #2),Lev Grossman,Penguin Publishing Group,2012,0
-3481,9780439023481,9780545586177,The Hunger Games,Suzanne Collins, Scholastic Press,2008,Catching Fire (Hunger Games Series #2),Suzanne Collins,"Scholastic, Inc.",2013,0
-3482,9780439023481,9780545663267,The Hunger Games,Suzanne Collins, Scholastic Press,2008,Mockingjay (Hunger Games Series #3),Suzanne Collins,"Scholastic, Inc.",2014,0
+3476,9780434020805,9780452298019,The Magician King,Lev Grossman, William Heinemann,2011,The Magician King (Magicians Series #2),Lev Grossman,Penguin Publishing Group,2012,1
+3481,9780439023481,9780545586177,The Hunger Games,Suzanne Collins, Scholastic Press,2008,Catching Fire (Hunger Games Series #2),Suzanne Collins,"Scholastic, Inc.",2013,1
+3482,9780439023481,9780545663267,The Hunger Games,Suzanne Collins, Scholastic Press,2008,Mockingjay (Hunger Games Series #3),Suzanne Collins,"Scholastic, Inc.",2014,1
 3490,9780439221719,9781934876695,"The Secret of the Unicorn (Avalon Web of Magic, 4)",Rachel Roberts, Scholastic Paperbacks,2002,Heart of Avalon (Avalon Web of Magic Series #10),Rachel Roberts,Seven Seas Entertainment LLC,2009,0
 3493,9780439221733,9781934876695,Avalon: Web of Magic #6: Trial by Fire,Rachel Roberts, Scholastic Paperbacks,2002,Heart of Avalon (Avalon Web of Magic Series #10),Rachel Roberts,Seven Seas Entertainment LLC,2009,0
-3496,9780439372947,9780439372978,Chasing Vermeer,Blue Balliett, Scholastic Press,2004,Chasing Vermeer,Blue Balliett,"Scholastic, Inc.",2005,0
+3496,9780439372947,9780439372978,Chasing Vermeer,Blue Balliett, Scholastic Press,2004,Chasing Vermeer,Blue Balliett,"Scholastic, Inc.",2005,1
 3504,9780439693684,9780439693684,The Wright 3,Blue Balliett, Scholastic Paperbacks,2007,Wright 3,Blue Balliett,"Scholastic, Inc.",2007,1
-3507,9780439709101,9785389086579,Tintenherz,Cornelia Funke, Scholastic Inc,2005,TINTENHERZ,Cornelia Funke,Machaon,2014,0
-3516,9780439943468,9781338201154,A Darkling Plain,Philip Reeve, Scholastic,2007,"A Darkling Plain (Mortal Engines, Book 4)",Philip Reeve,"Scholastic, Inc.",2017,0
-3529,9780440236702,9780440245902,Tell No One,Harlan Coben, Dell Publishing Company,2009,Tell No One,Harlan Coben,Random House Publishing Group,2009,0
+3507,9780439709101,9785389086579,Tintenherz,Cornelia Funke, Scholastic Inc,2005,TINTENHERZ,Cornelia Funke,Machaon,2014,1
+3516,9780439943468,9781338201154,A Darkling Plain,Philip Reeve, Scholastic,2007,"A Darkling Plain (Mortal Engines, Book 4)",Philip Reeve,"Scholastic, Inc.",2017,1
+3529,9780440236702,9780440245902,Tell No One,Harlan Coben, Dell Publishing Company,2009,Tell No One,Harlan Coben,Random House Publishing Group,2009,1
 3530,9780440236702,9780451213204,Tell No One,Harlan Coben, Dell Publishing Company,2009,Just One Look,Harlan Coben,Penguin Publishing Group,2005,0
-3532,9780440236733,9780345533050,Gone for Good,Harlan Coben, Dell Publishing Company,2003,Gone for Good,Harlan Coben,Random House Publishing Group,2011,0
+3532,9780440236733,9780345533050,Gone for Good,Harlan Coben, Dell Publishing Company,2003,Gone for Good,Harlan Coben,Random House Publishing Group,2011,1
 3538,9780440237556,9780440237563,The Dark Highlander,Karen Marie Moning, Dell,2002,The Immortal Highlander (Highlander Series #6),Karen Marie Moning,Random House Publishing Group,2005,0
 3539,9780440237556,9780440240976,The Dark Highlander,Karen Marie Moning, Dell,2002,Spell of the Highlander (Highlander Series #7),Karen Marie Moning,Random House Publishing Group,2006,0
-3557,9780440240952,9780385343022,"The Death of Kings (Emperor, #2)",Conn Iggulden, Dell Books,"February, 2005",Emperor: The Death of Kings (Emperor Series #2),Conn Iggulden,Random House Publishing Group,2009,0
+3557,9780440240952,9780385343022,"The Death of Kings (Emperor, #2)",Conn Iggulden, Dell Books,"February, 2005",Emperor: The Death of Kings (Emperor Series #2),Conn Iggulden,Random House Publishing Group,2009,1
 3559,9780440240952,9780425275443,"The Death of Kings (Emperor, #2)",Conn Iggulden, Dell Books,"February, 2005",Wars of the Roses: Stormbird,Conn Iggulden,Penguin Publishing Group,2015,0
-3574,9780440241003,9780440245988,The Persuader,Lee Child, Dell,2008,Persuader (Jack Reacher Series #7),Lee Child,Random House Publishing Group,2009,0
+3574,9780440241003,9780440245988,The Persuader,Lee Child, Dell,2008,Persuader (Jack Reacher Series #7),Lee Child,Random House Publishing Group,2009,1
 3599,9780440241607,9780385344210,The Gods of War,Conn Iggulden, Bantam Books,"April, 2007",Genghis: Birth of an Empire (Khan Dynasty Series #1),Conn Iggulden,Random House Publishing Group,2010,0
-3601,9780440241898,9780385336178,Shopaholic Ties the Knot,Sophie Kinsella, Dell Publishing Company,2004,Shopaholic Ties the Knot (Shopaholic Series #3),Sophie Kinsella,Random House Publishing Group,2003,0
+3601,9780440241898,9780385336178,Shopaholic Ties the Knot,Sophie Kinsella, Dell Publishing Company,2004,Shopaholic Ties the Knot (Shopaholic Series #3),Sophie Kinsella,Random House Publishing Group,2003,1
 3623,9780440244509,9780553589375,"Ashes of Midnight (Midnight Breed, #6)",Lara Adrian, Dell,2009,Kiss of Midnight (Midnight Breed Series #1),Lara Adrian,Random House Publishing Group,2007,0
 3625,9780440245261,9780440245278,Shades of Midnight,Lara Adrian, Dell,2009,Taken by Midnight (Midnight Breed Series #8),Lara Adrian,Random House Publishing Group,2010,0
 3648,9780441008537,9780441013333,Dead Until Dark,Charlaine Harris, Ace Books,2001,Dead as a Doornail (Sookie Stackhouse/Southern Vampire Series #5),Charlaine Harris,Penguin Publishing Group,2006,0
@@ -224,28 +224,28 @@ _id,ltable_ISBN13,rtable_ISBN13,ltable_Original_Title,ltable_Author,ltable_Publi
 3762,9780441014941,9780441013333,All Together Dead,Charlaine Harris, Ace,2007,Dead as a Doornail (Sookie Stackhouse/Southern Vampire Series #5),Charlaine Harris,Penguin Publishing Group,2006,0
 3763,9780441014941,9780441014910,All Together Dead,Charlaine Harris, Ace,2007,Definitely Dead (Sookie Stackhouse / Southern Vampire Series #6),Charlaine Harris,Penguin Publishing Group,2007,0
 3765,9780441014941,9780441020157,All Together Dead,Charlaine Harris, Ace,2007,Dead in the Family (Sookie Stackhouse / Southern Vampire Series #10),Charlaine Harris,Penguin Publishing Group,2011,0
-3768,9780441014996,9780441016167,The Accidental Time Machine,Joe Haldeman, Ace,2007,The Accidental Time Machine,Joe Haldeman,Penguin Publishing Group,2008,0
+3768,9780441014996,9780441016167,The Accidental Time Machine,Joe Haldeman, Ace,2007,The Accidental Time Machine,Joe Haldeman,Penguin Publishing Group,2008,1
 3781,9780441015665,9780441015665,Iron Kissed,Patricia Briggs, Ace,2008,Iron Kissed (Mercy Thompson Series #3),Patricia Briggs,Penguin Publishing Group,2008,1
 3788,9780441015832,9780441015832,Magic Burns,Ilona Andrews, Penguin,"April, 2008",Magic Burns (Kate Daniels Series #2),Ilona Andrews,Penguin Publishing Group,2008,1
 3797,9780441015894,9780441014910,From Dead to Worse,Charlaine Harris, Ace,2008,Definitely Dead (Sookie Stackhouse / Southern Vampire Series #6),Charlaine Harris,Penguin Publishing Group,2007,0
 3799,9780441015894,9780441020157,From Dead to Worse,Charlaine Harris, Ace,2008,Dead in the Family (Sookie Stackhouse / Southern Vampire Series #10),Charlaine Harris,Penguin Publishing Group,2011,0
 3838,9780441017157,9780441010516,Dead and Gone,Charlaine Harris, Ace,2009,Club Dead (Sookie Stackhouse / Southern Vampire Series #3),Charlaine Harris,Penguin Publishing Group,2003,0
-3868,9780441017836,9780425283844,A Touch of Dead,Charlaine Harris, Ace,2009,A Touch of Dead: Sookie Stackhouse Stories,Charlaine Harris,Penguin Publishing Group,2015,0
-3884,9780441018192,9780441019960,Silver Borne,Patricia Briggs, Ace Books,2010,Silver Borne (Mercy Thompson Series #5),Patricia Briggs,Penguin Publishing Group,2011,0
+3868,9780441017836,9780425283844,A Touch of Dead,Charlaine Harris, Ace,2009,A Touch of Dead: Sookie Stackhouse Stories,Charlaine Harris,Penguin Publishing Group,2015,1
+3884,9780441018192,9780441019960,Silver Borne,Patricia Briggs, Ace Books,2010,Silver Borne (Mercy Thompson Series #5),Patricia Briggs,Penguin Publishing Group,2011,1
 3894,9780441018642,9780441010516,Dead in the Family,Charlaine Harris, Ace Books,2010,Club Dead (Sookie Stackhouse / Southern Vampire Series #3),Charlaine Harris,Penguin Publishing Group,2003,0
 3895,9780441018642,9780441013333,Dead in the Family,Charlaine Harris, Ace Books,2010,Dead as a Doornail (Sookie Stackhouse/Southern Vampire Series #5),Charlaine Harris,Penguin Publishing Group,2006,0
 3902,9780441019618,9780441019618,Geist,Philippa Ballantine, Ace,2010,Geist,Philippa Ballantine,Penguin Publishing Group,2010,1
 3904,9780441020423,9780441015832,Magic Slays,Ilona Andrews, Ace Penguin Berkley,"June, 2011",Magic Burns (Kate Daniels Series #2),Ilona Andrews,Penguin Publishing Group,2008,0
 3905,9780441020423,9780441017027,Magic Slays,Ilona Andrews, Ace Penguin Berkley,"June, 2011",Magic Strikes (Kate Daniels Series #3),Ilona Andrews,Penguin Publishing Group,2009,0
-3958,9780446547598,9781455523559,Safe Haven,Nicholas Sparks, Grand Central Publishing,2010,Safe Haven,Nicholas Sparks,Grand Central Publishing,2012,0
+3958,9780446547598,9781455523559,Safe Haven,Nicholas Sparks, Grand Central Publishing,2010,Safe Haven,Nicholas Sparks,Grand Central Publishing,2012,1
 4032,9780446611916,9780446611916,Up Country,Nelson DeMille, Vision,2003,Up Country (Paul Brenner Series #2),Nelson DeMille,Grand Central Publishing,2003,1
-4064,9780446615129,9781101973035,Skinny Dip,Carl Hiaasen, Grand Central Publishing,2006,Skinny Dip,Carl Hiaasen,Knopf Doubleday Publishing Group,2016,0
-4085,9780446616492,9781455576371,Hour Game,David Baldacci, Vision,2005,Hour Game (Sean King and Michelle Maxwell Series #2),David Baldacci,Grand Central Publishing,2013,0
+4064,9780446615129,9781101973035,Skinny Dip,Carl Hiaasen, Grand Central Publishing,2006,Skinny Dip,Carl Hiaasen,Knopf Doubleday Publishing Group,2016,1
+4085,9780446616492,9781455576371,Hour Game,David Baldacci, Vision,2005,Hour Game (Sean King and Michelle Maxwell Series #2),David Baldacci,Grand Central Publishing,2013,1
 4132,9780446696586,9781455529865,The Lake House,James Patterson, Grand Central Publishing,2005,The Beach House,James Patterson,Grand Central Publishing,2014,0
 4148,9780446699488,9780446699488,Wish You Well,David Baldacci, Grand Central Publishing,2007,Wish You Well,David Baldacci,Grand Central Publishing,2007,1
 4222,9780451218049,9780451218049,"Lover Eternal (Black Dagger Brotherhood, #2)",J.R. Ward, Signet,2006,Lover Eternal (Black Dagger Brotherhood Series #2),J. R. Ward,Penguin Publishing Group,2006,1
 4225,9780451218957,9780451218957,Sun Kissed,Catherine Anderson, Signet,2007,Sun Kissed (Kendrick-Coulter-Harringan Series #7),Catherine Anderson,Penguin Publishing Group,2007,1
-4265,9780451226143,9781440661570,Scattered Graves,Beverly Connor, Signet,2009,Scattered Graves (Diane Fallon Series #6),Beverly Connor,Penguin Publishing Group,2009,0
+4265,9780451226143,9781440661570,Scattered Graves,Beverly Connor, Signet,2009,Scattered Graves (Diane Fallon Series #6),Beverly Connor,Penguin Publishing Group,2009,1
 4320,9780451418333,9780451418333,Walking On Air,Catherine Anderson, Signet,2014,Walking On Air: A Valance Family Novel,Catherine Anderson,Penguin Publishing Group,2014,1
 4352,9780451459879,9780451459879,Blood Rites,Jim Butcher, Roc,2004,Blood Rites (Dresden Files Series #6),Jim Butcher,Penguin Publishing Group,2004,1
 4372,9780451460936,9780451460936,Touch the Dark,Karen Chance, Roc,2006,Touch the Dark (Cassie Palmer Series #1),Karen Chance,Penguin Publishing Group,2006,1
