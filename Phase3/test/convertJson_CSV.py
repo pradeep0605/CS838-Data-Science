@@ -16,6 +16,7 @@ with open(sys.argv[2], "w") as file:
 				published_date = item['Published_Date'][0].encode(encoding="utf-8")+", "+item['Published_Date'][1].encode(encoding="utf-8").strip('\n')
 			else:
 				published_date = item['Published_Date'][0].encode(encoding="utf-8").strip('\n')
-			csv_file.writerow([item['Title'].encode(encoding="utf-8"), item['Edition_Language'].encode(encoding="utf-8"), item['ISBN'].encode(encoding="utf-8"), item['ISBN13'].encode(encoding="utf-8"), item['Publication'].encode(encoding="utf-8"), published_date])
+			csv_file.writerow([item['Original_Title'].encode(encoding="utf-8"), item['Author'].encode(encoding="utf-8"), item['ISBN13'].encode(encoding="utf-8"),
+			item['Publication'].encode(encoding="utf-8"), published_date])
 		except KeyError:
 			continue
