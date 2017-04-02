@@ -19,28 +19,13 @@ Animal Farm & 1984@George Orwell
 143921347X@Alistair McHarg
 Cottonmouth Kisses@Clint Catalyst
 Crank (Crank, #1)@Ellen Hopkins
-Blue Mars@Kim Stanley Robinson
 Why We Love Dogs, Eat Pigs, and Wear Cows: An Introduction to Carnism@Melanie Joy
-Ella Enchanted@Gail Carson Levine
-The Immortals of Meluha@Amish Tripathi
 Gödel, Escher, Bach: An Eternal Golden Braid@Douglas R. Hofstadter
 The Lonely Polygamist@Brady Udall
-Flaubert's Parrot@Julian Barnes
-Everlost@Neal Shusterman
-Sieben Jahre in Tibet@Heinrich Harrer
 Rorschach's Ribs@Marcus Eder
 Ronja Rövardotter@Astrid Lindgren
-Optimal Edge@Eugene Nwosu
-Barney's Version@Mordecai Richler
-Toys Go Out: Being the Adventures of a Knowledgeable Stingray, a Toughy Little Buffalo, and Someone Called Plastic@Emily Jenkins
-A Town Like Alice@Nevil Shute
 9781937085780@Lindsay Anne Kendal
 国境の南、太陽の西 [Kokkyō no minami, taiyō no nishi]@Haruki Murakami
-The Pagan Lord@Bernard Cornwell
-The Snow Goose@Paul Gallico
-The Gate House@Nelson DeMille
-The Road to Wellville@T.C. Boyle
-Lady of Devices@Shelley Adina
 Das Heilige und das Profane: Vom Wesen des Religiösen@Mircea Eliade
 1456351346@Jaimie Hope
 When Rabbit Howls@Truddi Chase
@@ -403,7 +388,6 @@ Between the Acts@Virginia Woolf
 Tithe: A Modern Faerie Tale@Holly Black
 The Truth@Terry Pratchett
 Lady Thatcher's Wink@David Arscott
-Just Above My Head@James     Baldwin
 Bury Your Dead@Louise Penny
 People of the Deer@Farley Mowat
 B01BXR4838@Luke Gracias
@@ -474,7 +458,6 @@ Easy@Tammara Webber
 Falls the Shadow (Welsh Princes, #2)@Sharon Kay Penman
 A Touch of Dead@Charlaine Harris
 A Bear Called Paddington@Michael Bond
-Pretty Little Liars@Sara Shepard
 E=mc²: A Biography of the World's Most Famous Equation@David Bodanis
 School's Out Forever@James Patterson
 Peau noire, masques blancs@Frantz Fanon
@@ -688,7 +671,6 @@ Red Rising@Pierce Brown
 The Moving Finger@Agatha Christie
 A Fatal Grace@Louise Penny
 A Caverna@José Saramago
-Perfect Chemistry@Simone Elkeles
 Enchanters' End Game@David Eddings
 All the Bright Places@Jennifer Niven
 Heaven and Hell@John Jakes
@@ -703,7 +685,6 @@ The Lost World@Michael Crichton
 Until I Die@Amy Plum
 Bridget Jones: The Edge of Reason@Helen Fielding
 Call the midwife : a true story of the East End in the 1950s@Jennifer Worth
-Lightning@Dean Koontz
 Terrier@Tamora Pierce
 Enchantment@Orson Scott Card
 The Warlock - The Secrets of The Immortal Nicholas Flamel@Michael Scott
@@ -777,7 +758,6 @@ Les Croisades vues par les Arabes@Amin Maalouf
 Playing for Keeps@R.L. Mathewson
 Shoeless Joe@W.P. Kinsella
 The Mysterious Howling@Maryrose Wood
-The Fury@L.J. Smith
 The Assassin's Prayer@Ariana Franklin
 Anne of Ingleside@L.M. Montgomery
 Lullaby@Chuck Palahniuk
@@ -1048,7 +1028,6 @@ A Bruxa de Portobello@Paulo Coelho
 Shane@Jack Schaefer
 Good Grief@Lolly Winston
 The Great Book of Amber@Roger Zelazny
-Skulduggery Pleasant@Derek Landy
 The Chrysalids@John Wyndham
 The Forever War.@Dexter Filkins
 'Tis: A Memoir@Frank McCourt
@@ -1121,7 +1100,6 @@ The Subtle Knife@Philip Pullman
 Something, Maybe@Elizabeth Scott
 How to Win Friends and Influence People@Dale Carnegie
 Stolen: A Letter to My Captor@Lucy Christopher
-The Sirens of Titan@Kurt Vonnegut
 Family Matters@Rohinton Mistry
 Birdsong@Sebastian Faulks
 When She Woke@Hillary Jordan
@@ -1580,7 +1558,6 @@ Found@Margaret Peterson Haddix
 We the Living@Ayn Rand
 Pompeii@Robert   Harris
 Cry to Heaven@Anne Rice
-Max@James Patterson
 Leave it to Psmith@P.G. Wodehouse
 How I Live Now@Meg Rosoff
 Black Spring@Henry Miller
@@ -1719,7 +1696,6 @@ Der Tod in Venedig / Mario und der Zauberer@Thomas Mann
 Wool@Hugh Howey
 It Can't Happen Here@Sinclair Lewis
 The Twelve@Justin Cronin
-Ender's Shadow@Orson Scott Card
 The Signature of All Things@Elizabeth Gilbert
 The Gift of Asher Lev@Chaim Potok
 The Lost Books of The Odyssey@Zachary Mason
@@ -1811,7 +1787,6 @@ The Westing Game@Ellen Raskin
 The Algebraist@Iain M. Banks
 A Suitable Boy@Vikram Seth
 Twenties Girl@Sophie Kinsella
-Jurassic Park@Michael Crichton
 River Marked@Patricia Briggs
 American Pastoral@Philip Roth
 B01607KMNG@Scott McElhaney
@@ -1858,7 +1833,6 @@ Dead and Gone@Charlaine Harris
 All the Pretty Horses@Cormac McCarthy
 City of Heavenly Fire@Cassandra Clare
 Rabbit, Run@John Updike
-Wicked Lovely@Melissa Marr
 Lady Chatterley's Lover@D.H. Lawrence
 The Golden Lily@Richelle Mead
 The Vampire Lestat@Anne Rice
@@ -1911,7 +1885,6 @@ Lord of Light@Roger Zelazny
 Are You There, Vodka? It's Me, Chelsea@Chelsea Handler
 Pale Fire@Vladimir Nabokov
 Skeletons at the Feast@Chris Bohjalian
-Revelation Space@Alastair Reynolds
 The Girl Who Chased the Moon@Sarah Addison Allen
 Collected Poems@W.H. Auden
 HHhH@Laurent Binet
@@ -1976,7 +1949,6 @@ B00FIC0R12@Scott McElhaney
 La chambre claire. Note sur la photographie@Roland Barthes
 Grave Peril@Jim Butcher
 The Sot-Weed Factor@John Barth
-Anna Dressed in Blood@Kendare Blake
 沈黙@Shūsaku Endō
 The First Fifteen Lives of Harry August@Claire North
 キッチン [Kitchen]@Banana Yoshimoto
@@ -2062,7 +2034,6 @@ Die Blendung@Elias Canetti
 My Side of the Mountain@Jean Craighead George
 Torment@Lauren Kate
 From Hell@Alan Moore
-Dark Places@Gillian Flynn
 The Book of the New Sun@Gene Wolfe
 Darkfever@Karen Marie Moning
 This Boy's Life: A Memoir@Tobias Wolff
@@ -2277,7 +2248,6 @@ The Gift of the Magi@O. Henry
 Evernight@Claudia Gray
 080213422X@Jerzy Kosiński
 The Secret River@Kate Grenville
-Redwall@Brian Jacques
 Darkmans@Nicola Barker
 世界の終りとハードボイルド・ワンダーランド [Sekai no owari to hādoboirudo wandārando]@Haruki Murakami
 Memoria de mis putas tristes@Gabriel García Márquez
@@ -2312,7 +2282,6 @@ Life After Life@Kate Atkinson
 One for the Money@Janet Evanovich
 Dead in the Family@Charlaine Harris
 Going After Cacciato@Tim O'Brien
-Life As We Knew It@Susan Beth Pfeffer
 Stopping By Woods on a Snowy Evening@Robert Frost
 B00BMKH5NW@Rainbow Rowell
 The Hotel New Hampshire@John Irving
@@ -2431,7 +2400,6 @@ The Satanic Verses@Salman Rushdie
 English@Stephen Douglass
 The Witches@Roald Dahl
 Tree of Smoke@Denis Johnson
-Foundation@Isaac Asimov
 Quidditch Through the Ages@J.K. Rowling
 Something Wicked This Way Comes@Ray Bradbury
 The Scorch Trials@James Dashner
@@ -2453,7 +2421,6 @@ Go Ask Alice@Beatrice Sparks
 Drop City@T.C. Boyle
 Sons and Lovers@D.H. Lawrence
 Cry Wolf@Patricia Briggs
-The House at Pooh Corner@A.A. Milne
 Pretties@Scott Westerfeld
 Tropic of Cancer@Henry Miller
 What I Loved@Siri Hustvedt
@@ -2576,7 +2543,6 @@ Bokhandleren i Kabul@Åsne Seierstad
 American Psycho@Bret Easton Ellis
 Låt den rätte komma in@John Ajvide Lindqvist
 Bridge to Terabithia@Katherine Paterson
-Team of Rivals: The Political Genius of Abraham Lincoln@Doris Kearns Goodwin
 Exodus@Leon Uris
 Sex, Drugs, and Cocoa Puffs: A Low Culture Manifesto@Chuck Klosterman
 Die Blechtrommel@Günter Grass
@@ -2609,7 +2575,6 @@ The Hound of the Baskervilles@Arthur Conan Doyle
 2666@Roberto Bolaño
 Man and His Symbols@C.G. Jung
 Wolf Hall@Hilary Mantel
-Revolutionary Road@Richard Yates
 The Other Hand@Chris Cleave
 Speak, Memory@Vladimir Nabokov
 The Martian@Andy Weir
@@ -2704,7 +2669,6 @@ The House of Hades@Rick Riordan
 At the Mountains of Madness@H.P. Lovecraft
 1st To Die@James Patterson
 The Haunting οf Hill House@Shirley Jackson
-Horse Heaven@Jane Smiley
 Terre des hommes@Antoine de Saint-Exupéry
 Across the Nightingale Floor@Lian Hearn
 Lies My Teacher Told Me : Everything Your American History Textbook Got Wrong@James W. Loewen
@@ -2852,7 +2816,6 @@ The Road to Serfdom@Friedrich A. Hayek
 Burr@Gore Vidal
 City of Fallen Angels@Cassandra Clare
 These Happy Golden Years@Laura Ingalls Wilder
-Uglies@Scott Westerfeld
 Call It Sleep@Henry Roth
 Dead Until Dark@Charlaine Harris
 The Mysterious Affair at Styles@Agatha Christie
@@ -2952,7 +2915,6 @@ The Serpent's Tale@Ariana Franklin
 Magician@Raymond E. Feist
 The Round House@Louise Erdrich
 One Fish, Two Fish, Red Fish, Blue Fish@Dr. Seuss
-We Are All Completely Beside Ourselves@Karen Joy Fowler
 Smiley's People@John le Carré
 Something Blue@Emily Giffin
 The Guns of August@Barbara W. Tuchman
@@ -2991,7 +2953,6 @@ The Naked and the Dead@Norman Mailer
 Go Set a Watchman@Harper Lee
 Persepolis@Marjane Satrapi
 My Dream of You@Nuala O'Faolain
-Stargirl@Jerry Spinelli
 Magic Bites@Ilona Andrews
 砂の女 [Suna no onna]@Kōbō Abe
 1848764561@R.D. Ronald
@@ -3105,7 +3066,6 @@ Dragonfly in Amber@Diana Gabaldon
 The Known World@Edward P. Jones
 Tarzan of the Apes@Edgar Rice Burroughs
 Freedom@Jonathan Franzen
-Trout Fishing in America@Richard Brautigan
 On Beauty@Zadie Smith
 The Selfish Gene@Richard Dawkins
 The Immortal Life of Henrietta Lacks@Rebecca Skloot
@@ -3234,7 +3194,6 @@ Dress Your Family in Corduroy and Denim@David Sedaris
 Drei Kameraden@Erich Maria Remarque
 The White Tiger@Aravind Adiga
 The Heart is a Lonely Hunter@Carson McCullers
-Unbroken: A World War II Story of Survival, Resilience, and Redemption@Laura Hillenbrand
 Midnight in the Garden of Good and Evil@John Berendt
 Blink: The Power of Thinking Without Thinking@Malcolm Gladwell
 0156027607@Stanisław Lem
@@ -3369,7 +3328,6 @@ The Hitch Hiker's Guide to the Galaxy@Douglas Adams
 Water for Elephants@Sara Gruen
 The Screwtape Letters@C.S. Lewis
 Mockingjay@Suzanne Collins
-The Good Earth@Pearl S. Buck
 The Fault in Our Stars@John Green
 His Dark Materials@Philip Pullman
 Män som hatar kvinnor@Stieg Larsson
@@ -3401,7 +3359,6 @@ La peste@Albert Camus
 Hollow City@Ransom Riggs
 The Shining@Stephen King
 Shadows@Jennifer L. Armentrout
-Peter Pan@J.M. Barrie
 English@C.L. Stone
 Rebecca@Daphne du Maurier
 Out of Sight, Out of Time@Ally Carter
@@ -3453,7 +3410,6 @@ The Velveteen Rabbit@Margery Williams Bianco
 The Acheron Deception@Patrick F. Rooney
 Mrs Dalloway@Virginia Woolf
 The Street Sweeper@Elliot Perlman
-Winnie-the-Pooh@A.A. Milne
 Don't Waste Your Life@John Piper
 Das Parfum: Die Geschichte eines Mörders@Patrick Süskind
 The Bullet Collection@Patricia Sarrafian Ward
@@ -5183,7 +5139,6 @@ The Many-Coloured Land@Julian May
 El arte de volar@Antonio Altarriba
 Indochine@Christie Dickason
 1628398272@Paula Marie Pettis
-Seeds of Yesterday@V.C. Andrews
 B00KXAR1CW@David       Anderson
 The King of Elfland's Daughter@Lord Dunsany
 Lonely Planet Discover London@Lonely Planet
@@ -5340,98 +5295,48 @@ Under the Loving Care of the Fatherly Leader: North Korea and the Kim Dynasty@Br
 The Perilous Gard@Elizabeth Marie Pope
 B007PJJGY0@T.D. McMichael
 Le trésor de Rackham Le Rouge@Hergé
-The Lovers@John Connolly
 Harlequin@Bernard Cornwell
-Succubus Dreams@Richelle Mead
-The Wanting Seed@Anthony Burgess
-A Companion to Wolves@Sarah Monette
-Lunch Poems@Frank O'Hara
 Freedom™@Daniel Suarez
-Tell Me Your Dreams@Sidney Sheldon
-Scarlet@Marissa Meyer
-Tell Me How Long the Train's Been Gone@James     Baldwin
 0765303817@Charles  de Lint
-Apartment in Athens@Glenway Wescott
-The Vile Village@Lemony Snicket
 Shooting an Elephant and Other Essays@George Orwell
 Lover Enshrined, part two@J.R. Ward
 The Long Walk The True Story of a Trek to Freedom@Slavomir Rawicz
 0373770014@Carly Phillips
 みんなうんち (かがくのとも傑作集　どきどき・しぜん)@Taro Gomi
 Incendiary@Amy A. Bartol
-The Twilight of Courage@Bodie Thoene
-Magic Study@Maria V. Snyder
 0140017836@Keith Waterhouse
 The Secret (Seasons of Grace, #1)@Beverly  Lewis
-Eaters of the Dead@Michael Crichton
 0060733977@Louis Bayard
-Gentle Ben@Walt Morey
-Flawless@Sara Shepard
-La vida breve@Juan Carlos Onetti
-The Story of Stuff@Annie Leonard
-The Queen of Attolia@Megan Whalen Turner
 B00ET5PQEC@C.L. Stone
-A Glass of Blessings@Barbara Pym
 Beware, Princess Elizabeth (Young Royals, #2)@Carolyn Meyer
-Sharpe's Eagle@Bernard Cornwell
-D-Day: The Battle for Normandy@Antony Beevor
-Peachtree Road@Anne Rivers Siddons
-The Grim Grotto@Lemony Snicket
-Summer Sisters@Judy Blume
 The Guardian@Nicholas Sparks
 The Mansion. Short Stories@William Faulkner
-Embrace the Night@Karen Chance
-The Moon's a Balloon@David Niven
 For The Win@Cory Doctorow
 I Choose You (Pokemon Chapter Book #1)@Tracey West
-Fire Study@Maria V. Snyder
 Algernon,Charlie and I.@Daniel Keyes
 Reformation: Europe's House Divided 1490-1700@Diarmaid MacCulloch
-Desolation Island@Patrick O'Brian
-Out of the Easy@Ruta Sepetys
-Far Tortuga@Peter Matthiessen
-In Persuasion Nation@George Saunders
 Nils Holgerssons underbara resa genom Sverige@Selma Lagerlöf
-Zero K@Don DeLillo
 The Tenth Man@Graham Greene
 Lover Avenged, part one@J.R. Ward
 Seventeen: A Tale of Youth and Summer Time and the Baxter Family, Especially William@Booth Tarkington
-Bet Me@Jennifer Crusie
 Москва — Петушки@Venedikt Erofeev
-Born of Shadows@Sherrilyn Kenyon
-The Key to Rebecca@Ken Follett
 Thief's Covenant@Ari Marmell
 Cash: The Autobiography of Johnny Cash@Johnny Cash
-The Last Jihad@Joel C. Rosenberg
 Ubu Roi - Ubu Cocu - Ubu enchainé - Ubu sur la butte@Alfred Jarry
-Succubus Shadows@Richelle Mead
 Angélique, Marquise des Anges@Anne Golon
 1623220076@Carrie Ann Ryan
 The Greengage Summer@Rumer Godden
-Prince of Fire@Daniel Silva
-My Brother Sam Is Dead@James Lincoln Collier
 The Scent of God: A Memoir@Beryl Singleton Bissell
-The Six Wives of Henry VIII@Alison Weir
-Absolution Gap@Alastair Reynolds
 La lenteur@Milan Kundera
-Succubus Heat@Richelle Mead
 Pożegnanie z Marią i inne opowiadania@Tadeusz Borowski
 Deathless@Catherynne M. Valente
-The Mysteries of Pittsburgh@Michael Chabon
-Blasphemy@Douglas Preston
-Jimmy Corrigan: The Smartest Kid on Earth@Chris Ware
-Into Africa: The Epic Adventures of Stanley and Livingstone@Martin Dugard
-He, She and It@Marge Piercy
 1481972995@B. Kristin McMichael
 The Lost World@Arthur Conan Doyle
-Slice of Cherry@Dia Reeves
 The Penultimate Truth@Philip K. Dick
 Hoodwinked: An Economic Hit Man Reveals Why the World Financial Markets Imploded & What We Need to Do to Save Them@John Perkins
 La vingt-cinquième heure@Constantin Virgil Gheorghiu
 Overthrow: America's Century of Regime Change from Hawaii to Iraq@Stephen Kinzer
 Het woud der verwachting@Hella S. Haasse
-The Perfect Wife@Lynsay Sands
-Sexus@Henry Miller
 The Sweet Far Thing@Libba Bray
 Der Tod in Venedig@Thomas Mann
 9-11 Descent into Tyranny@Alex E. Jones
@@ -5440,72 +5345,38 @@ The Company@Robert Littell
 The Stories of Breece D'J Pancake@Breece D'J Pancake
 عندما دق الباب@Taghreed Najjar
 A Brief Illustrated Guide to Understanding Islam@I.A. Ibrahim
-The Dirt: Confessions of the World's Most Notorious Rock Band@Tommy Lee
 Tarzan of the Apes/The Son of Tarzan/Tarzan at the Earth's Core@Edgar Rice Burroughs
-Torn@Amanda Hocking
-Between Silk and Cyanide@Leo Marks
 Alle sieben Wellen@Daniel Glattauer
-The Easter Parade@Richard Yates
-The Age of Miracles@Karen Thompson Walker
 Streets Of Laredo@Larry McMurtry
 Old School@Tobias Wolff
 Rage@Richard Bachman
-Scars@Cheryl Rainfield
-The Barrytown Trilogy@Roddy Doyle
 A World Perspective Through 21st Century Eyes - The Impact Of Science On Society@R.K. Koslowsky
 Half Asleep in Frog Pajamas@Tom Robbins
-Hope for Each Day: Words of Wisdom and Faith@Billy Graham
-Lincoln's Dreams@Connie Willis
 You Wish@Mandy Hubbard
-Laura: The Life of Laura Ingalls Wilder@Donald Zochert
-The Dead and the Gone@Susan Beth Pfeffer
 Blood Music@Greg Bear
-Look Again@Lisa Scottoline
-Go Down, Moses@William Faulkner
 1582406197@Robert Kirkman
-Man Plus@Frederik Pohl
 Drengen i kufferten@Lene Kaaberbøl
-Treason's Harbour@Patrick O'Brian
-The Rest of Us Just Live Here@Patrick Ness
-The High Window@Raymond Chandler
 0718157834@Jojo Moyes
-Rage of Angels@Sidney Sheldon
 961936371X@Rok Sprogar
 憂国@Yukio Mishima
-Positively Fifth Street: Murderers, Cheetahs, and Binion's World Series of Poker@James McManus
-Captain Jack's Woman@Stephanie Laurens
 0545093104@Kathryn Lasky
 All Creatures Great and Small/All Things Bright and Beautiful@James Herriot
 Fleshmarket Close@Ian Rankin
-The Power of Your Subconscious Mind@Joseph Murphy
 B00KCXU3W0@D.B. Tarpley
-Betsy-Tacy@Maud Hart Lovelace
-The Beautiful Mystery@Louise Penny
 A Raisin in the Sun and The Sign in Sidney Brustein's Window@Lorraine Hansberry
 يوتوبيا@Ahmed Khaled Toufiq
-Frost in May@Antonia White
 0615827012@Laura Riley
 For Love Of Imabelle@Chester Himes
-Indignation@Philip Roth
-The Orchard Keeper@Cormac McCarthy
 B00I20WYWC@Friedrich Nietzsche
-How to Eat Fried Worms@Thomas Rockwell
 Character of Nations: How Politics Makes & Breaks Prosperity, Family & Civility@Angelo Codevilla
 Lord Valentine's Castle@Robert Silverberg
-Heimsuchung@Jenny Erpenbeck
-The Long Patrol@Brian Jacques
 Stranger from Abroad: Hannah Arendt, Martin Heidegger, Friendship and Forgiveness@Daniel Maier-Katkin
-Assata: An Autobiography@Assata Shakur
-Io uccido@Giorgio Faletti
-Deadhouse Gates@Steven Erikson
 0741460017@Sylvester Murray
-Mattimeo@Brian Jacques
 1472094727@Carys  Jones
 Niccolo Rising@Dorothy Dunnett
 0615388868@Suzy Kassem
 Reading in the Dark: A Novel@Seamus Deane
 English@J.A. Salt
-Dalva@Jim Harrison
 English@Christopher Rankin
 اللص والكلاب@Naguib Mahfouz
 The Golden Age@John C. Wright
@@ -5515,29 +5386,22 @@ Flowers From the Storm@Laura Kinsale
 B00GW5WIYI@Ralph Rotten
 Faro's Daughter@Georgette Heyer
 The Shir Khan Prophecy@John Lock
-The Velvet Promise@Jude Deveraux
 1494298872@Elyse Draper
 a: A Novel@Andy Warhol
 B0070O5OXW@Benjamin R.  Smith
-Prelude to Foundation@Isaac Asimov
 1493131559@H.M. Irwing
 Conversations with God, An Uncommon Dialogue: Living in the World with Honesty, Courage, and Love, Book 1@Neale Donald Walsch
 1780329210@Leta Hong Fincher
-A Maggot@John Fowles
 Birds Without Wings@Louis de Bernières
-Il visconte dimezzato@Italo Calvino
 The Difficulty of Being Good : On the subtle art of dharma@Gurcharan Das
 HEARTBREAK HOUSE & MISALLIANCE@George Bernard Shaw
 1496188322@Von Simeon
-Under the Volcano@Malcolm Lowry
 B00IQY073C@Dutch Rhudy
-The Man in the Brown Suit@Agatha Christie
 9781311055149@Darlene Cruz
 Where Angels Fear To Tread@E.M. Forster
 13/19629@هدير سعد
 As The Crow Flies@Jeffrey Archer
 0618380450@Lynn Coady
-Prufrock and Other Observations@T.S. Eliot
 0615800971@Christopher F. Edwards Jr.
 Qu'est-ce que la philosophie?@Gilles Deleuze
 Solo@Rana Dasgupta
@@ -5555,58 +5419,40 @@ Charlie and the Great Glass Elevator: The Further Adventures of Charlie Bucket a
 Heir of Novron@Michael J. Sullivan
 The Sandman: Worlds' End@Neil Gaiman
 B004O0U34K@Phil Stern
-The Enchanted April@Elizabeth von Arnim
 Bengali@ব্রাত্য রাইসু
 The Scramble for Africa@Thomas Pakenham
 2940011417627@Carol Fetter
-Sabbath's Theater@Philip Roth
 Die Fließende Königin (Merle-Trilogie, #1)@Kai Meyer
 Harry Potter and the Philosopher's Stone@J.K. Rowling
 1935097512@Armen Melikian
 The Bachman Books@Richard Bachman
 146620267X@Richard T. Stevens
-The Citadel of the Autarch@Gene Wolfe
 1908147598@Daniel  Grant
-Tres tristes tigres@Guillermo Cabrera Infante
 English@Tony H. Leather
 Die Physiker@Friedrich Dürrenmatt
 The Secret Life Of CeeCee Wilkes@Diane Chamberlain
-The Acid House@Irvine Welsh
 0141339772@Marcus Alexander
-Burmese Days@George Orwell
-Dead Is the New Black@Marlene Perez
-The Subterraneans@Jack Kerouac
 0983817928@Mark M. McMillin
-The Tombs of Atuan@Ursula K. Le Guin
 0984642862@Annabelle R. Charbit
-Beau Geste@P.C. Wren
 GOT HOMOPHOBIA@Azaan Kamau
 If The River Was Whiskey@T.C. Boyle
 The Other Side@Faraaz Kazi
-Murder in the Cathedral@T.S. Eliot
 English@Aesop Rock
 Rhinocéros@Eugène Ionesco
 The Sensitive's Circle, Finding Balance & Creating Hope@Michael Sortomme
 Opened Ground: Selected Poems, 1966-1996@Seamus Heaney
 149125534X@T.A. Uner
-Right Ho, Jeeves@P.G. Wodehouse
 Nations Have the Right to Kill: Hitler, the Holocaust and War@Richard A. Koenigsberg
-Lanark: A Life in Four Books@Alasdair Gray
 9780615531199@David  Sneed
 Déjà Dead@Kathy Reichs
 1616638443@Jeff W. Horton
-Tales of a Fourth Grade Nothing@Judy Blume
 1466473320@Ralph Rathbone
-A Stone for Danny Fisher@Harold Robbins
 Here, There Be Dragons (The Chronicles of the Imaginarium Geographica, #1)@James A. Owen
 Fences (The Century Cycle #6)@August Wilson
 B006ACIMQQ@William Hertling
-The ABC Murders@Agatha Christie
 The Marriage Lease@Burke Mudge
-A Charlie Brown Christmas@Charles M. Schulz
 Naročito ljeti@Ankica Tomić
 Lateral Thinking: A Textbook of Creativity@Edward de Bono
-Triptych@Karin Slaughter
 El obsceno pájaro de la noche@José Donoso
 146633813X@Chuck  Miller
 Lillebror och Karlsson på taket@Astrid Lindgren
@@ -5644,208 +5490,96 @@ B005GA7N36@John Gower III
 The Exploits of Sherlock Holmes@Adrian Conan Doyle
 The Future of Us@Jay Asher
 The Book of Ruth@Jane Hamilton
-Curse the Dawn@Karen Chance
 Shards of Honor@Lois McMaster Bujold
 B005SJSN0C@Joseph Rinaldo
 Gestes et opinions du docteur Faustroll, 'pataphysicien@Alfred Jarry
-New Spring@Robert Jordan
-El plan infinito@Isabel Allende
 The Mermaid Chair@Sue Monk Kidd
 The C Programming Language@Brian W. Kernighan
-Washington: A Life@Ron Chernow
 Lyonesse: Suldrun's Garden@Jack Vance
 One Summer: America 1927@Bill Bryson
-In the Lake of the Woods@Tim O'Brien
-Half-Blood@Jennifer L. Armentrout
 Little Town at the Crossroads (Little House)@Maria D. Wilkes
-Fatal Voyage@Kathy Reichs
 The House on the Strand@Daphne du Maurier
-Sea of Poppies@Amitav Ghosh
-Las venas abiertas de América Latina@Eduardo Galeano
-Veil of Midnight@Lara Adrian
-A Separate Reality@Carlos Castaneda
 Embers (Anya Kalinczyk, #1)@Laura Bickle
-Riven Rock@T.C. Boyle
 Please Ignore Vera Dietz@A.S. King
-The Unvanquished@William Faulkner
-Manituana@Wu  Ming
-Die vierzig Tage des Musa Dagh@Franz Werfel
-The 19th Wife@David Ebershoff
-If There Be Thorns@V.C. Andrews
 La Joueuse de go@Shan Sa
 The Universal Baseball Association, Inc., J. Henry Waugh, Prop.@Robert Coover
-Hour Game@David Baldacci
-Will You Please Be Quiet, Please?@Raymond Carver
-Knife of Dreams@Robert Jordan
-Selected Short Stories@William Faulkner
 Oscar et la dame rose@Éric-Emmanuel Schmitt
-The Witches of Karres@James H. Schmitz
 1481814915@C.L. Stone
-Written on the Body@Jeanette Winterson
 Ni d'Ève ni d'Adam@Amélie Nothomb
-Tourist Season@Carl Hiaasen
 Succubus Revealed@Richelle Mead
-Shosha@Isaac Bashevis Singer
 The Fall@Guillermo del Toro
 0380805693@Stephanie Laurens
 Wars of the Roses: Trinity@Conn Iggulden
 Encounters with the Archdruid@John McPhee
 The Blind Side: Evolution of a Game@Michael   Lewis
 Случай@Daniil Kharms
-The Search@Nora Roberts
-Die Wand@Marlen Haushofer
-Bleeding Edge@Thomas Pynchon
-Intruder in the Dust@William Faulkner
-An English Bride in Scotland@Lynsay Sands
-Introduction to Objectivist Epistemology@Ayn Rand
-Rebel Angels@Libba Bray
-Hot Water Music@Charles Bukowski
 B00KWG6510@Lydia Kang
-Microserfs@Douglas Coupland
 Nick & Norah's Infinite Playlist@Rachel Cohn
 Enemy At The Gates: The Battle for Stalingrad@William Craig
 Relentless@Dean Koontz
-Robots and Empire@Isaac Asimov
-Darklight@Lesley Livingston
-Amsterdam@Ian McEwan
-The Fluoride Deception@Christopher Bryson
-Appointment with Death@Agatha Christie
 The Miracle Life of Edgar Mint@Brady Udall
-Indian Killer@Sherman Alexie
-Two Caravans@Marina Lewycka
 Come and Go@Samuel Beckett
 The Umbrella Academy, Vol 1: The Apocalypse Suite@Gerard Way
 Failure is not an Option: Mission Control From Mercury to Apollo 13 and Beyond (Thorndike Paperback Bestsellers)@Gene Kranz
-A Stolen Life@Jaycee Dugard
-Excellent Women@Barbara Pym
-Thirteen Moons@Charles Frazier
 The Taming (Peregrine, #1)@Jude Deveraux
 0670025321@Andrew Roberts
-The God Who Is There@Francis A. Schaeffer
 The Life and Times of The Thunderbolt Kid: A Memoir@Bill Bryson
 Il secondo diario minimo@Umberto Eco
-The Checklist Manifesto: How to Get Things Right@Atul Gawande
-King of the Wind: The Story of the Godolphin Arabian@Marguerite Henry
-The Stuff of Thought: Language as a Window into Human Nature@Steven Pinker
 To Serve Them All My Days@R.F. Delderfield
 184607987X@Brian Minchin
 0691015376@Constantinos P. Cavafis
-Child of the Prophecy@Juliet Marillier
-The Consolations of Philosophy@Alain de Botton
 The Venetian Betrayal@Steve Berry
 Reunion@Fred Uhlman
-Ptolemy's Gate@Jonathan Stroud
-Because You're Mine@Lisa Kleypas
-Thorn Queen@Richelle Mead
-Nova Express@William S. Burroughs
-Sandman Slim@Richard Kadrey
 Ramona Quimby, Age 8@Beverly Cleary
 First Lord's Fury@Jim Butcher
-The Toughest Indian in the World@Sherman Alexie
 Armageddon in Retrospect@Kurt Vonnegut
-Objectivism: The Philosophy of Ayn Rand (The Ayn Rand Library, Volume 6)@Leonard Peikoff
 Stalin: The Court of the Red Tsar@Simon Sebag Montefiore
-Strangers@Dean Koontz
-Wondrous Strange@Lesley Livingston
-Gather Together in My Name@Maya Angelou
 The Falls@Ian Rankin
-Such a Long Journey@Rohinton Mistry
 The Worst Hard Time: The Untold Story of Those Who Survived the Great American Dust Bowl@Timothy Egan
-Martian Time-Slip@Philip K. Dick
-Peter and the Starcatchers@Dave Barry
 アンダーグラウンド [Andāguraundo]@Haruki Murakami
-Bonhoeffer: Pastor, Martyr, Prophet, Spy@Eric Metaxas
-The Beautiful and Damned@F. Scott Fitzgerald
-The Looming Tower: Al-Qaeda and the Road to 9/11@Lawrence Wright
 The Art of Computer Programming, Volumes 1-3 Boxed Set@Donald Ervin Knuth
 The Book of Flying@Keith  Miller
 يوميات نائب في الأرياف@توفيق الحكيم
-Anna and the French Kiss@Stephanie Perkins
-A Maze of Death@Philip K. Dick
 Soldier, Lily, Peace and Pearls@Con C.
 Selected Poems@John Ashbery
 A Possible Life@Sebastian Faulks
 The Word@Irving Wallace
 Shine@Lauren Myracle
-God's Little Acre@Erskine Caldwell
 The Miseducation of Cameron Post@Emily M. Danforth
-Mutts@Patrick McDonnell
-Blacklands@Belinda Bauer
 0380769530@Elizabeth Lowell
-The Last Pharaoh: Mubarak and the Uncertain Future of Egypt in the Volatile Mid East@Aladdin Elaasar
 Living My Life@Emma Goldman
 1937484165@Ruth Hull Chatlien
-The Mysterious Stranger@Mark Twain
-Wintergirls@Laurie Halse Anderson
-Lives of Girls and Women@Alice Munro
-20th Century Ghosts@Joe Hill
-Dear Mr. Henshaw@Beverly Cleary
 Oracle Bones: A Journey Between China's Past and Present@Peter Hessler
-Hollywood@Charles Bukowski
 The Painted Man@Peter V. Brett
 رأفت الهجان@صالح مرسي
-The Immortal Highlander@Karen Marie Moning
 Objectif Lune@Hergé
-The New Pearl Harbor@David Ray Griffin
 0374529256@Donald Barthelme
 What the Dog Saw and Other Adventures@Malcolm Gladwell
-The Mind of the South@W.J. Cash
 Flight: A Novel@Sherman Alexie
-Sweet Thursday@John Steinbeck
-Jasper Jones@Craig Silvey
-Rivethead: Tales from the Assembly Line@Ben Hamper
-Love, Stargirl@Jerry Spinelli
 Highland velvet@Jude Deveraux
 Private Games@James Patterson
-Orlando: A Biography@Virginia Woolf
-The Apothecary@Maile Meloy
 Arrows of the Queen (Heralds of Valdemar #1)@Mercedes Lackey
 The Frog Princess (The Tales of the Frog Princess, #1)@E.D. Baker
-Glamorama@Bret Easton Ellis
-Abhorsen@Garth Nix
 Cuentos breves y extraordinarios@Jorge Luis Borges
-Mozart's Sister@Nancy Moser
 Standing in the Light: The Captive Diary of Catharine Carey Logan (Dear America)@Mary Pope Osborne
-Serena@Ron Rash
 Father Arseny, 1893-1973: Priest, Prisoner, Spiritual Father : Being the Narratives Compiled by the Servant of God Alexander Concerning His Spiritual Father@Vera Bouteneff
-The Winter Rose@Jennifer Donnelly
 La nanotecnología. El surgimiento de las máquinas de creación@K. Eric Drexler
 The Penderwicks: A Summer Tale of Four Sisters, Two Rabbits, and a Very Interesting Boy@Jeanne Birdsall
 The Russia House@John le Carré
 The Kitchen Boy: A Novel of the Last Tsar@Robert Alexander
-Paycheck and Other Classic Stories@Philip K. Dick
-Enna Burning@Shannon Hale
 To Lie with Lions (The House of Niccolo, #6)@Dorothy Dunnett
 F@Daniel Kehlmann
 At the Mountains of Madness@H.P. Lovecraft
-Mr. Mercedes@Stephen King
-Ordeal by Innocence@Agatha Christie
-So You Don't Want to Go to Church Anymore@Wayne Jacobsen
-The Chatham School Affair@Thomas H. Cook
-The Shock of the Fall@Nathan Filer
-L.A. Confidential@James Ellroy
-Hard Bitten@Chloe Neill
 The Redemption of Althalus@David Eddings
-Rules of Attraction@Simone Elkeles
-Bud, Not Buddy@Christopher Paul Curtis
 Harry Potter and the Cursed Child, Parts One and Two@John Tiffany
 A Perfect Spy@John le Carré
-The Heretic Queen@Michelle Moran
 Joy In The Morning@P.G. Wodehouse
-A Court of Thorns and Roses@Sarah J. Maas
-Au bonheur des ogres@Daniel Pennac
 Fuzzy Nation@John Scalzi
-The Golden Notebook@Doris Lessing
 Left To Die@Lisa Jackson
-The Lazarus Child@Robert Mawson
-Enders@Lissa Price
-Readings for Meditation and Reflection@C.S. Lewis
 Unequal Protection: The Rise of Corporate Dominance and the Theft of Human Rights@Thom Hartmann
 The Passions of the Mind@Irving Stone
 The Hare with Amber Eyes: A Family's Century of Art and Loss@Edmund de Waal
 Mar Morto@Jorge Amado
-If You Were Mine@Bella Andre
-Funeral in Berlin@Len Deighton
 Kvinden i buret@Jussi Adler-Olsen
 Le secret de la Licorne@Hergé
 Pyongyang: A Journey in North Korea@Guy Delisle
@@ -5854,166 +5588,86 @@ Lincoln's Melancholy: How Depression Challenged a President and Fueled His Great
 Alvin Maker: Seventh Son@Orson Scott Card
 Felszámolás@Imre Kertész
 Odas elementales@Pablo Neruda
-The Well of Lost Plots@Jasper Fforde
 Escape from Reason: A Penetrating Analysis of Trends in Modern Thought@Francis A. Schaeffer
-Rivers of London@Ben Aaronovitch
-Manufacturing Consent: Noam Chomsky and the Media@Mark Achbar
 Wojna polsko-ruska pod flagą biało-czerwoną@Dorota Masłowska
-Dead Poets Society@N.H. Kleinbaum
 The Living Blood@Tananarive Due
-Rapture in Death@J.D. Robb
-Animals in Translation: Using the Mysteries of Autism to Decode Animal Behavior@Temple Grandin
 0452274613@Bruce Benderson
-Fairest@Gail Carson Levine
 With The Old Breed: At Peleliu And Okinawa@Eugene B. Sledge
-Batman: The Dark Knight Strikes Again@Frank Miller
 The Towers of Trebizond@Rose Macaulay
 0385742886@James Dashner
-Letters from the Earth@Mark Twain
 Gone@Lisa Gardner
-The True Story of the Three Little Pigs@Jon Scieszka
-Wonderstruck@Brian Selznick
-Mr. Popper's Penguins@Richard Atwater
-The Hidden Oracle@Rick Riordan
 Bee Season@Myla Goldberg
 Clara Callan@Richard B. Wright
 Valčík na rozloučenou@Milan Kundera
-I Am Not Myself These Days@Josh Kilmer-Purcell
-English Passengers@Matthew Kneale
 The Last Olympian@Rick Riordan
 Hundejahre@Günter Grass
 Simon vs. the Homo Sapiens Agenda@Becky Albertalli
-Barrel Fever: Stories and Essays@David Sedaris
 En man som heter Ove@Fredrik Backman
 0060596554@Alexandra David-Néel
 When a Crocodile Eats the Sun: A Memoir of Africa@Peter Godwin
-The Secret Adversary@Agatha Christie
 I Only Have Eyes for You (The Sullivans, #4)@Bella Andre
-The Guns of Navarone@Alistair MacLean
 The Best of Pokemon Adventures: Red: Red (Best of Pokémon Adventures)@Hidenori Kusaka
-In the Heart of the Country@J.M. Coetzee
-The Last Colony@John Scalzi
-Amber Beach@Elizabeth Lowell
 Will Storr vs. The Supernatural: One Man's Search for the Truth About Ghosts@Will Storr
 Esperanza Rising@Pam Muñoz Ryan
-We Need New Names@NoViolet Bulawayo
 Poems of Fernando Pessoa@Fernando Pessoa
 The Third Witch@Rebecca Reisert
 Notes from a Big Country@Bill Bryson
-Stormbird@Conn Iggulden
-The Transmigration of Timothy Archer@Philip K. Dick
-Bitter Seeds@Ian Tregillis
-Brief Interviews with Hideous Men@David Foster Wallace
 Annie's Box: Charles Darwin, His Daughter and Human Evolution@Randal Keynes
-The Everlasting Man@G.K. Chesterton
-A Conspiracy of Kings@Megan Whalen Turner
 9960770680@Muhammad Mohar Ali
 The Areas of My Expertise@John Hodgman
 Remembrance of Things Past: Volume II - The Guermantes Way & Cities of the Plain@Marcel Proust
 Rise Of The Huntress (The Last Apprentice / Wardstone Chronicles, #7)@Joseph Delaney
-A Scots Quair@Lewis Grassic Gibbon
 في القدس@تميم البرغوثي
-The Viscount Who Loved Me@Julia Quinn
 0525426361@Esther Earl
-Aura@Carlos Fuentes
 The Story of Forgetting@Stefan Merrill Block
 Liberty: Incorporating Four Essays on Liberty@Isaiah Berlin
-Citadel@Kate Mosse
-Wonders of the West@Kate Braverman
 ポケットモンスターSPECIAL 4@Hidenori Kusaka
 The Place of Dead Roads@William S. Burroughs
-You Don't Know Me@David Klass
-Along Came a Spider@James Patterson
-About Alice@Calvin Trillin
 An Accidental Man@Iris Murdoch
 The 10,000 Year Explosion: How Civilization Accelerated Human Evolution@Gregory Cochran
-The Door to December@Richard Paige
-Lean Mean Thirteen@Janet Evanovich
-A Perfect Evil@Alex Kava
-When You Are Engulfed in Flames@David Sedaris
-Black Sheep@Georgette Heyer
-On Bullshit@Harry G. Frankfurt
 A House Divided (House of Earth, #3)@Pearl S. Buck
 Mortal Prey@John Sandford
-The Andromeda Strain@Michael Crichton
 Pictures of Nothing: Abstract Art since Pollock (A.W. Mellon Lectures in the Fine Arts)@Kirk Varnedoe
 When Comes the Spring (Canadian West #2)@Janette Oke
 Reaper's Gale@Steven Erikson
-Beggars in Spain@Nancy Kress
 Falling together@Marisa de los Santos
-Economics in One Lesson@Henry Hazlitt
 Batman, Volume 1: The Court of Owls@Scott Snyder
-A Fine and Private Place@Peter S. Beagle
-Finger Lickin' Fifteen@Janet Evanovich
-Der Schweizerische Robinson@Johann David Wyss
 English@Michael Nield
 Смерть постороннего@Andrey Kurkov
-The World Until Yesterday@Jared Diamond
 0152016082@Sherwood Smith
 Breakfast with Buddha@Roland Merullo
 道德經 [dào dé jīng]@Lao Tzu
 B006F75RHI@Kelli McCracken
-The Fire-Dwellers@Margaret Laurence
-War Trash@Ha Jin
-Eyeless in Gaza@Aldous Huxley
-Dog on It@Spencer Quinn
-The Final Diagnosis@Arthur Hailey
-The Stone Gods@Jeanette Winterson
-The Far Cry@Fredric Brown
-The Journals of Eleanor Druse: My Investigation of the Kingdom Hospital Incident@Eleanor Druse
-First Test@Tamora Pierce
 Queen of Scots: The True Life of Mary Stuart@John Guy
 O Diário de um Mago@Paulo Coelho
 Lies and the Lying Liars Who Tell Them: A Fair and Balanced Look at the Right@Al Franken
 9789129657906@Astrid Lindgren
-The Book of Strange New Things@Michel Faber
 Small World: An Academic Romance@David Lodge
-The Power of a Praying Woman@Stormie Omartian
 The Bounty Trilogy@Charles Bernard Nordhoff
-The Death of Bees@Lisa O'Donnell
-Monsignor Quixote@Graham Greene
 Confessions of a Pagan Nun@Kate Horsley
 Mirror@Graham Masterton
-The Silent Land@Graham Joyce
 0679777458@Dorothy Dunnett
 I Feel Bad About My Neck: And Other Thoughts on Being a Woman@Nora Ephron
-Devil's Cub@Georgette Heyer
 Elephant Company: The Inspiring Story of an Unlikely Hero and the Animals Who Helped Him Save Lives in World War II@Vicki Constantine Croke
 The Rats@James Herbert
-House of Chains@Steven Erikson
 Котлован (Kotlovan)@Andrei Platonov
-Remarkable Creatures@Tracy Chevalier
-Wonderful Life: The Burgess Shale and the Nature of History@Stephen Jay Gould
 Why Do Men Have Nipples? Hundreds of Questions You'd Only Ask a Doctor After Your Third Martini@Mark Leyner
 Ich und Du@Martin Buber
 Fallout (Crank, #3)@Ellen Hopkins
-Rainbow Six@Tom Clancy
 The Condition@Jennifer Haigh
-The Dream Songs@John Berryman
 0345803574@E.L. James
-Barbarians at the Gate: The Fall of RJR Nabisco@Bryan Burrough
 Annabel@Kathleen Winter
-Divine Secrets of the Ya-Ya Sisterhood@Rebecca Wells
 Trial by Fire@Jennifer Lynn Barnes
-Practical Demonkeeping@Christopher Moore
-The Husband Hunt@Lynsay Sands
-No Comebacks@Frederick Forsyth
 Negro President: Jefferson and the Slave Power@Garry Wills
-A Rose for Emily@William Faulkner
 Skulduggery Pleasant: The Faceless Ones@Derek Landy
 The Virginian: A Horseman of the Plains@Owen Wister
-Judge & Jury@James Patterson
 Sons (House of Earth, #2)@Pearl S. Buck
 The Atrocity Archives@Charles Stross
-The Railway Children@E. Nesbit
 The Rising@Brian Keene
 High Risk@Amy Scholder
 Johannes Cabal the Necromancer@Jonathan L. Howard
-Konfidenz@Ariel Dorfman
-Kushiel's Chosen@Jacqueline Carey
 Catecismo de la Iglesia Católica@Pope John Paul II
 Imperium: A novel of Ancient Rome@Robert   Harris
-Lilac Bus@Maeve Binchy
 0810989816@Margi Preus
 The Tyranny of Words@Stuart Chase
 Queen of Song and Souls (Tairen Soul, #4)@C.L. Wilson
@@ -6022,30 +5676,18 @@ The Spook's Mistake (The Last Apprentice / Wardstone Chronicles, #5)@Joseph Dela
 Gloriana, or The Unfulfill'd Queen@Michael Moorcock
 Night of the Soul Stealer (The Last Apprentice / Wardstone Chronicles, Book 3)@Joseph Delaney
 闇の守り人@Nahoko Uehashi
-The Submission@Amy Waldman
 حول التأصيل الإسلامي للعلوم الاجتماعية@محمد قطب
-The Little Stranger@Sarah Waters
-A Good Scent from a Strange Mountain: Stories@Robert Olen Butler
 Physik (Septimus Heap #3)@Angie Sage
 كيف نكتب التاريخ الإسلامي@محمد قطب
 B004H1TDB0@Lindsay Buroker
-A Deepness in the Sky@Vernor Vinge
-Mr. Timothy@Louis Bayard
 The Thurber Carnival@James Thurber
 Broken@Kelley Armstrong
-Polar Star@Martin Cruz Smith
 Clash of Demons (The Last Apprentice / Wardstone Chronicles, #6)@Joseph Delaney
 Dialektik der Aufklärung: Philosophische Fragmente@Theodor W. Adorno
 Queste (Septimus Heap, #4)@Angie Sage
 HMS Ulysses@Alistair MacLean
-Mortal Heart@Robin LaFevers
 Collected Poems@Dylan Thomas
-The Story of Beautiful Girl@Rachel Simon
 A Crackup at the Race Riots@Harmony Korine
-Girl of Nightmares@Kendare Blake
-The Charm School@Nelson DeMille
-Geist@Philippa Ballantine
-Brokeback Mountain@Annie Proulx
 Claimed By Shadow@Karen Chance
 Borderlands/La Frontera: The New Mestiza@Gloria E. Anzaldúa
 Shatter@Michael Robotham
@@ -6055,180 +5697,96 @@ O Sítio do Picapau Amarelo@Monteiro Lobato
 Attack of the Fiend (The Last Apprentice #4)@Joseph Delaney
 The Thousand Autumns of Jacob de Zoet@David Mitchell
 Consumption@Kevin Patterson
-The Ancient Future: The Dark Age@Traci Harding
-You Shall Know Our Velocity!@Dave Eggers
 زوجة أحمد@إحسان عبد القدوس
 B0087G3U92@Erica Stevens
 The Firebrand@Marion Zimmer Bradley
 What I Was@Meg Rosoff
 Le Locataire chimérique@Roland Topor
-Burial Rites@Hannah Kent
 0156729156@Eudora Welty
 Hot, Flat, and Crowded: Why We Need a Green Revolution--and How It Can Renew America@Thomas L. Friedman
-Butcher's Crossing@John  Williams
 Valiant: A Modern Tale of Faerie@Holly Black
 The Namesake@Jhumpa Lahiri
-90 Minutes in Heaven@Don Piper
 Transmetropolitan, Vol. 1: Back on the Street@Warren Ellis
 Peace@Richard Bausch
-Gerald's Game@Stephen King
 Skulduggery Pleasant: Playing with Fire@Derek Landy
-The War Prayer@Mark Twain
 1591845114@David   Epstein
 الإسلام ومشكلات الحضارة@Sayed Qutb
-On the Prowl@Patricia Briggs
-The Great Train Robbery@Michael Crichton
 Prep@Curtis Sittenfeld
 The Authoritative Calvin and Hobbes@Bill Watterson
 0307336824@Lisa Unger
 精霊の守り人@Nahoko Uehashi
-Daughters of Rome@Kate Quinn
-Friend of My Youth@Alice Munro
-Old Filth@Jane Gardam
 Living With Joy: Keys to Personal Power and Spiritual Transformation (Earth Life Series, Book I)@Sanaya Roman
-Syren@Angie Sage
-Ma Rainey's Black Bottom@August Wilson
-The Gates of Rome@Conn Iggulden
-An Ice-Cream War@William  Boyd
 Observatory Mansions@Edward Carey
 Collected Plays 1944–1961@Arthur Miller
 Wesley the Owl: The Remarkable Love Story of an Owl and His Girl@Stacey O'Brien
-Ship of Magic@Robin Hobb
-Effortless@S.C. Stephens
 Lie Down in Darkness@William Styron
-Stolen@Kelley Armstrong
 Pastwatch: The Redemption of Christopher Columbus@Orson Scott Card
 Logicomix@Apostolos Doxiadis
 Martha Quest: A Novel@Doris Lessing
-You've Been Warned@James Patterson
-An Artist of the Floating World@Kazuo Ishiguro
 Without You, There Is No Us: My Time with the Sons of North Korea's Elite@Suki Kim
-Beautiful Dreamer@Elizabeth Lowell
 Tiny Beautiful Things: Advice on Love and Life from Dear Sugar@Cheryl Strayed
 Bomarzo@Manuel Mujica Láinez
 Invisible Prey@John Sandford
-Maschere nude@Luigi Pirandello
 Thirteenth Child@Patricia C. Wrede
-Looking for Alibrandi@Melina Marchetta
-Summer Knight@Jim Butcher
-Seta@Alessandro Baricco
 0385349947@Sheryl Sandberg
-Last and First Men/Star Maker@Olaf Stapledon
 Mapping Human History: Genes, Race, and Our Common Origins@Steve  Olson
-Gardens of the Moon@Steven Erikson
-Eleanor Rigby@Douglas Coupland
-Dancer from the Dance@Andrew Holleran
-The Last Empress@Anchee Min
 A jangada de pedra@José Saramago
-Lover Revealed@J.R. Ward
-The Secret Pearl@Mary Balogh
-The Enchantress of Florence@Salman Rushdie
 Bunnicula: A Rabbit-Tale of Mystery@James Howe
 I am forbidden@Anouk Markovits
-Company K@William March
 Метро 2033@Dmitry Glukhovsky
 Imperium@Ryszard Kapuściński
-The Fire Chronicle@John  Stephens
-The Best Laid Plans@Sidney Sheldon
-The Hidden Gallery@Maryrose Wood
 السيرة النبوية في ضوء المصادر الأصلية: دراسة تحليلية@Mahdi Rizqullah Ahmad
 L'Amica geniale@Elena Ferrante
-The Quiet Game@Greg Iles
 Song of the Sparrow@Lisa Ann Sandell
-Sorceress of Darshiva@David Eddings
-Naked Prey@John Sandford
 The Redneck Manifesto: How Hillbillies, Hicks, and White Trash Became America's Scapegoats@Jim Goad
-The Book of Joe@Jonathan Tropper
-The Garden of Eden@Ernest Hemingway
-Haunted@Kelley Armstrong
-Debt of Honor@Tom Clancy
-Through Wolf's Eyes (Firekeeper Saga, #1)@Jane Lindskold
 Never Look Back@Lesley Pearse
 0786445475@Spiro Dimolianis
-Whitney, My Love@Judith McNaught
-Welcome to Lovecraft@Joe Hill
 Wolf-Speaker (Immortals, #2)@Tamora Pierce
 Who's That Knocking on Christmas Eve?@Jan Brett
 Talking to the Dead@Helen Dunmore
 The Time of My Life@Cecelia Ahern
 Příliš hlučná samota@Bohumil Hrabal
-Death's Mistress@Karen Chance
-The Best of H.P. Lovecraft@H.P. Lovecraft
 1592983952@Roma Calatayud-Stocks
-King: A Street Story@John Berger
-Cloaked@Alex Flinn
 The Red Badge of Courage/The Veteran@Stephen Crane
 Conservatives without Conscience@John W. Dean
-Use of Weapons@Iain M. Banks
-Deepsix@Jack McDevitt
 The Spirit Catches You and You Fall Down: A Hmong Child, Her American Doctors, and the Collision of Two Cultures@Anne Fadiman
 On the Island@Tracey Garvis-Graves
-Autumn Lover@Elizabeth Lowell
 Ordinary Thunderstorms@William  Boyd
 Jeszcze dzień życia@Ryszard Kapuściński
 Big Russ and Me: Father and Son--Lessons of Life@Tim Russert
-The Bull from the Sea@Mary Renault
-Dean Koontz's Frankenstein: Prodigal Son@Dean Koontz
 紅高粱家族 [Hóng Gāoliáng Jiāzú]@Mo Yan
 New and Collected Poems: 1931-2001@Czesław Miłosz
-In an Antique Land: History in the Guise of a Traveler's Tale@Amitav Ghosh
 The Death of Kings (Emperor, #2)@Conn Iggulden
 Приглашение на казнь@Vladimir Nabokov
 Two States@Chetan Bhagat
-The Game-Players of Titan@Philip K. Dick
 The Reason for God: Belief in an Age of Skepticism@Timothy J. Keller
-Dark Reunion@L.J. Smith
 Charlotte's Web/Stuart Little Slipcase Gift Set@E.B. White
 Last and First Men@Olaf Stapledon
 The Better Angels of Our Nature. Why Violence has Declined@Steven Pinker
 184022679X@Virginia Woolf
-Chasing Fire@Nora Roberts
-In Dubious Battle@John Steinbeck
 Physics of the Impossible: A Scientific Exploration of the World of Phasers, Force Fields, Teleportation, and Time Travel@Michio Kaku
 8178981343@Harun Yahya
-Bones of the Hills@Conn Iggulden
-Martin the Warrior@Brian Jacques
 The Spook's Apprentice (The Last Apprentice / Wardstone Chronicles, #1)@Joseph Delaney
-The Mouse and His Child@Russell Hoban
 They Would Never Hurt a Fly@Slavenka Drakulić
-Isaac's Storm: A Man, a Time, and the Deadliest Hurricane in History@Erik Larson
-Up Country@Nelson DeMille
-The Girl Who Loved Tom Gordon@Stephen King
 Predator's Gold@Philip Reeve
 Arabic@Sayed Qutb
-The Borrower@Rebecca Makkai
 Election@Tom Perrotta
-Specials@Scott Westerfeld
-Free to Choose: A Personal Statement@Milton Friedman
 Het huis van de moskee@Kader Abdolah
 الأساليب النبوية في التعامل مع أخطاء الناس@محمد صالح المنجد
-Marcelo in the Real World@Francisco X. Stork
-The Map of Love@Ahdaf Soueif
 Taken by Midnight (Midnight Breed, #8)@Lara Adrian
-The Far Side of the World@Patrick O'Brian
-The Way of Shadows@Brent Weeks
-Notes of a Dirty Old Man@Charles Bukowski
 New York@Edward Rutherfurd
-Peter Pan in Kensington Gardens@J.M. Barrie
 American Bloomsbury: Louisa May Alcott, Ralph Waldo Emerson, Margaret Fuller, Nathaniel Hawthorne, and Henry David Thoreau: Their Lives, Their Loves, Their Work@Susan Cheever
 L'année dernière à Marienbad@Alain Robbe-Grillet
-Wildwood@Colin Meloy
 ذاكرة الجسد@أحلام مستغانمي
 0575095776@Nalini Singh
 The Mad Ship@Robin Hobb
 Ancillary Justice@Ann Leckie
 Pantaleón y las visitadoras@Mario Vargas Llosa
-The Woman Upstairs@Claire Messud
 L'Exil et le Royaume@Albert Camus
 Playing For Pizza@John Grisham
-All My Sons@Arthur Miller
-The Children's Blizzard@David Laskin
-The Missing Piece@Shel Silverstein
 Half Blood Blues@Esi Edugyan
 Revolution in the Head: The Beatles' Records and the Sixties@Ian Macdonald
 English@C.L. Stone
-Immortal in Death@J.D. Robb
-Deep Storm@Lincoln Child
 أصداء السيرة الذاتية@Naguib Mahfouz
 The Greater Journey: Americans In Paris@David McCullough
 وجهة العالم الإسلامي@مالك بن نبي
@@ -6319,326 +5877,172 @@ A Far Cry from Kensington@Muriel Spark
 The Translator: A Tribesman's Memoir of Darfur@Daoud Hari
 Nëpunësi i Pallati it të Endrrave@Ismail Kadare
 Flyte (Septimus Heap, #2)@Angie Sage
-Airframe@Michael Crichton
-The Happiness Project@Gretchen Rubin
-Mission of Gravity@Hal Clement
-My Stroke of Insight@Jill Bolte Taylor
-Mastering the Art of French Cooking@Julia Child
-Bleachers@John Grisham
 Heaven@V.C. Andrews
-The 100@Kass Morgan
 An Autobiography or The Story of My Experiments with Truth@Mahatma Gandhi
-The Dream Thieves@Maggie Stiefvater
-To Green Angel Tower (Memory, Sorrow, and Thorn, #3)@Tad Williams
-Devil Bones@Kathy Reichs
 Rolf in the Woods: The Adventures of a Boy Scout With Indian Quonab and Little Dog Skookum@Ernest Thompson Seton
 The Magician: The Secrets of The Immortal Nicholas Flamel@Michael Scott
 Ægypt@John Crowley
 0670064718@Will Ferguson
-Mr Norris Changes Trains@Christopher Isherwood
 A Venetian Affair: A True Tale of Forbidden Love in the 18th Century@Andrea di Robilant
 In der Strafkolonie@Franz Kafka
 The Last Hunter: Onslaught@Jeremy Robinson
 Byzantium: The Apogee@John Julius Norwich
 Notes on a Scandal@Zoë Heller
-Master of the Game@Sidney Sheldon
 Murder in Amsterdam: The Death of Theo van Gogh and the Limits of Tolerance@Ian Buruma
 Lie Down With Lions@Ken Follett
-Melting Stones@Tamora Pierce
 Nine Hundred Grandmothers@R.A. Lafferty
 1442472057@Cassandra Clare
-A Jest of God@Margaret Laurence
 容疑者Xの献身 [Yōgisha X no kenshin]@Keigo Higashino
-They Shoot Horses, Don't They?@Horace McCoy
 Le Rapport de Brodeck@Philippe Claudel
-Sister of My Heart@Chitra Banerjee Divakaruni
 Every Boy's Got One (Boy, #3)@Meg Cabot
-The White Mountains@John Christopher
 Predictably Irrational: The Hidden Forces that Shape Our Decisions@Dan Ariely
 0806509023@Jean-Paul Sartre
-I'll Give You the Sun@Jandy Nelson
 Mon dernier soupir@Luis Buñuel
 B0055DKQNS@Lindsay Buroker
-Broca's Brain: Reflections on the Romance of Science@Carl Sagan
 Skulduggery Pleasant: Dark Days@Derek Landy
 Messiah@Gore Vidal
-Pirate Cinema@Cory Doctorow
-April Fool's Day@Bryce Courtenay
 The Spook's Curse@Joseph Delaney
-Your Blues Ain't Like Mine: A Novel@Bebe Moore Campbell
-Phantom Prey@John Sandford
 Essential Grammar in Use: A Self-study Reference and Practice Book for Elementary Students of English@Raymond Murphy
 Bloom@Elizabeth Scott
 First King of Shannara@Terry Brooks
-The Big Burn: Teddy Roosevelt and the Fire that Saved America@Timothy Egan
 La Virgen de los Sicarios@Fernando Vallejo
-When Will Jesus Bring the Pork Chops?@George Carlin
 Corpse Delectable@Danielle Willis
-Touch the Dark@Karen Chance
-Coming into the Country@John McPhee
 Pride and Prejudice and Zombies@Seth Grahame-Smith
-Holiday in Death@J.D. Robb
-The Gift of Rain@Tan Twan Eng
 Collected Poems, 1948-1984@Derek Walcott
-Moon Over Manifest@Clare Vanderpool
 Dr. Bloodmoney, or How We Got Along after the Bomb@Philip K. Dick
 0345521080@Elizabeth Letts
-Delta Wedding@Eudora Welty
 Ink Exchange (Wicked Lovely, #2)@Melissa Marr
-Hercule Poirot's Christmas@Agatha Christie
 Incubus Dreams (Anita Blake, Vampire Hunter, #12)@Laurell K. Hamilton
 羅生門 [Rashōmon]@Akutagawa Ryūnosuke
-The Last Witness@Jilliane Hoffman
 Sarah Anne Hartford: Massachusetts, 1651 (American Diaries)@Kathleen Duey
 The Last Mughal: The Fall of a Dynasty, Delhi, 1857@William Dalrymple
-A Friend of the Earth@T.C. Boyle
 Auringon ydin@Johanna Sinisalo
 Remembrance of Things Past: Volume III - The Captive, The Fugitive, & Time Regained@Marcel Proust
 Akata Witch@Nnedi Okorafor
-Once and Always@Judith McNaught
-@Harun Yahya
 Über Gewissheit@Ludwig Wittgenstein
-Kiss of the Highlander@Karen Marie Moning
-Endless Night@Agatha Christie
-Nefertiti@Michelle Moran
-Goodbye to Berlin@Christopher Isherwood
-The Silkworm@Robert Galbraith
 Die 13½ Leben des Käpt'n Blaubär@Walter Moers
-Murder of Crows@Anne Bishop
-The Natural@Bernard Malamud
 0871404095@Jim Holt
-The Beloved Scoundrel@Iris Johansen
 Dying Gasp: A Chief Inspector Mario Silva Investigation@Leighton Gage
-Way of the Peaceful Warrior: A Book That Changes Lives@Dan Millman
 Chanakya's Chant@Ashwin Sanghi
-Modern Times@Paul  Johnson
-Mastiff@Tamora Pierce
-In Watermelon Sugar@Richard Brautigan
-Slave to Sensation@Nalini Singh
 NARUTO -ナルト- 巻ノ二@Masashi Kishimoto
-Blindsight@Peter Watts
-The Stories of Vladimir Nabokov@Vladimir Nabokov
-This Lullaby@Sarah Dessen
-The Quincunx@Charles Palliser
-The Maze of Bones@Rick Riordan
 La symphonie pastorale@André Gide
 @Tina Folsom
-Parable of the Talents@Octavia E. Butler
 0425226921@Nalini Singh
 C is for Corpse@Sue Grafton
-Ava's Man@Rick Bragg
-Affliction@Russell Banks
 9960887154@Harun Yahya
 Les mandarins@Simone de Beauvoir
-Tishomingo Blues@Elmore Leonard
 A History of God: The 4,000-Year Quest of Judaism, Christianity, and Islam@Karen Armstrong
-Here to Stay@Catherine Anderson
-Curious George@H.A. Rey
 1452085331@Kelli Sullivan
 Interesting Times@Stephen Briggs
-The Gathering Storm@Robert Jordan
 Água viva@Clarice Lispector
-Lucky Girls@Nell Freudenberger
 سمفونی مردگان@عباس معروفی
 The Shell Collector: Stories@Anthony Doerr
 Everybody Loves a Good Drought: Stories from India's Poorest Districts@P. Sainath
-The Target@David Baldacci
 Peace@Gene Wolfe
-Eventide@Kent Haruf
-The Bronze Bow@Elizabeth George Speare
-Dirt Music@Tim Winton
-Heat and Dust@Ruth Prawer Jhabvala
 Lilla stjärna@John Ajvide Lindqvist
-The House of Sleep@Jonathan Coe
-Patient Zero@Jonathan Maberry
 Rhapsody: Child of Blood@Elizabeth Haydon
 The End of Your Life Bookclub@Will Schwalbe
-The Palm at the End of the Mind: Selected Poems and a Play@Wallace Stevens
-The Manufactured Identity@Heath Sommer
-Sunwing@Kenneth Oppel
-MirrorMask@Neil Gaiman
 Minoes@Annie M.G. Schmidt
-The Plague of Doves@Louise Erdrich
-The Evolution Deceit@Harun Yahya
 The Island@Victoria Hislop
-The Last of the Wine@Mary Renault
-Bite Me@Christopher Moore
 Brave New World/Brave New World Revisited@Aldous Huxley
 The Dragon Keeper@Robin Hobb
-Jesus' Son: Stories@Denis Johnson
 1846079691@David Llewellyn
 Silverwing (Silverwing, #1)@Kenneth Oppel
-My Sunshine@Catherine Anderson
-The Soft Machine@William S. Burroughs
-Fever@Lauren DeStefano
 143410169X@T.S. Eliot
 I Love You Baby Girl@Desire Night
 Mulata de tal@Miguel Ángel Asturias
-Lone Survivor: The Eyewitness Account of Operation Redwing and the Lost Heroes of SEAL Team 10@Marcus Luttrell
-Death in the Afternoon@Ernest Hemingway
 Ensemble, c'est tout@Anna Gavalda
-The Angel of Darkness@Caleb Carr
 A Girl Named Zippy: Growing up Small in Mooreland, Indiana@Haven Kimmel
 The Goal@Eliyahu M. Goldratt
-Everfound@Neal Shusterman
 The Evolution Man - Or, How I Ate My Father@Roy  Lewis
-The Last Child@John Hart
 Darwin's Dangerous Idea: Evolution and the Meanings of Life@Daniel C. Dennett
-Spell of the Highlander@Karen Marie Moning
-Night Soldiers@Alan Furst
 In Revere, in Those Days@Roland Merullo
 The Collected Stories@Isaac Bashevis Singer
 1482301733@Wendell G. Sweet
-The Other Side of Me@Sidney Sheldon
 Batman: Whatever Happened to the Caped Crusader?@Neil Gaiman
 An Unquiet Mind: A Memoir of Moods and Madness@Kay Redfield Jamison
-Don't Fear the Reaper@Marcus Mastin
 Der schwarze Obelisk@Erich Maria Remarque
 White Wolf@David Gemmell
 Protector@Larry Niven
-Phantom Waltz@Catherine Anderson
 The Abhorsen Trilogy Box Set@Garth Nix
-Ugly Love@Colleen Hoover
 The Grapes of Wrath@John Steinbeck
 La possibilité d'une île@Michel Houellebecq
 Beyaz Kale@Orhan Pamuk
 The Years of Extermination: Nazi Germany and the Jews, 1939-1945@Saul Friedländer
 The Little Drummer Girl@John le Carré
-A Brief History of Seven Killings@Marlon James
 Pawn in Frankincense (The Lymond Chronicles, #4)@Dorothy Dunnett
 Logos@Cheryl Anne Gardner
 Shōgun@James Clavell
 0982214545@Cheryl Anne Gardner
 White Noise@Don DeLillo
 Don't Pay The Ferryman@Marcus Mastin
-Capitalism and Freedom@Milton Friedman
-The Kissing Room@Cheryl Anne Gardner
-Random Passage@Bernice Morgan
 9781468116809@Billy Ray Chitwood
 Winnie-the-Pooh & The House at Pooh Corner@A.A. Milne
-The Thin Wall@Cheryl Anne Gardner
 To Kill a Mockingbird@Harper Lee
-So B. It@Sarah Weeks
-The Feast of Love@Charles Baxter
 Pirates!@Celia Rees
 The Tunnel@William H. Gass
 Roses@Leila Meacham
-Parade's End@Ford Madox Ford
 Pan Lodowego Ogrodu. Tom 1@Jarosław Grzędowicz
 Miss Nelson Is Missing!@Harry Allard
-Going Postal@Terry Pratchett
 The Troubles: Ireland's Ordeal 1966-1996 and the Search for Peace@Tim Pat Coogan
 Ignite Me (Shatter Me, #3)@Tahereh Mafi
-Samarcande@Amin Maalouf
-The Orenda@Joseph Boyden
 Miracles of The Qur'an@Harun Yahya
-Salt Sugar Fat: How the Food Giants Hooked Us@Michael Moss
-Annie on My Mind@Nancy Garden
-Night Road@Kristin Hannah
-Marabou Stork Nightmares@Irvine Welsh
-Morning Light@Catherine Anderson
-Martin Dressler: The Tale of an American Dreamer@Steven Millhauser
-Shroud of Darkness@C.S. Woolley
-The Broom of the System@David Foster Wallace
 Sudden Sea: The Great Hurricane of 1938@R.A. Scotti
 The 5000 Year Leap: The 28 Great Ideas That Changed the World@W. Cleon Skousen
-Timeless@Gail Carriger
 New Cook Book (Better Homes & Gardens New Cookbooks)@Better Homes and Gardens
 Only By Your Touch@Catherine Anderson
 Goodbye, Columbus and Five Short Stories@Philip Roth
 Podróże z Herodotem@Ryszard Kapuściński
 Петербург@Andrei Bely
-NOS4A2@Joe Hill
 التيه@Abdul Rahman Munif
-Into the Dreaming@Karen Marie Moning
-The Potato Factory@Bryce Courtenay
 1616635592@Heath Sommer
 Last Leaf (Jamestown Classics)@O. Henry
 The 9/11 Commission Report: Omissions and Distortions@David Ray Griffin
-Vidas Secas@Graciliano Ramos
-The Remnant: On the Brink of Armageddon@Tim LaHaye
-High-Rise@J.G. Ballard
 The Sacrilege: The Antichrist Takes the Throne@Tim LaHaye
-The Well of Loneliness@Radclyffe Hall
 0615361617@Christina Moss
 Lost Moon: The Perilous Voyage of Apollo 13@Jim Lovell
 Mortals@Norman Rush
 アフターダーク [Afutā dāku]@Haruki Murakami
-Sun Kissed@Catherine Anderson
-Witness@Whittaker Chambers
 Blue Skies@Catherine Anderson
 თეთრი ბაირაღები@Nodar Dumbadze
 La Mécanique du cœur@Mathias Malzieu
-Only the Paranoid Survive@Andrew S. Grove
 The American Plague: The Untold Story of Yellow Fever, the Epidemic that Shaped Our History@Molly Caldwell Crosby
 8185063141@Maulana Wahiduddin Khan
 Hope for Animals and Their World: How Endangered Species Are Being Rescued from the Brink@Jane Goodall
-The Pine Barrens@John McPhee
-A Court of Mist and Fury@Sarah J. Maas
 Leviathan@Paul Auster
 Into the Black (Odyssey One #1)@Evan C. Currie
 The End of Alice@A.M. Homes
-The Amulet of Samarkand@Jonathan Stroud
 Islam Between East and West@Alija Izetbegović
-Winger@Andrew  Smith
 0962723649@Abdul-Majeed Zindani
-Sacred Games@Vikram Chandra
 بداية ونهاية@Naguib Mahfouz
-A God in Ruins@Kate Atkinson
-The Teachings of Don Juan: A Yaqui Way of Knowledge@Carlos Castaneda
 0983750920@Zack Scott
 Směšné lásky@Milan Kundera
-Lord of the Shadows@Jennifer Fallon
 Holding The Man@Timothy Conigrave
-The Tao of Wu@The RZA
-Tamarind Woman@Anita Rau Badami
 The Martian@Andy Weir
-The Chamber@John Grisham
-Abundance: A Novel of Marie Antoinette@Sena Jeter Naslund
 Objects in Mirror Are Closer Than They Appear: A Novel@Katharine Weber
 0375714685@David B.
 Beloved Prophet: The Love Letters of Kahlil Gibran and Mary Haskell, and Her Private Journal@Kahlil Gibran
 We Wove A Web In Childhood - The Brontes At Home@Ruth  Thomas
 Time’s Arrow@Martin Amis
 0385371063@Michele Weber Hurwitz
-Ragged Trousered Philanthropists@Robert Tressell
-The Isle of the Lost@Melissa de la Cruz
-Soul Music@Terry Pratchett
-The Mime Order@Samantha Shannon
-How to Stop Worrying and Start Living@Dale Carnegie
 B00G2JM0D8@Zack Love
-Lord Edgware Dies@Agatha Christie
 8496947254@Bárbara G. Rivero
 9789994073@Chabua Amirejibi
-Ordinary Grace@William Kent Krueger
 Julian@Gore Vidal
-The Crippled God@Steven Erikson
-Keeping Faith@Jodi Picoult
-Leviathan Wakes@James S.A. Corey
-Princess in the Spotlight@Meg Cabot
 Crossed: A Tale of the Fourth Crusade@Nicole Galland
 Tereza Batista cansada de guerra@Jorge Amado
 A More Unbending Battle: The Harlem Hellfighter's Struggle for Freedom in WWI and Equality at Home@Peter N. Nelson
 The Outsider@Richard Wright
 Pegasus and the Flame@Kate O'Hearn
-Rose Madder@Stephen King
-The Dressmaker of Khair Khana: Five Sisters, One Remarkable Family, and the Woman Who Risked Everything to Keep Them Safe@Gayle Tzemach Lemmon
-Diary of an Early American Boy@Eric Sloane
 The Dopeman's Wife (Dopeman, #1)@JaQuavis Coleman
-The Return of the Prodigal Son@Henri J.M. Nouwen
 Lethal Rider@Larissa Ione
 Traité de savoir-vivre à l'usage des jeunes générations@Raoul Vaneigem
 The Places That Scare You: A Guide to Fearlessness in Difficult Times@Pema Chödrön
-In Search of the Miraculous: Fragments of an Unknown Teaching@P.D. Ouspensky
 Ivy@Julie Hearn
-Flashman@George MacDonald Fraser
 The Alpha Alternative@Karen Marie Moning
-Heaven to Betsy (Betsy-Tacy, Book 5)@Maud Hart Lovelace
 The Accidental@Ali Smith
-The Ticket That Exploded@William S. Burroughs
 Meatball Sundae: Is Your Marketing out of Sync?@Seth Godin
 62/Modelo para armar@Julio Cortázar
-Sea of Silver Light@Tad Williams
 Mostly Harmless (Hitchhiker's Guide to the Galaxy, #5)@Douglas Adams
 by George: A Novel@Wesley Stace
 Forty Stories@Donald Barthelme
@@ -6753,7 +6157,6 @@ A Kingdom of Dreams@Judith McNaught
 De kraai@Kader Abdolah
 Keeping the Moon@Sarah Dessen
 1451644760@Jennie Ketcham
-I nostri antenati: Il visconte dimezzato - Il barone rampante - Il cavaliere inesistente@Italo Calvino
 B004XD7ZDU@Heather Haven
 Haroun and the Sea of Stories@Salman Rushdie
 Spectyr@Philippa Ballantine
@@ -6809,250 +6212,142 @@ Gläserne Bienen@Ernst Jünger
 Blood Noir (Anita Blake, Vampire Hunter, #16)@Laurell K. Hamilton
 People of the Wolf@W. Michael Gear
 Vicious Circle@Mike Carey
-Nectar in a Sieve@Kamala Markandaya
 B00E5TPZF2@Georgia Fox
-Asta's Book@Barbara Vine
 The Murder Bag@Tony Parsons
-American Tabloid@James Ellroy
 The Italian Boy: A Tale of Murder and Body Snatching in 1830s London@Sarah    Wise
-Blood and Chocolate@Annette Curtis Klause
-An Unfinished Season: A Novel@Ward Just
 موسم الهجرة إلى الشمال@Tayeb Salih
 The Popes: A History@John Julius Norwich
 Die Verwandlung und andere Erzählungen@Franz Kafka
-Goodbye for Now@Laurie Frankel
-The Reptile Room@Lemony Snicket
 The Mark of Athena (The Heroes of Olympus, #3)@Rick Riordan
-The Fifth Elephant@Terry Pratchett
-Unbroken: A World War II Story of Survival, Resilience, and Redemption@Laura Hillenbrand
 L'immoraliste@André Gide
 0470876255@Maggie Koerth-Baker
-Possessing the Secret of Joy@Alice Walker
-Only Human@Gareth Roberts
 The Riddle-Master of Hed@Patricia A. McKillip
-Ingo@Helen Dunmore
 Dog Soldiers@Robert  Stone
-We Are All Completely Beside Ourselves@Karen Joy Fowler
 Drachenreiter@Cornelia Funke
-Love You More@Lisa Gardner
 The Collected Poems of Wendell Berry, 1957-1982@Wendell Berry
 Thanking the Monkey: Rethinking the Way We Treat Animals@Karen Dawn
 Ο Χριστός ξανασταυρώνεται@Nikos Kazantzakis
-South of Darkness@John Marsden
-Horse Heaven@Jane Smiley
-The Burning Land@Bernard Cornwell
-The Street Lawyer@John Grisham
-Dreaming the Eagle@Manda Scott
 The White Goddess: A Historical Grammar of Poetic Myth@Robert Graves
 0330510053@Marilyn Kaye
 Historias de cronopios y de famas@Julio Cortázar
 Im Krebsgang@Günter Grass
 0965079678@José Saramago
-Homecoming@Kass Morgan
 The Country Girls Trilogy and Epilogue@Edna O'Brien
 0312594496@Sheila Roberts
-Lancelot@Walker Percy
-Eternal Journey@Alex Archer
 8437602793@Vicente Huidobro
 Churchill, Hitler and the Unnecessary War: How Britain Lost Its Empire and the West Lost the World@Patrick J. Buchanan
-Baghdad without a Map and Other Misadventures in Arabia@Tony Horwitz
 081099741X@Matt Zoller Seitz
-Mao II@Don DeLillo
 Eona: The Last Dragoneye@Alison Goodman
 The Roman Spring of Mrs. Stone@Tennessee Williams
 The Threat from the Sea Omnibus (The Threat from the Sea)@Mel Odom
 Psycho@Robert Bloch
 The 500@Matthew Quirk
-Brida@Paulo Coelho
 1433672960@Jen Hatmaker
-Children of the Mind@Orson Scott Card
-The Statistical Probability of Love at First Sight@Jennifer E. Smith
-The Missing Piece Meets the Big O@Shel Silverstein
 0231162421@Claude A. Piantadosi
-Star Maker@Olaf Stapledon
 B003F3PKDG@Pat Conroy
 À la recherche du temps perdu VII, Le Temps retrouvé@Marcel Proust
 Forging Zero@Sara  King
-Birthday Letters@Ted Hughes
-Parasite@Mira Grant
 Legend@David Gemmell
 Our Culture, What's Left of It: The Mandarins and the Masses@Theodore Dalrymple
 Moonflower Vine@Jetta Carleton
 9380658322@Anita Bhogle
-Last Chance to See@Douglas Adams
-The Demon's Mistress@Jo Beverley
-Demon Lord of Karanda@David Eddings
 Between Mom and Jo@Julie Anne Peters
 0441068804@Robin McKinley
 Mystical Warrior  (Midnight Bay, #3)@Janet Chapman
-Omeros@Derek Walcott
 Het onverwachte antwoord@Patricia De Martelaere
-Tomorrow, When the War Began@John Marsden
 What We Talk About When We Talk About Anne Frank@Nathan Englander
 Daggerspell@Katharine Kerr
 B00AQQY45A@Byron Goines
-Made in America: An Informal History of the English Language in the United States@Bill Bryson
 Atlas der abgelegenen Inseln: Fünfzig Inseln, auf denen ich nie war und niemals sein werde@Judith Schalansky
 バトル・ロワイアル@Koushun Takami
 Trotsky: Downfall Of A Revolutionary@Bertrand M. Patenaude
-The Man Who Loved Children@Christina Stead
 My Grandfather's Blessings : Stories of Strength, Refuge, and Belonging@Rachel Naomi Remen
 It's a Magical World: A Calvin and Hobbes Collection@Bill Watterson
-The Enemy@Charlie Higson
 The Ground Beneath Her Feet@Salman Rushdie
 Auralia's Colors: The Red Strand (The Auralia Thread #1)@Jeffrey Overstreet
 Das siebte Kreuz@Anna Seghers
 0736927409@Robert D. Lesslie
 Der Tod des Vergil@Hermann Broch
-The Kommandant's Girl@Pam Jenoff
-Moderato Cantabile@Marguerite Duras
 The Great Influenza: The Epic Story of the Deadliest Plague in History@John M. Barry
-Lords and Ladies@Terry Pratchett
 Buddhism Day by Day: Wisdom for Modern Life@Daisaku Ikeda
 The Golden Road@L.M. Montgomery
 My Bright Abyss: Meditation of a Modern Believer@Christian Wiman
-The Reivers@William Faulkner
-Exclusively Yours@Shannon Stacey
-Falling Up@Shel Silverstein
 US ARMY'S FIRST, LAST, AND ONLY ALL-BLACK RANGERS, THE: The 2nd Ranger Infantry Company (Airborne) in the Korean War, 1950-1951@Edward L. Posey
-Shampoo Planet@Douglas Coupland
 Witch & Wizard@James Patterson
 Da'i-i jan Napuli'un@ایرج پزشک زاد
 Freefall@Roderick Gordon
 Operation Shylock. A Confession@Philip Roth
 Boomerang@Tatiana de Rosnay
 The Story Girl@L.M. Montgomery
-G-Spot@Noire
-Way Station@Clifford D. Simak
 Meet Me at the Boathouse@Suzanne Bugler
 The Tracker@Tom Brown Jr.
 First Drop of Crimson@Jeaniene Frost
-The Emerald City of Oz@L. Frank Baum
 My Fair Captain@J.L. Langley
-Selected Poems 1966-1987@Seamus Heaney
 The Dark Mage (Avalon Quest for Magic #5@Rachel Roberts
 Stop-Time: A Memoir@Frank Conroy
 Graphic Witness: Four Wordless Graphic Novels by Frans Masereel, Lynd Ward, Giacomo Patri and Laurence Hyde@George A. Walker
 Poor Fellow My Country@Xavier Herbert
-The Scent of Shadows@Vicki Pettersson
-A Time of Exile@Katharine Kerr
 The Chris Farley Show: A Biography in Three Acts@Tom Farley Jr.
 Le Roi des Aulnes@Michel Tournier
-Little Hands Clapping@Dan Rhodes
-The Fury and Dark Reunion@L.J. Smith
 The Lodger: Shakespeare: His Life on Silver Street@Charles Nicholl
-What's Eating Gilbert Grape@Peter Hedges
-When You Ride Alone You Ride with Bin Laden@Bill Maher
 بين القصرين@Naguib Mahfouz
-Anatomy of a Soldier@Harry  Parker
 Le Grand Cahier - La Preuve - Le Troisième Mensonge@Ágota Kristóf
-Deceived by the Others@Jess Haines
-Guardians of the West@David Eddings
-Prince of Thorns@Mark  Lawrence
-Amok@Stefan Zweig
 Untitled (Beside Your Heart, #2)@Mary Whitney
-Last Orders@Graham Swift
 B016HD1OBM@Georgia Fox
 Άξιον Εστί@Odysseus Elytis
 It Happened In India@Kishore Biyani
-Vile Bodies@Evelyn Waugh
-Dark Places@Gillian Flynn
-Guilty Pleasures@Laurell K. Hamilton
 Eating Mammals: Three Novellas@John Barlow
 The Tibetan Book of Living and Dying@Sogyal Rinpoche
 Meursault, contre-enquête@Kamel Daoud
-So Long, and Thanks for All the Fish@Douglas Adams
 Maximum Ride: The Manga, Vol. 1@James Patterson
 The Sandman: The Wake@Neil Gaiman
 King's Property (Queen of the Orcs, #1)@Morgan Howell
 1581350244@Anonymous
-The Sword Thief@Peter Lerangis
 Miracle de la rose@Jean Genet
 The Marbury Lens@Andrew  Smith
 Down Under@Bill Bryson
 Living A Long Life@Byron Goines
 The Sandman: Dream Country@Neil Gaiman
 The 5th Wave@Rick Yancey
-Excalibur@Bernard Cornwell
-Life on the Refrigerator Door: Notes Between a Mother and Daughter@Alice Kuipers
-Nights at the Circus@Angela Carter
 Negerjood in moederland@Ellen Ombre
-The Famished Road@Ben Okri
-The Devil's Heiress@Jo Beverley
 Polgara the Sorceress@David Eddings
-Thirst No. 2@Christopher Pike
-Timequake@Kurt Vonnegut
-River of Smoke@Amitav Ghosh
-When We Were Orphans@Kazuo Ishiguro
-The Darkest Hour@Maya Banks
 Friday Night Lights: A Town, a Team, and a Dream@H.G. Bissinger
 Skammerens datter@Lene Kaaberbøl
 Elric of Melniboné@Michael Moorcock
 B004EYTBDA@Liam Stalls
-The Chocolate War@Robert Cormier
-Sing You Home@Jodi Picoult
-Enemy of God@Bernard Cornwell
-Personal Demons@Stacia Kane
-Green Mars@Kim Stanley Robinson
-Thirst: Poems@Mary Oliver
-The Great Escape@Paul Brickhill
 1608190161@Thomas E. Kennedy
 Adolf Hitler: My Part in His Downfall@Spike Milligan
 Harbinger@Philippa Ballantine
 Märchen@Hermann Hesse
-Sleeping With The Enemy@Wahida Clark
-China Blues@Ki Longfellow
-Soul Patrol@Ed Emanuel
 The Winter of Red Snow: The Revolutionary War Diary of Abigail Jane Stewart, Valley Forge, Pennsylvania, 1777 (Dear America)@Kristiana Gregory
-Tempting Danger@Eileen Wilks
-Phantoms in the Brain: Probing the Mysteries of the Human Mind@V.S. Ramachandran
 0007338171@Jill McGivering
 The Complete Encyclopedia of Vegetables & Vegetarian Cooking@Roz Denny
-Scattered Graves@Beverly Connor
-I Shall Not Be Moved@Maya Angelou
-Firegirl@Tony Abbott
-Lightning@Dean Koontz
 Curse of the Blue Tattoo: Being an Account of the Misadventures of Jacky Faber, Midshipman and Fine Lady@L.A. Meyer
 0765302969@Charles  de Lint
 This perfect world@Suzanne Bugler
 0007635575@J.R.R. Tolkien
-Honolulu@Alan Brennert
-Once a Hero@Michael A. Stackpole
-At the House of the Magician@Mary Hooper
-Kindheitsmuster@Christa Wolf
 1401324258@Jacqueline Kennedy Onassis
 Profiteer (Hostile Takeover)@S. Andrew Swann
 Closer@Roderick Gordon
 Complete Conan of Cimmeria@Robert E. Howard
-Rose Under Fire@Elizabeth Wein
 Enough Rope@Dorothy Parker
 1596986255@Dinesh D'Souza
-Magic by the Lake@Edward Eager
 I Am Not A Serial Killer (John Cleaver, #1)@Dan Wells
-Fame Is the Spur@Howard Spring
-The New Republic@Lionel Shriver
 Animal Speak: The Spiritual & Magical Powers of Creatures Great & Small@Ted Andrews
 B00AYGBRIE@Byron Goines
-Wyrms@Orson Scott Card
 Was in Irresistible Forces@Jo Beverley
-Independence Day@Richard Ford
 Ghost Cats@Susan Richards Shreve
 Sojourn (Dark Elf #3)@R.A. Salvatore
-GloomCookie@Serena Valentino
 Night Warriors@Graham Masterton
 0143418718@R.K. Laxman
 Lafcadio, The Lion Who Shot Back@Shel Silverstein
 0545204704@James L. Swanson
-Can You Drink the Cup?@Henri J.M. Nouwen
 Fire with Fire@Jenny Han
 Pippi Långstrump i Söderhavet@Astrid Lindgren
 Drijfhout@Annette de Vries
-The Colour of Memory@Geoff Dyer
-Identical@Ellen Hopkins
 Last Call@Tim Powers
 Forgotten@Cat Patrick
 Inny świat@Gustaw Herling-Grudziński
-My Booky Wook@Russell Brand
 The Prophecy@Katherine Applegate
 The Best Laid Plans@Terry Fallis
 Mała apokalipsa@Tadeusz Konwicki
@@ -7066,90 +6361,52 @@ Wrayth@Philippa Ballantine
 Rain (Hudson, #1)@V.C. Andrews
 B00BFX90QQ@Krista Madden
 The Worst Witch All At Sea (Worst Witch, Book 4)@Jill Murphy
-The Anthologist@Nicholson Baker
-The Kraken Wakes@John Wyndham
 Fang@James Patterson
-Jurassic Park@Michael Crichton
 Angel Puss@Colleen McCullough
 Ralentir Travaux@André Breton
-Havemercy@Jaida Jones
-The Whale Rider@Witi Ihimaera
 The Puppet and the Dwarf: The Perverse Core of Christianity@Slavoj Žižek
-A Countess Below Stairs@Eva Ibbotson
-Cryptid Hunters@Roland Smith
-The Ophiuchi Hotline@John Varley
 0981988237@Leona Wisoker
-The Sirens of Titan@Kurt Vonnegut
-The Wright 3@Blue Balliett
 Sonnenfinsternis@Arthur Koestler
-Priestess of the White@Trudi Canavan
 One@David Karp
 Emiko Superstar@Mariko Tamaki
 1589633504@Mikhail Sholokhov
 Run@Ann Patchett
 The Heart is a Lonely Hunter@Carson McCullers
 The Heart of Avalon (Avalon Quest for Magic #4)@Rachel Roberts
-The Starlight Crystal@Christopher Pike
-Flirt@Laurell K. Hamilton
 2940011240553@Joaquín Leguina
 Secret Son@Laila Lalami
 Le Jongleur de Notre Dame@Michel Zink
 9756426241@Harun Yahya
-A Girl Named Disaster@Nancy Farmer
-Marvels@Kurt Busiek
 0812976479@Anonymous
 The Sleeping Beauty Proposal@Sarah Strohmeyer
-This Heart of Mine@Susan Elizabeth Phillips
 St. Lucy's Home for Girls Raised by Wolves: Stories@Karen Russell
-Kristy's Great Idea@Ann M. Martin
 The Moment@Douglas Kennedy
 Caps for sale: a tale of a peddler, some monkeys and their monkey business@Esphyr Slobodkina
 The Heights@Peter Hedges
-Page@Tamora Pierce
 The Wrecking Crew: How Conservatives Rule@Thomas Frank
-Son of the Morning@Linda Howard
-Emperor of Thorns@Mark  Lawrence
-I Can Read with My Eyes Shut!@Dr. Seuss
 The Clearing@Tim Gautreaux
 No Surrender: My Thirty-Year War (Bluejacket Books)@Hiroo Onoda
-Tales from Earthsea@Ursula K. Le Guin
-The Diamond Throne@David Eddings
-The Silent Stars Go By@Dan Abnett
-Peace Is Every Step: The Path of Mindfulness in Everyday Life@Thich Nhat Hanh
-Stand-Off@Andrew  Smith
 കാലം@M.T. Vasudevan Nair
 Susikuningatar@Magdalena Hai
 Sadako and the Thousand Paper Cranes@Eleanor Coerr
-The Secret Wisdom of the Earth@Christopher Scotton
-The Midnight Fox@Betsy Byars
 The Colony: The Harrowing True Story of the Exiles of Molokai@John Tayman
 The Threat@Katherine Applegate
 Marathi@रणजित देसाई
-The Medicine Burns: And Other Stories (High Risk)@Adam Klein
 The Collectors@Philip Pullman
 عصر الحب@Naguib Mahfouz
-The Mephisto Club@Tess Gerritsen
 The Monkey's Paw@Diane Mowat
 1414311354@Joel C. Rosenberg
 Cakes and Ale or, The Skeleton in the Cupboard@W. Somerset Maugham
 Truck Stop - A Psycho Thriller@Jack Kilborn
-The Buccaneers@Edith Wharton
-The Irish Game: A True Story of Crime and Art@Matthew  Hart
-Il berretto a sonagli@Luigi Pirandello
-The Future of Love: A Novel@Shirley Abbott
 Twelve Steps and Twelve Traditions@Alcoholics Anonymous
 1632150786@Brian K. Vaughan
 Det heliga landet@Pär Lagerkvist
 0805097961@Heather Demetrios
-Pale Blue Dot: A Vision of the Human Future in Space@Carl Sagan
 Stories I Stole@Wendell Steavenson
 Appleseed: The Promethean Challenge@Masamune Shirow
 The Englor Affair@J.L. Langley
 Persephone Returns: Victims, Heroes and the Journey from the Underworld@Tanya Wilkinson
-Broken Prey@John Sandford
-Preacher: Salvation@Garth Ennis
 White Lightning@Justin Cartwright
-Dead Man's Walk@Larry McMurtry
 1439173338@Jenny Nelson
 Henri Nouwen: A Restless Seeking for God@Jurjen Beumer
 The Fall of Reach@Eric S. Nylund
@@ -7260,7 +6517,6 @@ V. Shantaram the Legacy of the Royal Lotus (RUPA CHARITAVALI SERIES)@KIRAN SHANT
 The Mozart Season@Virginia Euwer Wolff
 1620404966@Jeffrey Lent
 La Chute@Albert Camus
-A God in Ruins@Kate Atkinson
 Liberty and Tyranny: A Conservative Manifesto@Mark R. Levin
 Hellgate: London: Exodus : Hellgate: London@Mel Odom
 The Homecoming@Harold Pinter
@@ -7568,7 +6824,6 @@ What's Hot: Sparks Are Flying@Caitlyn Davis
 The Fellowship of the Ring@J.R.R. Tolkien
 Morning Star@Pierce Brown
 March Violets@Philip Kerr
-The Immortals@Tamora Pierce
 Bookends@Jane Green
 The Scourge of Muirwood@Jeff Wheeler
 0805003118@Gerald McDermott
@@ -8090,7 +7345,6 @@ Mossflower@Brian Jacques
 Nesnesitelná lehkost bytí@Milan Kundera
 Vampire: The Richard Chase Murders@Kevin M. Sullivan
 The Final Programme@Michael Moorcock
-A Brief History of Seven Killings@Marlon James
 Ordinary Men: Reserve Police Battalion 101 and the Final Solution in Poland@Christopher R. Browning
 0393081591@Elizabeth   Green
 Seeds of Yesterday@V.C. Andrews
@@ -8099,7 +7353,6 @@ A Matter of Honor@Jeffrey Archer
 159463100X@Robert H. Lustig
 Geschichten vom Herrn Keuner@Bertolt Brecht
 The Age of Wonder: How the Romantic Generation Discovered the Beauty and Terror of Science@Richard Holmes
-The Worst Witch@Jill Murphy
 Paula Spencer@Roddy Doyle
 8501053260@Carlos Marchi
 Heaven@Randy Alcorn
@@ -8505,12 +7758,10 @@ Of Noble Birth@Brenda Novak
 The Faraway Nearby@Rebecca Solnit
 Seven Sisters at Queen Anne’s (Queen Anne's, #1)@Evelyn Smith
 The Other Wind@Ursula K. Le Guin
-The Golden Notebook@Doris Lessing
 The Command of the Ocean: A Naval History of Britain, 1649-1815@N.A.M. Rodger
 Affirmations@Stuart Wilde
 B011UNEZN8@Joe Hart
 Алые паруса@Alexander Grin
-The Anthologist@Nicholson Baker
 Двенадцать стульев@Ilya Ilf
 The Complaints@Ian Rankin
 Live and Let Die@Ian Fleming
@@ -8646,7 +7897,6 @@ B00ASSZ9G4@Meshelle Goines
 Betsy Was a Junior (Betsy-Tacy)@Maud Hart Lovelace
 Heart no Kuni no Alice@QuinRose
 The Adventures of Paddington@Michael Bond
-Protector of the Small@Tamora Pierce
 Extension du domaine de la lutte@Michel Houellebecq
 The Bride Collector@Ted Dekker
 Contos de Aprendiz@Carlos Drummond de Andrade
@@ -8750,7 +8000,6 @@ Language for a New Century: Contemporary Poetry from the Middle East, Asia, and 
 The Last Coyote@Michael Connelly
 Revolution 2020: Love, Corruption, Ambition@Chetan Bhagat
 A Man Named Dave: A Story of Triumph and Forgiveness@Dave Pelzer
-Nothing Lasts Forever / Tell Me Your Dreams@Sidney Sheldon
 Disappointment with God@Philip Yancey
 Pandora's Star@Peter F. Hamilton
 Jejak Langkah@Pramoedya Ananta Toer
@@ -9087,7 +8336,6 @@ Pastel@Georgette Heyer
 What the Victorians Did for Us@Adam Hart-Davis
 A Paixão segundo G. H.@Clarice Lispector
 English@Francis Otieno
-A Rose for Emily@William Faulkner
 English@J.R. Rain
 Ghost Stories of an Antiquary@M.R. James
 Shadow Woman@Linda Howard
@@ -9263,7 +8511,6 @@ The Fire Next Time@James     Baldwin
 Great House@Nicole Krauss
 Albion's Seed: Four British Folkways in America@David Hackett Fischer
 1484070925@Barbara
-Mattimeo@Brian Jacques
 English@Lola Beverly Hills
 Spirit Lake@MacKinlay Kantor
 The Orientalist: Solving the Mystery of a Strange and Dangerous Life@Tom Reiss
@@ -9715,7 +8962,6 @@ What Makes Sammy Run?@Budd Schulberg
 The Oxford Companion to Shakespeare@Michael Dobson
 0450021548@Dorothy L. Sayers
 Book of Clouds@Chloe Aridjis
-Redwall@Brian Jacques
 China Road: A Journey into the Future of a Rising Power@Rob Gifford
 L’écume des jours@Boris Vian
 Beyond the Green Zone: Dispatches from an Unembedded Journalist in Occupied Iraq@Dahr Jamail
@@ -10021,7 +9267,6 @@ The Betsy-Tacy Treasury@Maud Hart Lovelace
 The Day the World Came to Town: 9/11 in Gander, Newfoundland@Jim DeFede
 Wide Sargasso Sea@Jean Rhys
 Not With a Bang But a Whimper: The Politics and Culture of Decline@Theodore Dalrymple
-Airframe@Michael Crichton
 The Interrogative Mood@Padgett Powell
 Litany of the Long Sun (Book of the Long Sun, Books 1 and 2)@Gene Wolfe
 Issola (Vlad Taltos, #9)@Steven Brust
@@ -10469,7 +9714,6 @@ Been Searching for You@Nicole Evelina
 You@Caroline Kepnes
 The Women on the Porch@Caroline Gordon
 The Bazaar of Bad Dreams@Stephen King
-The Seeress of Kell@David Eddings
 A Darkling Plain@Philip Reeve
 You're All Alone@Fritz Leiber
 Нефритовые четки@Boris Akunin
@@ -10529,7 +9773,6 @@ L'Automne à Pékin@Boris Vian
 Loamhedge@Brian Jacques
 Jackson Rule@Dinah McCall
 The Distant Echo@Val McDermid
-Orlando: A Biography@Virginia Woolf
 Infected@Scott Sigler
 Six Months to Live@Lurlene McDaniel
 A Short History of Tractors in Ukrainian@Marina Lewycka
@@ -10676,7 +9919,6 @@ Crashed@Robin Wasserman
 The Inimitable Jeeves@P.G. Wodehouse
 A Writer at War: Vasily Grossman with the Red Army@Vasily Grossman
 The Complete Stories@Flannery O'Connor
-@Dan Abnett
 Art and Anarchy@Edgar Wind
 A Thousand Naked Strangers: A Paramedic’s Wild Ride to the Edge and Back@Kevin Hazzard
 The Kissing Hand@Audrey Penn
@@ -10695,7 +9937,6 @@ Das Augenspiel: Lebensgeschichte 1931-1937@Elias Canetti
 The Sunlit Night@Rebecca Dinerstein
 Tropic of Capricorn@Henry Miller
 The Idea of Perfection@Kate Grenville
-King of the Murgos@David Eddings
 Zen Shorts@Jon J. Muth
 The Bloody Chamber & Other Stories@Angela Carter
 0756404339@Katharine Kerr
@@ -10970,7 +10211,6 @@ B004YXEUP0@W.J. Cherf
 Crazy@Benjamin Lebert
 The Three Miss Margarets@Louise Shaffer
 Trotsky in Exilr@Peter Weiss
-@Dan Abnett
 The Aunt's Story@Patrick White
 J'ai serre la main du diable@Roméo Dallaire
 Warrior Statesman: The Life of Moshe Dayan@Robert Slater
@@ -11012,7 +10252,6 @@ Midnight for Charlie Bone@Jenny Nimmo
 Greek Gods and Heroes@Robert Graves
 The Beautiful Struggle: A Father, Two Sons, and an Unlikely Road to Manhood@Ta-Nehisi Coates
 1780484259@George R.R. Martin
-@Dan Abnett
 The Mask of Dimitrios@Eric Ambler
 Guernica@Dave Boling
 Gentle Rogue@Johanna Lindsey
@@ -12201,7 +11440,6 @@ Mariette in Ecstasy@Ron Hansen
 Fell@David Clement-Davies
 Children of the Lens@E.E. "Doc" Smith
 Gorgeous@Rachel Vail
-The Screaming Mimi@Fredric Brown
 The Miniaturist@Jessie Burton
 Little Town in the Ozarks (Little House)@Roger Lea MacBride
 Inés del alma mía@Isabel Allende
@@ -12655,7 +11893,6 @@ Chelsea Girls@Eileen Myles
 Little Black Book of Stories@A.S. Byatt
 Breakfast with Scot@Michael Downing
 Cuentos Chinos@Andrés Oppenheimer
-The Berlin Stories: Mr Norris Changes Trains / Goodbye to Berlin@Christopher Isherwood
 Thanks for the Memories@Cecelia Ahern
 0671026682@Clive Cussler
 185549664X@J.K. Rowling
@@ -12732,7 +11969,6 @@ The Last Word@Hanif Kureishi
 The Golden Barbarian@Iris Johansen
 Whisper To The Blood@Dana Stabenow
 Grapefruit: A Book of Instructions and Drawings by Yoko Ono@Yoko Ono
-Prince of Thorns@Mark  Lawrence
 My Traitor's Heart: A South African Exile Returns to Face His Country, His Tribe, and His Conscience@Rian Malan
 0300145772@Robert B. Pippin
 Little House in Brookfield (Little House)@Maria D. Wilkes
@@ -12769,7 +12005,6 @@ La muchacha de las bragas de oro@Juan Marsé
 The Demon Trapper's Daughter@Jana Oliver
 A Bird in the House@Margaret Laurence
 Infinite Possibilities@Robert A. Heinlein
-Die Wand@Marlen Haushofer
 The Place You Love Is Gone: Progress Hits Home@Melissa Holbrook Pierson
 Amadeus@Peter Shaffer
 Swimsuit@James Patterson
@@ -13061,7 +12296,6 @@ The Nutmeg Tree@Margery Sharp
 The Improbable Swervings of Atoms (Pitt Poetry Series)@Christopher Bursk
 Away@Jane Urquhart
 Visits from the Drowned Girl@Steven Sherrill
-Rum Punch@Elmore Leonard
 Save the Date@Tamara Summers
 A Lost Lady@Willa Cather
 Gardenias@Faith  Sullivan
@@ -13102,7 +12336,6 @@ The First Man-Made Man: The Story of Two Sex Changes, One Love Affair, and a Twe
 Interview with the Vampire@Anne Rice
 0316302570@Nancy     Rose
 Drachenreiter@Cornelia Funke
-Emperor of Thorns@Mark  Lawrence
 The Last Letters of Thomas More@Thomas More
 The Undertaking@Audrey Magee
 Deception@Philip Roth
@@ -13226,7 +12459,6 @@ Blind Lake@Robert Charles Wilson
 Mandala Symbolism@C.G. Jung
 Skogland@Kirsten Boie
 Old Shirts & New Skins@Sherman Alexie
-Modern Times@Paul  Johnson
 The Claw of the Conciliator@Gene Wolfe
 The Ruins@Scott B. Smith
 The Secret of Platform 13@Eva Ibbotson
@@ -13303,7 +12535,6 @@ Shards of a Broken Crown (The Serpentwar Saga, #4)@Raymond E. Feist
 0061284475@Claudia Gray
 The Tiger in the Well@Philip Pullman
 For a Few Demons More@Kim Harrison
-The Sword of the Lictor@Gene Wolfe
 Pretty Birds@Scott Simon
 Love in the Ruins@Walker Percy
 B003DX0HX6@D.D. Barant
@@ -13558,7 +12789,6 @@ In One Person@John Irving
 Good-Bye, Mr. Chips@James Hilton
 The Financial Lives of the Poets@Jess Walter
 The Little Mouse, the Red Ripe Strawberry, and the Big Hungry Bear@Don    Wood
-Marvels: Eye of the camera@Kurt Busiek
 Claudine à Paris@Colette
 A Cook's Tour: Global Adventures in Extreme Cuisines@Anthony Bourdain
 The Very Thought of You@Lynn Kurland
@@ -13654,7 +12884,6 @@ English@Angie Stanton
 La Retraite Sentimentale@Colette
 Charlie Cook's Favourite Book@Julia Donaldson
 Чернобыльская молитва: Хроника будущего@Svetlana Alexievich
-Modern Romance@Aziz Ansari
 Cutting Through Spiritual Materialism@Chögyam Trungpa
 Big Little Lies@Liane Moriarty
 Mitsou and Music-Hall Sidelights@Colette
@@ -13663,211 +12892,124 @@ Mistress@Amanda Quick
 Thicker Than Water (Felix Castor, #4)@Mike Carey
 The Fifth of March: A Story of the Boston Massacre@Ann Rinaldi
 B00G3L6N1A@John W. Dean
-Equal Rites@Terry Pratchett
-Penpal@Dathan Auerbach
 Ladies' Man@Richard Price
 1455517135@Jeffery Deaver
 Appaloosa Rising: Or, the Legend of the Cowboy Buddha@Gino Sky
 The Hamilton Case: A Novel@Michelle de Kretser
 He Is There and He Is Not Silent@Francis A. Schaeffer
-The Dervish House@Ian McDonald
 Beyond the Blue Event Horizon@Frederik Pohl
 The Garden of Evening Mists@Tan Twan Eng
-Seeker's Mask@P.C. Hodgell
-Sepulchre@Kate Mosse
-Babel-17@Samuel R. Delany
 Genesis@Bernard Beckett
-Among the Believers: An Islamic Journey@V.S. Naipaul
 Doctor Who: Prisoner Of The Daleks@Trevor Baxendale
-The World at Night@Alan Furst
 1439177805@Portia de Rossi
-Strega Nona@Tomie dePaola
 Inside Out@Maria V. Snyder
 Secrets of the Flesh: A Life of Colette@Judith Thurman
-Seer of Egypt@Pauline Gedge
-Winter Moon@Dean Koontz
 1414482515@Gale Cengage Learning
 Dark of the Moon@P.C. Hodgell
 The Shackled Warrior: Israel and the Global Jihad@Caroline Glick
-A Summons to Memphis@Peter Taylor
-The Murder of King Tut@James Patterson
-Tortuga: A Novel@Rudolfo Anaya
 Side Jobs: Stories From The Dresden Files@Jim Butcher
 Scandal@Amanda Quick
 The Lake House@James Patterson
 The Frozen Echo: Greenland and the Exploration of North America, ca. A.D. 1000-1500@Kirsten A. Seaver
-Eggs@Jerry Spinelli
 Mannen som log@Henning Mankell
 William Shakespeare's Star Wars: Verily, a New Hope@Ian Doescher
 Gorillas in the Mist@Dian Fossey
-Telegraph Avenue@Michael Chabon
 The Courage to Be@Paul Tillich
-Darkness Calls@Marjorie M. Liu
-La maison de Claudine@Colette
-Footnotes in Gaza@Joe Sacco
-Monday or Tuesday@Virginia Woolf
 1633@Eric Flint
-Suffer the Children@John Saul
 An Illustrated Life: Drawing Inspiration From The Private Sketchbooks Of Artists, Illustrators And Designers@Danny Gregory
-Touch the Devil@Jack Higgins
-Desires of the Dead@Kimberly Derting
-Billy Budd, Sailor@Herman Melville
-The Dante Club@Matthew Pearl
 Reckless@Amanda Quick
-Virals@Kathy Reichs
 Peter Freuchen's Famous Book of the Eskimos@Peter Freuchen
 To Heaven By Water@Justin Cartwright
 Night's Sorceries@Tanith Lee
-The Examined Life: How We Lose and Find Ourselves@Stephen Grosz
-Mystique@Amanda Quick
 Her Double Delight@Dixie Lynn Dwyer
 Paradis Terrestre@Colette
 Willa by Heart (Wedding Planner's Daughter, #3)@Coleen Murtagh Paratore
-The Hercules Text@Jack McDevitt
 The Tunnels@Michelle Gagnon
-Blueberries for Sal@Robert McCloskey
-True Colors@Kristin Hannah
 Αγρύπνια@Γιάννης Ρίτσος
 Arkadien brennt (Arkadien, #2)@Kai Meyer
-Wildest Hearts@Jayne Ann Krentz
 Adagia@Desiderius Erasmus
 Looking Backwards@Colette
 The Baltimore Plot: The First Conspiracy to Assassinate Abraham Lincoln@Michael J. Kline
-Grace at Bender Springs: A Novel@Vinita Hampton Wright
-Lush Life@Richard Price
 Great American Stories: Ten Unabridged Classics@Ambrose Bierce
-Mother's Milk@Edward St. Aubyn
-The Bat-Poet@Randall Jarrell
 B0047DWD2O@Clare London
-American Buffalo@David Mamet
 Our Former Lives in Art: Stories@Jennifer S. Davis
 The Proteus Operation@James P. Hogan
 1785420070@Tito Rajarshi Mukhopadhyay
 0453030114@Walt Disney Company
 B013CR77LM@Georgia Fox
-Mrs Craddock@W. Somerset Maugham
 Die Stadt der Träumenden Bücher@Walter Moers
-Kingdom of Shadows@Alan Furst
 Doctor Who: Master (Big Finish Audio Drama, #49)@Joseph Lidster
-Make Way for Ducklings@Robert McCloskey
-Evangelii Gaudium@Pope Francis
-The Autobiography of Bertrand Russell@Bertrand Russell
 The Missing@Tim Gautreaux
 Cosmic Bandidos@A.C. Weisbecker
 Cat Among the Pigeons (Cat Royal, #2)@Julia Golding
 Delusion's Master (Flat Earth, #3)@Tanith Lee
-Waddle!@Rufus Butler Seder
 Solo@Jack Higgins
-Thirteen Steps Down@Ruth Rendell
 The Complete Claudine: Claudine at School; Claudine in Paris; Claudine Married; Claudine and Annie@Colette
 Power and Profit: The Merchant in Medieval Europe@Peter Spufford
 Everyone Knows What a Dragon Looks Like@Jay Williams
-Putin's Russia@Anna Politkovskaya
 The Oasis@Pauline Gedge
-Happy Ever After@Nora Roberts
-The Cement Garden@Ian McEwan
 Dark Waters Of Hagwood (Hagwood, #2)@Robin Jarvis
-Dead Babies@Martin Amis
 Girl Genius Vol. 1: Agatha Heterodyne & the Beetleburg Clank@Phil Foglio
-Grand Passion@Jayne Ann Krentz
-Let It Snow: Three Holiday Romances@John Green
 Indian Tales@Jaime De Angulo
-Enemy Women@Paulette Jiles
 Delirium's mistress@Tanith Lee
 The Power Broker@Stephen W. Frey
 The Story of B: An Adventure of the Mind and Spirit@Daniel Quinn
 Katten laten pootafdrukken achter op je hart ; citaten voor een kattenliefhebber@Various
-Bad Signs@R.J. Ellory
 The Bone Conjurer@Alex Archer
-The Horus Road@Pauline Gedge
-The Summer I Turned Pretty@Jenny Han
 A Guidebook to Learning: For a Lifelong Pursuit of Wisdom@Mortimer J. Adler
 B00EV12PH0@Will Wight
 Kleinzeit@Russell Hoban
 The Lemon Tree: An Arab, a Jew, and the Heart of the Middle East@Sandy Tolan
 Earth@David Brin
-Sailing the Wine-Dark Sea: Why the Greeks Matter@Thomas Cahill
-Gift of Fire@Jayne Ann Krentz
 1771640766@Andrew Nikiforuk
-Ossi di seppia@Eugenio Montale
 Shadows in Flight@Orson Scott Card
 Blaze and the Indian Cave@C.W. Anderson
 0062290967@Bill Cheng
-Rebecca of Sunnybrook Farm@Kate Douglas Wiggin
 0007520638@Juliet Macur
 Telling the Truth: The Gospel as Tragedy, Comedy, and Fairy Tale@Frederick Buechner
-Hild@Nicola Griffith
-Obabakoak@Bernardo Atxaga
 Short Nights of the Shadow Catcher: The Epic Life and Immortal Photographs of Edward Curtis@Timothy Egan
 Gigi, Julie de Carneilhan, and Chance Acquaintances: Three Short Novels@Colette
-Thomas Hardy: The Time-Torn Man@Claire Tomalin
 Le Voyeur@Alain Robbe-Grillet
 Late Nights on Air@Elizabeth Hay
 Social Origins of Dictatorship and Democracy: Lord and Peasant in the Making of the Modern World@Barrington Moore Jr.
-The Steel Kiss@Jeffery Deaver
-Anne Frank Remembered@Miep Gies
 Railsea@China Miéville
 Mes apprentissages@Colette
-The Burning Shadow@Michelle Paver
 Beggars and Choosers@Nancy Kress
 The Second Ship@Richard   Phillips
 John Medicinewolf@Michael E. Moon
 The Lords of the North@Bernard Cornwell
 Poèmes suivi de Mirlitonnades@Samuel Beckett
 0374300402@Catherine Lloyd Burns
-Gift of Gold (Gift, #1)@Jayne Ann Krentz
-Night Film@Marisha Pessl
-King's Daughter@Barbara Kyle
 Adam Mickiewicz: The Life of a Romantic@Roman Koropeckyj
-Lives of the Monster Dogs@Kirsten Bakis
 Touching Indigo@R.J. Anderson
 Phenomenology and the Return to Beginnings@John Sallis
-The Confessor@Daniel Silva
 Ringen sluttet@Knut Hamsun
 Hammer@Sara Stockbridge
-Red Gold@Alan Furst
 Quicksilver@Amanda Quick
 The Making of the English Working Class@E.P. Thompson
 España frente al islam@César Vidal
 I Thought My Soul Would Rise and Fly: The Diary of Patsy, a Freed Girl@Joyce Hansen
 B00JJFEC06@Byron Goines
-The Alphabet of Grace@Frederick Buechner
 Imperial Ambitions: Conversations on the Post-9/11 World@Noam Chomsky
 Duo@Colette
 Footprints@Alex Archer
-Jane of Lantern Hill@L.M. Montgomery
 Resistance@C.J. Daugherty
 Survivor@Tabitha King
-The Sky Is Everywhere@Jandy Nelson
 Memoirs of a Spacewoman@Naomi Mitchison
 The Things We Cherished@Pam Jenoff
-The End of the Hunt@Thomas Flanagan
 PS238: With Liberty and Recess for All@Aaron Williams
 The Wapshot Chronicle@John Cheever
-The First Law Trilogy@Joe Abercrombie
 0873488784@Daniel Guérin
-Home of the Brave@Katherine Applegate
-The Most Dangerous Game@Richard Connell
 B0061SF6E0@Jo Beverley
 Now and Then: A Memoir of Vocation@Frederick Buechner
-A Thread of Grace@Mary Doria Russell
 The WAR AGAINST BOYS: How Misguided Feminism Is Harming Our Young Men@Christina Hoff Sommers
 1492229768@M.K. Alexander
-You Know Me Al@Ring Lardner
-In the Courts of the Sun@Brian D'Amato
 0525461523@Rika Lesser
-Tilt@Ellen Hopkins
 Voyage égoïste@Colette
-The Girl Who Circumnavigated Fairyland in a Ship of Her Own Making@Catherynne M. Valente
-The Lurking Fear@H.P. Lovecraft
 Walk on Water: The Miracle of Saving Children's Lives@Michael Ruhlman
-The Mismeasure of Man@Stephen Jay Gould
 The Minor Adjustment Beauty Salon@Alexander McCall Smith
-Caligula@Albert Camus
-Tales of the Otherworld@Kelley Armstrong
 1842324284@C.P. Snow
 B00X4JTOYM@Justin Bog
-Dirk Gently's Holistic Detective Agency@Douglas Adams
 B004V54NOY@Cyrus Keith
 The Poisonwood Bible@Barbara Kingsolver
 0199794960@James J. O'Brien
@@ -13875,20 +13017,15 @@ Mackenzie’s Mountain. Mackenzie’s Mission. Mackenzie’s Pleasure. A Game of
 The Opposite House: A Novel@Helen Oyeyemi
 Il Romanzo di Alessandro@Valerio Massimo Manfredi
 B006HA4WHO@Mackenzie McKade
-Two for the Dough@Janet Evanovich
-I've Got Your Number@Sophie Kinsella
 Interpretation of Cultures@Clifford Geertz
 1553651766@Greg A. Hill
-The Con Man@Ed McBain
 One of Our Thursdays is Missing@Jasper Fforde
-The Cay@Theodore Taylor
 Walter The Farting Dog: Banned From the Beach@William Kotzwinkle
 The Smithsonian Institution@Gore Vidal
 A Grey Moon over China@Thomas A. Day
 The Club Of Queer Trades@G.K. Chesterton
 The Outlander@Gil Adamson
 The Magnificent Defeat@Frederick Buechner
-At the Sign of the Sugared Plum@Mary Hooper
 La pensée sauvage@Claude Lévi-Strauss
 The Never-Ending Days of Being Dead: Dispatches from the Front Line of Science@Marcus Chown
 The Mass Strike@Rosa Luxemburg
@@ -13896,105 +13033,65 @@ Seeker's Curse@Alex Archer
 Operation Narva@Harry Winter
 Robert E. Lee (Penguin Lives)@Roy Blount Jr.
 The Giver@Lois Lowry
-Bringing Down the House: The Inside Story of Six M.I.T. Students Who Took Vegas for Millions@Ben Mezrich
-Smith of Wootton Major@J.R.R. Tolkien
 B00JJBF2ZE@Byron Goines
 Le Fanal bleu@Colette
-Coming Apart: The State of White America, 1960-2010@Charles Murray
-Entering Fire@Rikki Ducornet
 Beautiful Malice@Rebecca  James
-The Portable Beat Reader@Ann Charters
 1243954353@Hephaestus Books
 The Free Man (Pennsylvania Paperbacks)@Conrad Richter
 Something Fierce: Memoirs of a Revolutionary Daughter@Carmen Aguirre
 The Eyes of the Heart: A Memoir of the Lost and Found@Frederick Buechner
 Kokopelli’s Thunder@Sean M. Cordry
-The Bum's Rush@G.M. Ford
 The Well's End@Seth Fishman
-Punktown@Jeffrey Thomas
 B00DTHL0C8@Jo Beverley
-Missing Joseph@Elizabeth  George
-The Quickie@James Patterson
 Aléxandros: il confine del mondo@Valerio Massimo Manfredi
-Where Things Come Back@John Corey Whaley
 Border Lord@Arnette Lamb
 The Blight of Muirwood@Jeff Wheeler
-Rabble in Arms@Kenneth Roberts
 Far from the Tree: Parents, Children, and the Search for Identity@Andrew Solomon
-Blood and Smoke@Stephen King
 De Koning@Kader Abdolah
 Historia universal de la infamia@Jorge Luis Borges
-A Shocking Delight@Jo Beverley
 Drummer Boy for Montcalm@Wilma Pitchford Hays
 Big Brother@Lionel Shriver
 Le képi@Colette
 B006AQYAA4@Mainak Dhar
-Music for Torching@A.M. Homes
 A Wild Light (Hunter Kiss, #3)@Marjorie M. Liu
 Die Verfolgung und Ermordung Jean Paul Marats dargestellt durch die Schauspielgruppe des Hospizes zu Charenton unter Anleitung des Herrn de Sade@Peter Weiss
-Songs of Willow Frost@Jamie Ford
 The Sandman: Dream Country@Neil Gaiman
 0545334748@Elizabeth Eulberg
-Zero Option@Chris Ryan
 Night Draws Near: Iraq's People in the Shadow of America's War@Anthony Shadid
-Montana Sky@Nora Roberts
-Hannibal's Children@John Maddox Roberts
 Somebody Owes Me Money@Donald E. Westlake
 0756682576@Elizabeth Dowsett
 Inside Edge: A Revealing Journey into the Secret World of Figure Skating@Christine Brennan
 1400149886@Michelle Moran
 Fiddlesticks and Freckles (Living Forest, Volume 9)@Sam Campbell
 Candy Licker: An Urban Erotic Tale@Noire
-Dark Star@Alan Furst
 Dying Bites: The Bloodhound Files@D.D. Barant
 Goldsworthy Trilogy: (Gospel and Kingdom, Gospel and Wisdom, Gospel and Revelation)@Graeme Goldsworthy
 Color: A Natural History of the Palette@Victoria Finlay
 Jumping Jenny (Black Dagger Crimes)@Anthony Berkeley
-Gaven@J.C. Owens
 The Melendy Family (omnibus)@Elizabeth Enright
 Drinking Closer to Home@Jessica Anya Blau
 A Natural History of Trees: of Eastern and Central North America@Donald Culross Peattie
 Voice of the Gods@Trudi Canavan
-Young Lonigan@James T. Farrell
-The Space Between Us@Thrity Umrigar
-Crisis Four@Andy McNab
-Heart of the Matter@Emily Giffin
-Pressure Drop@Peter Abrahams
 The Salmon of Doubt: Hitchhiking the Galaxy One Last Time@Douglas Adams
-Ring of Swords@Eleanor Arnason
 Afterlife@Claudia Gray
 Claudine en ménage@Colette
 In the Bleak Midwinter (A Rev. Clare Fergusson and  Russ Van Alstyne Mystery)@Julia Spencer-Fleming
 Ruthless Trust: The Ragamuffin's Path to God@Brennan Manning
-The Zombie Survival Guide: Complete Protection from the Living Dead@Max Brooks
-Room at the Top@John Braine
 The Better Part of Darkness@Kelly Gay
 Le Roi se meurt@Eugène Ionesco
-Satin Island@Tom McCarthy
-The Tamarack Tree@Patricia Clapp
 0062279939@Mary Hogan
-Carnal Innocence@Nora Roberts
 1559363827@David Mamet
-Coercion: Why We Listen to What "They" Say@Douglas Rushkoff
 The Secret Under My Skin@Janet McNaughton
 The Sandman: Preludes & Nocturnes@Neil Gaiman
 Blood Colony: A Novel@Tananarive Due
 Le pendu de Saint-Pholien@Georges Simenon
 Nowhere But Here@Katie McGarry
-Feersum Endjinn@Iain M. Banks
-Sent@Margaret Peterson Haddix
 Der Mensch erscheint im Holozän@Max Frisch
 The Road Home@Rose Tremain
 Revolution in Science@I. Bernard Cohen
-Cancer Vixen@Marisa Acocella Marchetto
 Gribiche@Colette
-Forces of Habit: Drugs and the Making of the Modern World@David T. Courtwright
 Мастер и Маргарита@Mikhail Bulgakov
 Grafarþögn@Arnaldur Indriðason
 12 Stories of Suspense and The Supernatural@Davis Grubb
-Cheat the Grave@Vicki Pettersson
-The Meaning and Mode of Baptism@Jay E. Adams
-Slated@Teri Terry
-Hidden Riches@Nora Roberts
 The Last Olympian@Rick Riordan
 Stand By, Stand by@Chris Ryan

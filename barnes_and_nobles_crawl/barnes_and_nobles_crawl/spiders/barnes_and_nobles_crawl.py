@@ -8,6 +8,7 @@ import csv, sys
 import scrapy
 import threading
 
+import sys
 
 #from barnes_and_nobles_crawl.items import BarnesAndNoblesCrawlItem
 
@@ -23,15 +24,20 @@ class BarnesAndNoblesCrawler(Spider) :
                 7:"July", 8:"August", 9:"September", 10:"October", 11:"November", 12:"December"}
     #variable to keep track of how many book information we've successfully scraped.
     tuple_count = 0
-    
+    filename = ""
+    def __init__ (self, domain=None, filename=""):
+        self.filename = filename
+
     def parse(self, response):
-        file = open("booknames.txt", "r")
+        file = open(self.filename, "r")
+        print "Scrapying books from list ", self.filename
         line = file.readline()
         #Read all the book names and fetch the same books from barnes and nobles (half match and half non matches)
         while line != "" and self.tuple_count < 7000:
             try:
                 # File format is 'bookname@authornames' in each line
-                bookname,author = line.split('@')
+                k = line.rfind("@")
+                bookname,author = line[:k], line[k+1:]
                 line = file.readline()
                 request = scrapy.Request(self.site_url+ "/s/" + bookname+"/_/N-8q8", callback=self.parse_booklink)
                 #pass the bookname and author to search and match from barnes and nobles
@@ -39,7 +45,8 @@ class BarnesAndNoblesCrawler(Spider) :
                 request.meta['author'] = author
                 yield request
             except Exception as e:
-                 print "$$$$$$$$$$ Exception:",e
+                 print "============================================== Exception:",e
+                 line = file.readline()
 
     def parse_booklink(self, response):
         bookname = response.meta['bookname'].strip()
@@ -64,7 +71,7 @@ class BarnesAndNoblesCrawler(Spider) :
                     yield request
                     break
             except Exception as e:
-                 print "$$$$$$$$$$ Exception:",e
+                 print "============================================== Exception:",e
 
     #parse the actual book's page for information such as author name, publisher, published date etc.        
     def parse_bookinfo(self, response):
@@ -74,6 +81,7 @@ class BarnesAndNoblesCrawler(Spider) :
 
         #Verify if the book name is same or not.
         #item is the tuyple that is populated from this list
+        empty = {}
         itm = {}
         
         #if exception is hit in parsing any of the below information, then don't include this tuple in the result
@@ -84,15 +92,15 @@ class BarnesAndNoblesCrawler(Spider) :
             ext_bookname = selector.xpath('//*[@id="prodSummary"]/h1/text()').extract_first()
             itm['Original_Title'] = ext_bookname
         except Exception as e:
-            print "$$$$$$$$$$ Exception:",e
-            return
+            print "============================================== Exception:",e
+            yield empty
 
         try:
             ext_author = selector.xpath('//*[@id="prodSummary"]/span/a/text()').extract_first();
             itm['Author'] = ext_author
         except Exception as e:
-            print "$$$$$$$$$$ Exception:",e
-            return
+            print "============================================== Exception:",e
+            yield empty
 
       
         #product details are listed in the below format
@@ -111,32 +119,32 @@ class BarnesAndNoblesCrawler(Spider) :
             try:
                 value = selector.xpath('//*[@id="additionalProductInfo"]/dl/dd[' + str(i + 1) + ']//text()').extract()
                 value = "".join(value).strip()
-                print value
+                #print value
                 prod_detail_value.append(value)
             except Exception as e:
-                print "$$$$$$$$$$ Exception:",e
-                return
-    
+                print "============================================== Exception:",e
+                yield empty
+
         for i in range(0, len(prod_detail_name)):
             try:
                 print prod_detail_name[i],":", prod_detail_value[i]
                 if prod_detail_name[i] == "ISBN-13:":
                     itm['ISBN-13'] = prod_detail_value[i]
-                    
+
                 if prod_detail_name[i] == "Pages:":
                     itm['Pages'] = prod_detail_value[i]
-                    
+
                 if prod_detail_name[i] == "Publisher:":
                     itm['Publisher'] = prod_detail_value[i]
-                    
+
                 if prod_detail_name[i] == "Publication date:":
                     month, day, year = prod_detail_value[i].split('/')
                     print "Date : ", self.date_map[int(month)], self.daymap(int(day)), year
                     itm['Publication date'] = prod_detail_value[i]        
             except Exception as e:
-                print "$$$$$$$$$$ Exception:",e
-                return
-    
+                print "============================================== Exception:", e
+                yield empty
+
         #As fetching pages are done within threads, use locks for the shared tuple_count variable
         lock = threading.Lock()
         with lock:
@@ -159,7 +167,7 @@ class BarnesAndNoblesCrawler(Spider) :
             
             return str(day) + "th"
         except Exception as e:
-            print "$$$$$$$$$$ Exception:",e
+            print "============================================== Exception:",e
             return "NULL"
 
     # read 14000 books from good reads. Read 50% of books from 21st centruy best sellers and
