@@ -32,14 +32,20 @@ class BarnesAndNoblesCrawler(Spider) :
         file = open(self.filename, "r")
         print "Scrapying books from list ", self.filename
         line = file.readline()
+        booklist = []
+        while line != "":
+            booklist.append(line)
+            line = file.readline()
         #Read all the book names and fetch the same books from barnes and nobles (half match and half non matches)
-        while line != "" and self.tuple_count < 7000:
+        #for i in range(len(booklist) -1, 0, -1):
+        for i in range(0, len(booklist)):
             try:
+                line = booklist[i]
                 # File format is 'bookname@authornames' in each line
                 k = line.rfind("@")
                 bookname,author = line[:k], line[k+1:]
                 line = file.readline()
-                request = scrapy.Request(self.site_url+ "/s/" + bookname+"/_/N-8q8", callback=self.parse_booklink)
+                request = scrapy.Request(self.site_url+ "/s/" + bookname+"/_/N-8q8", callback=self.parse_booklink, dont_filter=True)
                 #pass the bookname and author to search and match from barnes and nobles
                 request.meta['bookname'] = bookname
                 request.meta['author'] = author
@@ -65,7 +71,7 @@ class BarnesAndNoblesCrawler(Spider) :
         for i in range(0, len(authorlist)):
             try:
                 if authorlist[i] == author:     
-                    request = scrapy.Request(self.site_url + urllist[i], callback=self.parse_bookinfo)
+                    request = scrapy.Request(self.site_url + urllist[i], callback=self.parse_bookinfo, dont_filter=True)
                     request.meta['bookname'] = bookname
                     request.meta['author'] = author
                     yield request
