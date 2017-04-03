@@ -13,7 +13,7 @@ We collected book details from <a href="http://www.goodreads.com">Goodreads</a> 
 <li> <a href="https://github.com/pradeep0605/CS838-Data-Science/tree/master/Phase3/data"> Data Directory</a> </li>
 <li> <a href="https://github.com/pradeep0605/CS838-Data-Science/tree/master/Phase3/code"> Code Directory</a> </li>
 <li> <a href="https://github.com/pradeep0605/CS838-Data-Science/blob/master/Phase3/DS_project_stage3.pdf"> Report</a> </li>
-<li> <a href="https://github.com/pradeep0605/CS838-Data-Science/blob/master/Phase3/code/EM_Phase3.ipynb"> Jupyter Notebook</a> </li>
+<li> <a href="https://github.com/pradeep0605/CS838-Data-Science/blob/master/Phase3/code/EntityMatching.ipynb"> Jupyter Notebook</a> </li>
 </ul>
 
 <h1> Project Stage 2 -- Information Extraction</h1>
