@@ -25,6 +25,9 @@ def daymap(day):
 with open(sys.argv[2], "w") as file:
 	csv_file = csv.writer(file)
 	book_dict = {}
+	csv_file.writerow(["Original_Title","Author","ISBN13","Publisher","Published_Date"])
+	csv_file.writerow(["pradeepanna","sharathanna","sowrabha","oaktreeapartments","2017"])
+	
 	for item in data:
 		try:
 			if item['ISBN-13'].encode(encoding="utf-8") in book_dict:
@@ -34,9 +37,11 @@ with open(sys.argv[2], "w") as file:
 				month, date, year = item['Publication date'].encode(encoding="utf-8").split('/')
 				month = date_map[int(month)]
 				date = daymap(int(date))
-				published_date = month + " " + date + ", " + year
+				#published_date = month + " " + date + ", " + year
+				published_date = str(year).strip()
 				book_dict[item['ISBN-13'].encode(encoding="utf-8")] = 1
-				csv_file.writerow([item['Original_Title'].encode(encoding="utf-8"), item['Author'].encode(encoding="utf-8"), item['ISBN-13'].encode(encoding="utf-8"),
+				csv_file.writerow([item['Original_Title'].encode(encoding="utf-8"), item['Author'].encode(encoding="utf-8"),
+				str(item['ISBN-13'].encode(encoding="utf-8")),
 				item['Publisher'].encode(encoding="utf-8"), published_date])
 		except Exception as e:
 			print "!!!!!!!!!!!!!! Exception ", e
