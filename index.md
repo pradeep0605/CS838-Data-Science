@@ -4,7 +4,7 @@
 <h5> Sowrabha Horatti Gopal  |   Sharath Prabhudeva Hiremath   |   Pradeep Kashyap Ramaswamy </h5>
 </center>
 
-<!--<h1> Project Stage 3 -- Entity Matching</h1>
+<h1> Project Stage 3 -- Entity Matching</h1>
 In this project stage, we are performing entity matching on the two datasets containing book details that we collected in Stage 1.
 We collected book details from <a href="http://www.goodreads.com">Goodreads</a> and <a href="http://www.barnesandnoble.com/">Barnes & Noble</a>.
 
@@ -13,8 +13,8 @@ We collected book details from <a href="http://www.goodreads.com">Goodreads</a> 
 <li> <a href="https://github.com/pradeep0605/CS838-Data-Science/tree/master/Phase3/data"> Data Directory</a> </li>
 <li> <a href="https://github.com/pradeep0605/CS838-Data-Science/tree/master/Phase3/code"> Code Directory</a> </li>
 <li> <a href="https://github.com/pradeep0605/CS838-Data-Science/blob/master/Phase3/DS_project_stage3.pdf"> Report</a> </li>
-<li> <a href="https://github.com/pradeep0605/CS838-Data-Science/blob/master/Phase3/code/EM_Phase3.ipynb"> Jupyter Notebook</a> </li>
-</ul>-->
+<li> <a href="https://github.com/pradeep0605/CS838-Data-Science/blob/master/Phase3/code/EntityMatching.ipynb"> Jupyter Notebook</a> </li>
+</ul>
 
 <h1> Project Stage 2 -- Information Extraction</h1>
 In this stage of the project, we are extracting <b>book names</b> from the review comments from <a href="http://www.goodreads.com">goodreads</a>. It is quite interesting and challenging as many of the book names are similar to person names (e.g, Dan Brown, Harry Potter etc) and the probability of false positives and false negatives can increase if we don't choose our features wisely. Details of this stage are provided in the report.

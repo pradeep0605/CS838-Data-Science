@@ -7,5 +7,5 @@ ISBN13			:	Contains the unique ISBN-13 code of the book
 Publication		:	Specifies the name of the publisher
 Published_date	:	Contains the date of publication
 
-Number of tuples in goodreads.csv - 
-Number of tuples in barnes_and_noble.csv - 
+Number of tuples in goodreads.csv - 4907
+Number of tuples in barnes_and_noble.csv - 3000

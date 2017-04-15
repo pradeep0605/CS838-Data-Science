@@ -1,4 +1,5 @@
 _id,ltable_ISBN13,rtable_ISBN13,ltable_Original_Title,ltable_Author,ltable_Publisher,ltable_Published_Date,rtable_Original_Title,rtable_Author,rtable_Publisher,rtable_Published_Date,label
+1,Test_ISBN13,Test_ISBN13,Test_tile,Test_Author,Test_Publisher,Test_Published_Date,Test_tile,Test_Author,Test_Publisher,Test_Published_Date,1
 13,9780006486015,9780553582444,Fool's Errand,Robin Hobb, Voyager,2002,Fool's Errand (Tawny Man Series #1),Robin Hobb,Random House Publishing Group,2002,1
 18,9780007149827,9780007149834,The Yiddish Policemen's Union,Michael Chabon, HarperCollins,2007,The Yiddish Policemen's Union,Michael Chabon,HarperCollins Publishers,2008,1
 24,9780007165162,9780446355452,Are You Afraid of the Dark?,Sidney Sheldon, HarperCollins Publishers,2005,Master of the Game,Sidney Sheldon,Grand Central Publishing,1988,0
