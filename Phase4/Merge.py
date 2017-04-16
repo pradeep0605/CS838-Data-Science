@@ -1,5 +1,3 @@
-# TODO(all) : Write code to merge tables
-
 import json
 import csv, sys
 
@@ -71,6 +69,8 @@ print ban_count
 with open('merged_table.csv', "wb") as file, open('all_matched.csv', "wb") as file_all:
 	csv_file = csv.writer(file)
 	csv_file_all = csv.writer(file_all)
+	
+	csv_file.writerow(["ID","Title","Author","ISBN13","Publication","Published_Date","Ratings","Genres","Reviews","Average_Rating","Language"])
 
 	matched_count = 0
 	for row in matches:
