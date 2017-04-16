@@ -68,8 +68,9 @@ for key in ban_dict:
 print ban_count
 '''
 
-with open('merged.csv', "wb") as file:
+with open('merged_table.csv', "wb") as file, open('all_matched.csv', "wb") as file_all:
 	csv_file = csv.writer(file)
+	csv_file_all = csv.writer(file_all)
 
 	matched_count = 0
 	for row in matches:
@@ -132,7 +133,10 @@ with open('merged.csv', "wb") as file:
 					genre += ", "
 				i += 1
 			
-			#csv_file.writerow([matched_count, row[1], str(gr_item['Original_Title'].encode(encoding="utf-8")), str(gr_item['Author'].encode(encoding="utf-8")), str(gr_item['Publication'].encode(encoding="utf-8")), row[2], str(ban_item[0]), str(ban_item[1]), str(ban_item[3]), str(ban_item[4])])
+			# Write to the file which contains all matched tuples from source tables
+			csv_file_all.writerow([matched_count, row[1], str(gr_item['Original_Title'].encode(encoding="utf-8")), str(gr_item['Author'].encode(encoding="utf-8")), str(gr_item['Publication'].encode(encoding="utf-8")), str(gr_item['Published_Date']), row[2], str(ban_item[0]), str(ban_item[1]), str(ban_item[3]), str(ban_item[4])])
+			
+			# Write to the final table E
 			csv_file.writerow([matched_count, title, author, isbn13, publication, published_date, ratings, genre, reviews, avg_rating, lang])
 		except KeyError:
 			matched_count -= 1
