@@ -46,8 +46,8 @@ index		Column
 0			Original_Title
 1			Author
 2			ISBN13
-4			Publisher
-5			Published_Date
+3			Publisher
+4			Published_Date
 '''
 
 for row in ban:
@@ -68,7 +68,7 @@ for key in ban_dict:
 print ban_count
 '''
 
-with open('merged.csv', "w") as file:
+with open('merged.csv', "wb") as file:
 	csv_file = csv.writer(file)
 
 	matched_count = 0
@@ -76,8 +76,64 @@ with open('merged.csv', "w") as file:
 		try:
 			matched_count += 1
 			#print str(matched_count) + " : " +  row[1] + " : " + str(gr_dict[row[1]]['Original_Title'].encode(encoding="utf-8")) + row[2] + " : " + str(ban_dict[row[2]][0])
-			#TODO(all): Add rules to process before adding
-			csv_file.writerow([matched_count, row[1], str(gr_dict[row[1]]['Original_Title'].encode(encoding="utf-8")), row[2], str(ban_dict[row[2]][0])])
 			
+			gr_item = gr_dict[row[1]]
+			ban_item = ban_dict[row[2]]
+			
+			key = matched_count
+			title = ""
+			title_from_gr = None
+			author = ""
+			isbn13 = ""
+			publication = ""
+			
+			#Rule 1 for title : Pick the one which is longest
+			if len(str(gr_item['Original_Title'].encode(encoding="utf-8"))) >= len(str(ban_item[0])):
+				title = str(gr_item['Original_Title'].encode(encoding="utf-8"))
+				title_from_gr = True
+			else :
+				title = str(ban_item[0])
+				title_from_gr = False
+				
+			#Rule 2 for author : Pick the one which is longest
+			if len(str(gr_item['Author'].encode(encoding="utf-8"))) >= len(str(ban_item[1])):
+				author = str(gr_item['Author'].encode(encoding="utf-8"))
+			else :
+				author = str(ban_item[1])
+			
+			#Rule 3 for ISBN-13: Take ISBN-13 from the matched keys obtained from Magellan from the source you picked title from
+			#Rule 4 for Publisher: Take from the source you picked title from
+			if title_from_gr :
+				isbn13 = row[1]
+				publication = str(gr_item['Publication'].encode(encoding="utf-8"))
+			else :
+				isbn13 = row[2]
+				publication = str(ban_item[3])
+			
+			#Rule 5 for Published Date: Always take from BAN
+			published_date = str(ban_item[4])
+			
+			#Rule 6 for Ratings, Genres, Reviews, Average Rating, Language: Always pick from Goodreads as none of them are present in BAN
+			ratings = str(gr_item['Ratings'].encode(encoding="utf-8"))
+			reviews = str(gr_item['Reviews'].encode(encoding="utf-8"))
+			avg_rating = str(gr_item['Average_Rating'].encode(encoding="utf-8"))
+			lang = str(gr_item['Edition_Language'].encode(encoding="utf-8"))
+			
+			#Genres
+			genres = gr_item['Genres']
+			genre = ""
+			i = 0
+			for g in genres:
+				if i == (len(genres) - 1):
+					genre += str(g.encode(encoding="utf-8"))
+					
+				else :
+					genre += str(g.encode(encoding="utf-8"))
+					genre += ", "
+				i += 1
+			
+			#csv_file.writerow([matched_count, row[1], str(gr_item['Original_Title'].encode(encoding="utf-8")), str(gr_item['Author'].encode(encoding="utf-8")), str(gr_item['Publication'].encode(encoding="utf-8")), row[2], str(ban_item[0]), str(ban_item[1]), str(ban_item[3]), str(ban_item[4])])
+			csv_file.writerow([matched_count, title, author, isbn13, publication, published_date, ratings, genre, reviews, avg_rating, lang])
 		except KeyError:
-				continue
+			matched_count -= 1
+			continue
