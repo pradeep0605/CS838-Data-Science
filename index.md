@@ -4,8 +4,8 @@
 <h5> Sowrabha Horatti Gopal  |   Sharath Prabhudeva Hiremath   |   Pradeep Kashyap Ramaswamy </h5>
 </center>
 
-<h1> Project Stage 4-- Combining tables </h1>
-In the fourth stage of the project, we performed the integration of matched tuples from the two data sources, that we obtained by applying the matcher selected from Stage 3. We combined the two tables into one final table E.
+<h1> Project Stage 4 -- Combining tables </h1>
+In the fourth stage of the project, we performed the integration of matched tuples from the two data sources that we obtained by applying the matcher selected from Stage 3. We combined the two tables into one final table E.
 
 <b> The links to the project deliverables are listed below - </b>
 <ul> 
