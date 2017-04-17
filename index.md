@@ -4,8 +4,8 @@
 <h5> Sowrabha Horatti Gopal  |   Sharath Prabhudeva Hiremath   |   Pradeep Kashyap Ramaswamy </h5>
 </center>
 
-<!-- h1> Project Stage 4-- Combining tables </h1>
-In the fourth stage of the project, we performed the integration of matched tuples from the two data sources, that we obtained by applying the matcher selected from Stage 3. We combined the two tables into one final table E.
+<h1> Project Stage 4 -- Combining tables </h1>
+In the fourth stage of the project, we performed the integration of matched tuples from the two data sources that we obtained by applying the matcher selected from Stage 3. We combined the two tables into one final table E.
 
 <b> The links to the project deliverables are listed below - </b>
 <ul> 
@@ -14,7 +14,7 @@ In the fourth stage of the project, we performed the integration of matched tupl
 <li> <a href="https://github.com/pradeep0605/CS838-Data-Science/blob/master/Phase4/Merge.py"> Python Script to Merge Tables</a> </li>
 <li> <a href="https://github.com/pradeep0605/CS838-Data-Science/blob/master/Phase4/DS_project_stage4.pdf"> Report</a> </li>
 <li> <a href="https://github.com/pradeep0605/CS838-Data-Science/blob/master/Phase3/code/EntityMatching.ipynb"> Jupyter Notebook</a> </li>
-</ul-->
+</ul>
 
 <h1> Project Stage 3 -- Entity Matching</h1>
 In this project stage, we are performing entity matching on the two datasets containing book details that we collected in Stage 1.
