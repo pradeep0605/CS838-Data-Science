@@ -4,14 +4,15 @@
 <h5> Sowrabha Horatti Gopal  |   Sharath Prabhudeva Hiremath   |   Pradeep Kashyap Ramaswamy </h5>
 </center>
 
-<!--h1> Project Stage 5 -- Data Analysis </h1>
-In the fifth and final stage of the project, we performed Data Analysis on the the clean and integrated data that we had obtained from Stage 4.
+<h1> Project Stage 5 -- Data Analysis </h1>
+In the fifth and final stage of the project, we performed Data Analysis on the the clean and integrated data that we had obtained from Stage 4. we found some insights which can be found in the report linked below.
 
 <b> The links to the project deliverables are listed below - </b>
 <ul> 
 <li> <a href="https://github.com/pradeep0605/CS838-Data-Science/blob/master/Phase4/merged_table.csv"> Final Table E</a> </li>
 <li> <a href="https://github.com/pradeep0605/CS838-Data-Science/blob/master/Phase5/DS_project_stage5.pdf"> Report</a> </li>
-</ul-->
+<li> <a href="https://github.com/pradeep0605/CS838-Data-Science/blob/master/Phase5/DataAnalysis.ipynb"> Jupyter Notebook</a> </li>
+</ul>
 
 <h1> Project Stage 4 -- Combining tables </h1>
 In the fourth stage of the project, we performed the integration of matched tuples from the two data sources that we obtained by applying the matcher selected from Stage 3. We combined the two tables into one final table E.
